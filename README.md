@@ -31,7 +31,7 @@ CHINA, 410083
 Installation and operation of ARC 
 ==================================
 
-###1)Dependencies
+### 1)Dependencies
 
 When running ARC from GitHub source the following tools are
 required:
@@ -43,7 +43,7 @@ required:
 * [Abyss.2.0.2](http://www.bcgsc.ca/platform/bioinfo/software/abyss)
 * [quast.4.3](https://sourceforge.net/projects/quast/files/)
 
-###2)System Requirements
+### 2)System Requirements
 
 Compiling BLESS requires MPI libraries. The latest version of BLESS was tested
 with GCC 4.9.2, MPICH 3.1.3 (or OpenMPI 1.8.2).
@@ -76,12 +76,12 @@ basic UNIX tools (make, sh, sed, awk, ar).
 In addition, QUAST submodules require:Java JDK (tested with OpenJDK 6) for GAGE.
 Time::HiRes perl module for GeneMark-ES;Boost (tested with v1.56.0) for E-MEM.
 
-###3)Install auxiliary tools
+### 3)Install auxiliary tools
 
 When running ARC from GitHub source all the tools listed in 1) should be installed.
 For specific installation methods,please read the README file of each tool carefully.
 
-###4)Add system environment variables
+### 4)Add system environment variables
 The user can modify the system environment variables with the following commands:
 
 sudo vim /etc/profile
@@ -97,12 +97,12 @@ export PATH="$JAVA_HOME:$SOAPdenovo2_HOME:$Bless_HOME:$Bowtie_Home:$DSK_HOME:$Ab
 
 source /etc/profile
  
-###5)Install ARC
+### 5)Install ARC
 
 ARC automatically compiles all its sub-parts when needed (on the first use). 
 Thus, installation is not required.
 
-###6)Run ARC.
+### 6)Run ARC.
 
 #### Loading lib to ARC-master
     
@@ -242,7 +242,7 @@ Thus, installation is not required.
 	chmod -R 777  ARC-master
 	cd ARC-master
 
-###7)Output.
+### 7)Output.
 
 #### The final contigs and scaffolds.
   
