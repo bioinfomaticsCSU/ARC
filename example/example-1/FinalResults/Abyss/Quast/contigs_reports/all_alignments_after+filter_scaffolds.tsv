@@ -1,0 +1,413 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+1472963	1529025	56063	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	3	99.99		True
+CONTIG	3	56063	correct
+1121225	1168575	1	47351	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	6	100.0		True
+CONTIG	6	47351	correct
+2431910	2478377	1	46468	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	7	100.0		True
+CONTIG	7	46468	correct
+1032848	1072193	39346	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	12	99.99		True
+CONTIG	12	39346	correct
+170117	208071	37956	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	13	99.97		True
+CONTIG	13	37956	correct
+518314	556117	1	37804	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	14	100.0		True
+CONTIG	14	37804	correct
+1384930	1422723	37794	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	15	99.99		True
+CONTIG	15	37794	correct
+2254659	2292205	37547	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	16	99.98		True
+CONTIG	16	37547	correct
+2389235	2426413	37179	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	17	100.0		True
+CONTIG	17	37179	correct
+671687	705084	1	33398	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	23	100.0		True
+CONTIG	23	33398	correct
+1172516	1204993	1	32478	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	24	100.0		True
+CONTIG	24	32478	correct
+2830485	2862443	31959	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	25	100.0		True
+CONTIG	25	31959	correct
+811460	842892	31433	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	28	100.0		True
+CONTIG	28	31433	correct
+2145679	2176344	30666	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	31	99.99		True
+CONTIG	31	30666	correct
+2181578	2211178	1	29598	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	37	99.98		True
+CONTIG	37	29598	correct
+2347067	2375918	1	28852	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	38	100.0		True
+CONTIG	38	28852	correct
+2319262	2347066	27805	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	42	100.0		True
+CONTIG	42	27805	correct
+2580730	2605865	1	25140	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	47	99.98		True
+CONTIG	47	25140	correct
+1562508	1586044	1	23537	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	48	99.99		True
+CONTIG	48	23537	correct
+2088162	2111685	1	23524	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	49	99.99		True
+CONTIG	49	23524	correct
+2555594	2579078	1	23485	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	50	99.99		True
+CONTIG	50	23485	correct
+2007064	2030219	1	23156	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	51	100.0		True
+CONTIG	51	23156	correct
+1098262	1121239	22978	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	52	100.0		True
+CONTIG	52	22978	correct
+2121709	2144160	22452	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	53	100.0		True
+CONTIG	53	22452	correct
+470476	491837	1	21362	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	54	99.87		True
+CONTIG	54	21362	correct
+2534667	2555261	1	20595	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	55	100.0		True
+CONTIG	55	20595	correct
+1873991	1892677	1	18687	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	58	99.99		True
+CONTIG	58	18687	correct
+319059	336381	17323	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	63	100.0		True
+CONTIG	63	17323	correct
+2072018	2088191	1	16174	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	66	99.99		True
+CONTIG	66	16174	correct
+1752743	1768086	15344	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	71	100.0		True
+CONTIG	71	15344	correct
+1924600	1937073	1	12473	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	79	99.96		True
+CONTIG	79	12473	correct
+1457710	1469929	12220	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	82	99.92		True
+CONTIG	82	12220	correct
+1899232	1910701	1	11470	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	85	99.99		True
+CONTIG	85	11470	correct
+801966	811324	9359	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	91	100.0		True
+CONTIG	91	9359	correct
+44174	52518	8346	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	99	99.34		True
+CONTIG	99	8346	correct
+4314	12587	8301	1	gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence	100	99.64		True
+CONTIG	100	8301	correct
+2822300	2830479	1	8182	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	101	99.16		True
+CONTIG	101	8182	correct
+898966	906947	1	7982	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	102	100.0		True
+CONTIG	102	7982	correct
+20933	27041	1	6108	gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence	106	99.98		True
+fake: not a misassembly (linear representation of circular genome)
+1	1489	6109	7597	gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence	106	98.72		True
+CONTIG	106	7597	correct
+69213	76264	1	7052	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	109	100.0		True
+CONTIG	109	7052	correct
+37470	44277	1	6808	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	111	100.0		True
+CONTIG	111	6808	correct
+1586094	1592095	6002	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	116	100.0		True
+CONTIG	116	6002	correct
+1893442	1899261	5820	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	119	99.97		True
+CONTIG	119	5820	correct
+2426387	2431723	5337	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	122	100.0		True
+CONTIG	122	5337	correct
+843001	848277	1	5277	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	123	100.0		True
+CONTIG	123	5277	correct
+1380749	1384947	1	4199	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	132	100.0		True
+CONTIG	132	4199	correct
+1168604	1172454	3851	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	135	100.0		True
+CONTIG	135	3851	correct
+614412	617939	1	3528	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	138	100.0		True
+CONTIG	138	3528	correct
+514469	517814	3524	179	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	139	99.94		True
+CONTIG	139	3524	correct
+17012	20489	3478	1	gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence	141	100.0		True
+CONTIG	141	3478	correct
+1749267	1752688	3422	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	142	100.0		True
+CONTIG	142	3422	correct
+13123	16445	1	3323	gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence	143	100.0		True
+CONTIG	143	3323	correct
+352259	355439	3181	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	144	100.0		True
+CONTIG	144	3181	correct
+2607105	2610244	3140	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	145	100.0		True
+CONTIG	145	3140	correct
+618914	621870	2957	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	146	100.0		True
+CONTIG	146	2957	correct
+1559521	1562448	2928	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	147	100.0		True
+CONTIG	147	2928	correct
+2864027	2866799	2773	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	148	100.0		True
+CONTIG	148	2773	correct
+1470085	1472761	1	2677	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	149	100.0		True
+CONTIG	149	2677	correct
+2610425	2612722	2298	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	150	99.83		True
+CONTIG	150	2298	correct
+562108	564369	1	2262	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	151	99.51		True
+CONTIG	151	2262	correct
+1937044	1939220	1	2177	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	153	99.45		True
+CONTIG	153	2177	correct
+464574	466687	2114	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	155	100.0		True
+CONTIG	155	2114	correct
+1497	3588	1	2092	gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence	156	100.0		True
+CONTIG	156	2092	correct
+345213	346983	1771	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	157	99.55		True
+CONTIG	157	1771	correct
+467841	469438	1598	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	160	100.0		True
+CONTIG	160	1598	correct
+450595	452178	1	1584	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	161	99.56		True
+CONTIG	161	1584	correct
+2579063	2580522	1460	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	165	100.0		True
+CONTIG	165	1460	correct
+2144203	2145596	1394	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	167	100.0		True
+CONTIG	167	1394	correct
+1601192	1602556	1365	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	168	99.85		True
+CONTIG	168	1365	correct
+2030259	2031620	1	1362	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	169	100.0		True
+CONTIG	169	1362	correct
+451999	453294	1	1297	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	172	99.38		True
+CONTIG	172	1297	correct
+67345	68598	1	1254	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	174	99.84		True
+CONTIG	174	1254	correct
+2220689	2221832	1	1144	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	178	100.0		True
+CONTIG	178	1144	correct
+68059	69199	1141	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	179	99.82		True
+CONTIG	179	1141	correct
+1557357	1558496	1140	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	180	99.56		True
+CONTIG	180	1140	correct
+2863016	2864031	1	1016	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	181	100.0		True
+CONTIG	181	1016	correct
+110505	111101	314	910	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	184	95.48		True
+CONTIG	184	910	correct
+1940198	1941066	869	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	185	100.0		True
+CONTIG	185	869	correct
+1941075	1941934	860	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	186	98.26		True
+CONTIG	186	860	correct
+36502	37339	838	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	187	99.88		True
+CONTIG	187	838	correct
+3570	4396	827	1	gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence	188	98.43		True
+CONTIG	188	827	correct
+1600418	1601221	804	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	190	100.0		True
+CONTIG	190	804	correct
+2862273	2863045	1	773	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	191	99.35		True
+CONTIG	191	773	correct
+463795	464564	770	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	192	99.87		True
+CONTIG	192	770	correct
+350072	350815	744	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	193	100.0		True
+CONTIG	193	744	correct
+344361	345102	742	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	194	97.17		True
+CONTIG	194	742	correct
+348523	349258	1	740	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	195	98.78		True
+CONTIG	195	740	correct
+448670	449401	1	732	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	196	100.0		True
+CONTIG	196	732	correct
+449304	450023	1	720	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	197	100.0		True
+CONTIG	197	720	correct
+1593200	1593919	720	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	198	100.0		True
+CONTIG	198	720	correct
+66281	66994	1	714	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	199	100.0		True
+CONTIG	199	714	correct
+348858	349539	1	682	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	202	99.71		True
+CONTIG	202	682	correct
+348858	349539	682	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	203	96.77		True
+CONTIG	203	682	correct
+349369	350049	681	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	204	100.0		True
+CONTIG	204	681	correct
+1558472	1559125	1	654	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	206	100.0		True
+CONTIG	206	654	correct
+449994	450624	631	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	208	100.0		True
+CONTIG	208	631	correct
+351855	352396	542	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	210	99.82		True
+CONTIG	210	542	correct
+2863685	2864197	513	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	213	100.0		True
+CONTIG	213	513	correct
+2111656	2112162	1	507	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	215	100.0		True
+CONTIG	215	507	correct
+1290010	1303056	13022	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	240_97755_0_1-_80N_35-	99.92		True
+indel: indel (> 5bp)
+1235331	1290034	67701	13023	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	240_97755_0_1-_80N_35-	99.95		True
+indel: indel (> 5bp)
+1205341	1235344	97755	67752	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	240_97755_0_1-_80N_35-	100.0		True
+CONTIG	240_97755_0_1-_80N_35-	97755	correct
+208055	276563	1	68548	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	241_110888_0_2__..._121_	99.93		True
+indel: indel (> 5bp)
+276550	295647	68599	87696	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	241_110888_0_2__..._121_	100.0		True
+indel: indel (> 5bp)
+295620	302422	87747	94549	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	241_110888_0_2__..._121_	100.0		True
+indel: indel (> 5bp)
+302398	302935	94600	95137	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	241_110888_0_2__..._121_	100.0		True
+indel: indel (> 5bp)
+303106	318691	95282	110888	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	241_110888_0_2__..._121_	99.68		True
+CONTIG	241_110888_0_2__..._121_	110888	correct
+564363	613500	1	49139	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	242_104554_0_5__..._97-	99.99		True
+relocation, inconsistency = 3985
+622732	639448	54386	71102	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	242_104554_0_5__..._97-	100.0		True
+indel: indel (> 5bp)
+639421	657992	71153	89756	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	242_104554_0_5__..._97-	99.7		True
+local misassembly
+657586	658201	89807	90422	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	242_104554_0_5__..._97-	99.19		True
+local misassembly
+658080	662817	90473	95210	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	242_104554_0_5__..._97-	99.68		True
+local misassembly
+662411	671624	95261	104554	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	242_104554_0_5__..._97-	98.92		True
+CONTIG	242_104554_0_5__..._97-	104554	misassembled
+1344342	1380503	36162	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	243_77836_0_18-_..._10-	100.0		True
+local misassembly
+1303044	1344587	77836	36213	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	243_77836_0_18-_..._10-	99.8		True
+CONTIG	243_77836_0_18-_..._10-	77836	correct
+2739881	2774765	34885	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	244_75590_0_19-_..._45_	100.0		True
+indel: indel (> 5bp)
+2725148	2739909	49697	34936	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	244_75590_0_19-_..._45_	100.0		True
+indel: indel (> 5bp)
+2699334	2725176	75590	49748	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	244_75590_0_19-_..._45_	99.99		True
+CONTIG	244_75590_0_19-_..._45_	75590	correct
+2665109	2699192	34084	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	245_65047_0_20__80N_29_	99.99		True
+local misassembly
+2634049	2664883	65047	34217	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	245_65047_0_20__80N_29_	99.94		True
+CONTIG	245_65047_0_20__80N_29_	65047	correct
+1768088	1801780	1	33693	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	246_105669_0_22__..._107-	100.0		True
+indel: indel (> 5bp)
+1801754	1803226	33744	35216	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	246_105669_0_22__..._107-	98.17		True
+indel: indel (> 5bp)
+1805016	1821520	36967	53471	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	246_105669_0_22__..._107-	99.99		True
+indel: indel (> 5bp)
+1821505	1853331	53522	85348	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	246_105669_0_22__..._107-	100.0		True
+indel: indel (> 5bp)
+1853317	1873589	85399	105669	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	246_105669_0_22__..._107-	99.37		True
+CONTIG	246_105669_0_22__..._107-	105669	correct
+2041200	2071703	30504	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	247_39769_0_32__80N_93-	99.92		True
+indel: indel (> 5bp)
+2031854	2041068	39769	30555	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	247_39769_0_32__80N_93-	100.0		True
+CONTIG	247_39769_0_32__80N_93-	39769	correct
+1664899	1695101	30185	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	248_92588_0_34-_..._120-	99.94		True
+indel: indel (> 5bp)
+1636635	1664904	58505	30236	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	248_92588_0_34-_..._120-	100.0		True
+indel: indel (> 5bp)
+1608755	1636661	86462	58556	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	248_92588_0_34-_..._120-	100.0		True
+indel: indel (> 5bp)
+1602585	1608230	92588	86943	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	248_92588_0_34-_..._120-	100.0		True
+CONTIG	248_92588_0_34-_..._120-	92588	correct
+705188	800924	1	95798	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	249_96661_0_44__..._189_	99.89		True
+CONTIG	249_96661_0_44__..._189_	96661	correct
+2479015	2504845	1	25831	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	250_55583_0_46-_80N_36_	100.0		True
+indel: indel (> 5bp)
+2504959	2534660	25882	55583	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	250_55583_0_46-_80N_36_	100.0		True
+CONTIG	250_55583_0_46-_80N_36_	55583	correct
+2775583	2822311	46768	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	251_46768_0_59__80N_40-	99.88		True
+CONTIG	251_46768_0_59__80N_40-	46768	correct
+112772	128885	16090	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	252_54151_0_68__..._73_	99.85		True
+relocation, inconsistency = -1521
+97351	110211	33032	20172	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	252_54151_0_68__..._73_	99.9		True
+local misassembly
+76859	97815	54151	33083	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	252_54151_0_68__..._73_	99.31		True
+CONTIG	252_54151_0_68__..._73_	54151	misassembled
+1443731	1457024	13294	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	253_34134_0_75__..._136_	100.0		True
+local misassembly
+1427034	1442988	29860	13914	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	253_34134_0_75__..._136_	99.93		True
+indel: indel (> 5bp)
+1422698	1426541	34134	30291	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	253_34134_0_75__..._136_	100.0		True
+CONTIG	253_34134_0_75__..._136_	34134	correct
+2375914	2389059	13146	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	254_67364_0_76__..._9_	100.0		True
+relocation, inconsistency = 626568
+1740556	1749295	21936	13197	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	254_67364_0_76__..._9_	99.99		True
+indel: indel (> 5bp)
+1695201	1740573	67364	21987	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	254_67364_0_76__..._9_	99.99		True
+CONTIG	254_67364_0_76__..._9_	67364	misassembled
+2296129	2308365	1	12237	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	255_21445_0_81-_80N_95-	100.0		True
+indel: indel (> 5bp)
+2308358	2317515	12288	21445	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	255_21445_0_81-_80N_95-	100.0		True
+CONTIG	255_21445_0_81-_80N_95-	21445	correct
+491822	503575	1	11754	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	256_20966_0_83-_80N_94-	99.99		True
+indel: indel (> 5bp)
+503546	512707	11805	20966	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	256_20966_0_83-_80N_94-	100.0		True
+CONTIG	256_20966_0_83-_80N_94-	20966	correct
+24303	35906	11604	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	257_41878_0_84__80N_33-	100.0		True
+indel: indel (> 5bp)
+1	24207	35861	11655	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	257_41878_0_84__80N_33-	100.0		True
+fake: not a misassembly (linear representation of circular genome)
+2866899	2872915	41878	35862	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	257_41878_0_84__80N_33-	100.0		True
+CONTIG	257_41878_0_84__80N_33-	41878	correct
+159139	169912	10774	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	258_41576_0_86__80N_30_	99.95		True
+local misassembly
+129030	159781	41576	10825	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	258_41576_0_86__80N_30_	99.99		True
+CONTIG	258_41576_0_86__80N_30_	41576	correct
+1088138	1098080	9943	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	259_25843_0_89__80N_70-	100.0		True
+indel: indel (> 5bp)
+1072303	1088152	25843	9994	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	259_25843_0_89__80N_70-	100.0		True
+CONTIG	259_25843_0_89__80N_70-	25843	correct
+52969	62350	1	9382	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	260_13456_0_90__80N_133_	99.94		True
+local misassembly
+61811	65834	9433	13456	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	260_13456_0_90__80N_133_	99.85		True
+CONTIG	260_13456_0_90__80N_133_	13456	correct
+2211268	2220696	9455	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	261_9455_0_103__80N_159-	99.45		True
+CONTIG	261_9455_0_103__80N_159-	9455	correct
+336354	344054	1	7701	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	262_124318_0_105-_..._131_	100.0		True
+local misassembly
+346977	347671	10466	11160	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	262_124318_0_105-_..._131_	100.0		True
+relocation, inconsistency = 4710
+355442	394815	14221	53594	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	262_124318_0_105-_..._131_	99.99		True
+local misassembly
+394963	413391	53645	72073	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	262_124318_0_105-_..._131_	100.0		True
+indel: indel (> 5bp)
+413363	448699	72124	107509	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	262_124318_0_105-_..._131_	99.85		True
+indel: indel (> 5bp)
+453116	458977	111889	117751	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	262_124318_0_105-_..._131_	99.91		True
+relocation, inconsistency = -1716
+457312	463748	117802	124318	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	262_124318_0_105-_..._131_	98.7		True
+CONTIG	262_124318_0_105-_..._131_	124318	misassembled
+848618	855741	1	7124	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	263_50320_0_108__..._110_	100.0		True
+indel: indel (> 5bp)
+855714	875060	7175	26521	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	263_50320_0_108__..._110_	99.99		True
+local misassembly
+875544	891679	26851	42986	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	263_50320_0_108__..._110_	100.0		True
+indel: indel (> 5bp)
+892014	899053	43281	50320	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	263_50320_0_108__..._110_	100.0		True
+CONTIG	263_50320_0_108__..._110_	50320	correct
+1917801	1924587	6787	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	264_12814_0_113-_80N_117_	99.99		True
+local misassembly
+1912479	1918455	12814	6838	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	264_12814_0_113-_80N_117_	99.98		True
+CONTIG	264_12814_0_113-_80N_117_	12814	correct
+2247983	2254688	6706	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	265_32992_0_114__..._74-	100.0		True
+indel: indel (> 5bp)
+2235565	2247985	19187	6757	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	265_32992_0_114__..._74-	99.92		True
+indel: indel (> 5bp)
+2221833	2235587	32992	19238	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	265_32992_0_114__..._74-	100.0		True
+CONTIG	265_32992_0_114__..._74-	32992	correct
+1594191	1600576	6386	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	266_11829_0_115__..._205-	100.0		True
+indel: indel (> 5bp)
+1592066	1592572	8457	7951	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	266_11829_0_115__..._205-	98.22		True
+relocation, inconsistency = -3753
+1592447	1593111	11829	11165	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	266_11829_0_115__..._205-	99.4		True
+CONTIG	266_11829_0_115__..._205-	11829	misassembled
+1956959	1961540	4582	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	267_18501_0_127-_..._78-	100.0		True
+indel: indel (> 5bp)
+1955796	1956980	5817	4633	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	267_18501_0_127-_..._78-	100.0		True
+indel: indel (> 5bp)
+1943186	1955819	18501	5868	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	267_18501_0_127-_..._78-	100.0		True
+CONTIG	267_18501_0_127-_..._78-	18501	correct
+1994285	1995851	1568	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	268_35325_0_162-_80N_21_	99.81		True
+relocation, inconsistency = -1544
+1962073	1995778	35325	1619	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	268_35325_0_162-_80N_21_	99.99		True
+CONTIG	268_35325_0_162-_80N_21_	35325	misassembled
+907007	954526	1	47565	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	269_125929_0_166__..._163-	99.89		True
+indel: indel (> 5bp)
+954633	958576	47639	51582	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	269_125929_0_166__..._163-	100.0		True
+indel: indel (> 5bp)
+958548	1031219	51633	124353	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	269_125929_0_166__..._163-	99.93		True
+indel: indel (> 5bp)
+1031213	1032738	124404	125929	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	269_125929_0_166__..._163-	100.0		True
+CONTIG	269_125929_0_166__..._163-	125929	correct
+1556100	1557422	1323	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	270_28791_0_170__451N_43_	98.41		True
+local misassembly
+1529023	1556069	28791	1745	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	270_28791_0_170__451N_43_	100.0		True
+CONTIG	270_28791_0_170__451N_43_	28791	correct
+1941905	1943213	1309	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	271_4124_0_171__1845N_182-	100.0		True
+local misassembly
+1939191	1940190	4124	3125	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	271_4124_0_171__1845N_182-	100.0		True
+CONTIG	271_4124_0_171__1845N_182-	4124	correct
+2121130	2122114	985	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	272_10287_0_183__80N_92_	99.49		True
+local misassembly
+2112037	2121237	10287	1087	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	272_10287_0_183__80N_92_	99.96		True
+CONTIG	272_10287_0_183__80N_92_	10287	correct
+467198	467837	1	640	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	273_7039_0_207-_..._233-	100.0		True
+466595	467290	3119	3814	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	273_7039_0_207-_..._233-	100.0		True
+470044	470277	6806	7039	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	273_7039_0_207-_..._233-	99.57		True
+CONTIG	273_7039_0_207-_..._233-	7039	misassembled
+2632835	2633214	380	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	274_28642_0_220__..._173_	98.42		True
+local misassembly
+2629698	2633112	3845	431	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	274_28642_0_220__..._173_	99.3		True
+indel: indel (> 5bp)
+2629579	2629655	3922	3846	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	274_28642_0_220__..._173_	99.33		True
+indel: indel (> 5bp)
+2625008	2629608	8573	3973	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	274_28642_0_220__..._173_	99.87		True
+indel: indel (> 5bp)
+2624339	2624653	9224	8910	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	274_28642_0_220__..._173_	98.1		True
+local misassembly
+2613682	2623951	20270	10001	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	274_28642_0_220__..._173_	99.92		True
+local misassembly
+2612694	2613923	21550	20321	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	274_28642_0_220__..._173_	99.51		True
+local misassembly
+2610225	2610454	24294	24065	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	274_28642_0_220__..._173_	100.0		True
+indel: indel (> 5bp)
+2605842	2607134	28642	27350	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	274_28642_0_220__..._173_	100.0		True
+CONTIG	274_28642_0_220__..._173_	28642	correct
+2006714	2007074	361	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	275_5498_0_223__304N_124-	100.0		True
+local misassembly
+2001825	2006686	5498	636	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	275_5498_0_223__304N_124-	99.73		True
+CONTIG	275_5498_0_223__304N_124-	5498	correct

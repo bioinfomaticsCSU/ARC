@@ -1,0 +1,379 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+306494	393723	87233	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	13	99.99		True
+CONTIG	13	87233	correct
+770922	850027	79116	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	17	99.96		True
+CONTIG	17	79116	correct
+816586	849987	33381	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	11	99.94		True
+indel: indel (> 5bp)
+761585	816605	88378	33382	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	11	99.88		True
+CONTIG	11	88378	correct
+2774259	2861772	87527	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	12	99.98		True
+CONTIG	12	87527	correct
+2176197	2238868	1	62640	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	19	99.93		True
+indel: indel (> 5bp)
+2238839	2253117	62641	76886	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	19	99.78		True
+CONTIG	19	76886	correct
+1057126	1199705	142574	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	8	99.92		True
+CONTIG	8	142574	correct
+2166860	2177822	10963	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	7	99.94		True
+indel: indel (> 5bp)
+2033760	2166811	144021	10964	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	7	99.95		True
+CONTIG	7	144021	correct
+1741961	1828820	1	86865	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	14	99.88		True
+CONTIG	14	86865	correct
+904476	1056982	1	152491	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	5	99.92		True
+CONTIG	5	152491	correct
+1199759	1376145	1	176402	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	3	99.97		True
+CONTIG	3	176402	correct
+55475	100819	1	45350	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	28	99.96		True
+CONTIG	28	45445	correct
+2472442	2485958	1	13489	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	26	99.92		True
+indel: indel (> 5bp)
+2485931	2522150	13490	49681	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	26	99.92		True
+CONTIG	26	49681	correct
+698905	770838	1	71932	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	21	99.96		True
+CONTIG	21	71932	correct
+175454	224231	1	48784	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	27	99.99		True
+CONTIG	27	48784	correct
+18098	81417	1	63319	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	24	99.99		True
+CONTIG	24	63319	correct
+2339530	2412425	1	72895	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	20	99.91		True
+CONTIG	20	72895	correct
+2283935	2339483	1	55538	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	25	99.9		True
+CONTIG	25	55538	correct
+1828897	1978116	1	149224	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	6	99.96		True
+CONTIG	6	149224	correct
+2670212	2715349	45136	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	29	99.96		True
+CONTIG	29	45136	correct
+1436379	1475806	39428	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	33	100.0		True
+CONTIG	33	39428	correct
+608840	645984	1	37155	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	36	99.9		True
+CONTIG	36	37155	correct
+850175	888692	38520	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	34	99.99		True
+CONTIG	34	38520	correct
+434949	503977	69036	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	22	99.97		True
+CONTIG	22	69036	correct
+1999386	2033703	34318	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	38	100.0		True
+CONTIG	38	34318	correct
+2522279	2565606	1	43324	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	31	99.9		True
+CONTIG	31	43324	correct
+504010	537597	1	33596	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	41	99.97		True
+CONTIG	41	33596	correct
+2715437	2759863	1	44433	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	30	99.94		True
+CONTIG	30	44433	correct
+64	33164	1	33101	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	43	99.99		True
+CONTIG	43	33101	correct
+393812	426962	33148	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	42	99.93		True
+CONTIG	42	33148	correct
+42214	70554	1	28341	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	46	100.0		True
+CONTIG	46	28341	correct
+74511	105281	1	30771	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence	44	99.8		True
+fake: not a misassembly (linear representation of circular genome)
+1	949	30772	31720	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence	44	100.0		True
+CONTIG	44	31720	correct
+2426	36110	1	33688	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	40	99.95		True
+CONTIG	40	33688	correct
+71527	99755	28229	1	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	47	99.99		True
+CONTIG	47	28229	correct
+45088	71700	26613	1	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	49	100.0		True
+CONTIG	49	26613	correct
+48083	52135	1	4053	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	54	100.0		True
+fake: not a misassembly (linear representation of circular genome)
+1	19264	4054	23317	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	54	99.98		True
+CONTIG	54	23317	correct
+850097	884049	33955	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	39	99.85		True
+CONTIG	39	33955	correct
+117158	146765	29616	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	45	99.96		True
+CONTIG	45	29616	correct
+147721	175399	1	27678	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	48	99.94		True
+CONTIG	48	27678	correct
+2646867	2670059	23193	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	55	100.0		True
+CONTIG	55	23193	correct
+921142	942756	1	21615	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	58	99.86		True
+CONTIG	58	21615	correct
+712939	737347	2	24412	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	51	99.96		True
+CONTIG	51	24412	correct
+253340	288988	1	35643	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	37	99.9		True
+CONTIG	37	35643	correct
+339473	361764	22293	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	56	99.99		True
+CONTIG	56	22293	correct
+1978212	1998964	1	20755	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	60	99.99		True
+CONTIG	60	20755	correct
+577783	601459	1	23674	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	53	99.98		True
+CONTIG	53	23674	correct
+287817	307665	1	19849	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	63	99.98		True
+CONTIG	63	19849	correct
+884159	904461	20300	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	61	99.98		True
+CONTIG	61	20300	correct
+500238	519749	19517	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	66	99.97		True
+CONTIG	66	19517	correct
+904171	922431	1	18261	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	69	99.75		True
+CONTIG	69	18261	correct
+104758	124282	19525	1	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	65	99.99		True
+CONTIG	65	19525	correct
+1416018	1436250	1	20241	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	62	99.96		True
+CONTIG	62	20241	correct
+43025	60156	1	17132	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	70	99.94		True
+CONTIG	70	17132	correct
+2457351	2472350	14998	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	73	99.97		True
+CONTIG	73	14998	correct
+2759905	2774217	1	14311	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	74	99.98		True
+CONTIG	74	14311	correct
+559132	577764	1	18634	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	68	99.93		True
+CONTIG	68	18634	correct
+70647	243655	173022	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	4	99.96		True
+CONTIG	4	173022	correct
+744735	758884	1	14150	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	75	100.0		True
+CONTIG	75	14150	correct
+97456	117121	19668	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	64	99.93		True
+CONTIG	64	19668	correct
+31042	43349	1	12308	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	76	99.99		True
+CONTIG	76	12308	correct
+427042	434899	1	7858	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	82	99.99		True
+CONTIG	82	7858	correct
+243777	252293	1	8517	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	81	99.99		True
+CONTIG	81	8517	correct
+2426	18058	1	15633	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	72	100.0		True
+CONTIG	72	15633	correct
+3180865	3188348	1	7484	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	84	100.0		True
+CONTIG	84	7484	correct
+2938337	3180798	1	242488	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	1	99.97		True
+CONTIG	1	242488	correct
+691861	698741	1	6881	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	87	100.0		True
+CONTIG	87	6881	correct
+361857	371970	1	10114	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	80	99.99		True
+CONTIG	80	10114	correct
+241455	248246	6792	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	90	99.65		True
+CONTIG	90	6792	correct
+657439	668196	1	10752	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	79	99.74		True
+CONTIG	79	10752	correct
+7789	14604	1	6816	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	89	99.77		True
+CONTIG	89	6816	correct
+33614	40485	6872	1	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	88	100.0		True
+CONTIG	88	6872	correct
+36099	42593	1	6495	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	91	100.0		True
+CONTIG	91	6495	correct
+33447	39023	5577	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	92	99.89		True
+CONTIG	92	5577	correct
+27732	39549	11817	1	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	77	99.92		True
+CONTIG	77	11817	correct
+1078	79192	78128	1	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence	18	99.9		True
+CONTIG	18	78128	correct
+888708	893728	1	5021	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	94	99.96		True
+CONTIG	94	5021	correct
+646011	651043	1	5033	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	93	100.0		True
+CONTIG	93	5033	correct
+738570	743355	4786	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	95	98.77		True
+CONTIG	95	4786	correct
+81503	97406	15903	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	71	99.96		True
+CONTIG	71	15903	correct
+230521	234710	4190	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	98	98.57		True
+CONTIG	98	4190	correct
+652688	656877	1	4190	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	99	98.83		True
+CONTIG	99	4190	correct
+235190	239283	1	4094	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	100	98.56		True
+CONTIG	100	4099	correct
+708036	711664	1	3629	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	104	99.75		True
+CONTIG	104	3629	correct
+335287	339346	1	4059	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	101	99.95		True
+CONTIG	101	4059	correct
+100845	104548	1	3704	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	103	100.0		True
+CONTIG	103	3704	correct
+27618	31366	1	3749	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	102	100.0		True
+CONTIG	102	3749	correct
+737204	740672	1	3469	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	106	97.32		True
+CONTIG	106	3469	correct
+248913	251806	1	2894	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	110	99.9		True
+CONTIG	110	2894	correct
+14582	17510	1	2929	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	108	99.39		True
+CONTIG	108	2929	correct
+655372	658279	1	2905	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	109	98.11		True
+CONTIG	109	2905	correct
+668852	672079	1	3234	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	107	99.75		True
+CONTIG	107	3234	correct
+233205	236027	2823	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	113	97.17		True
+CONTIG	113	2823	correct
+42093	44983	1	2891	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	111	100.0		True
+CONTIG	111	2891	correct
+18824	21637	1	2814	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	114	100.0		True
+CONTIG	114	2814	correct
+942525	942929	1	405	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	112	100.0		True
+fake: not a misassembly (linear representation of circular genome)
+1	2437	406	2842	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	112	100.0		True
+CONTIG	112	2842	correct
+147095	149346	1	2252	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	121	99.42		True
+CONTIG	121	2252	correct
+1	2281	2281	1	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	120	100.0		True
+CONTIG	120	2303	correct
+704832	706912	1	2081	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	124	99.42		True
+CONTIG	124	2081	correct
+5033	7059	2027	1	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	125	99.16		True
+CONTIG	125	2027	correct
+32913	34551	1	1639	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	127	100.0		True
+CONTIG	127	1639	correct
+758382	759876	1495	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	129	100.0		True
+CONTIG	129	1495	correct
+651542	652741	1	1200	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	133	99.5		True
+CONTIG	133	1200	correct
+23896	27441	1	3547	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	105	99.63		True
+CONTIG	105	3547	correct
+46541	47766	1226	1	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	132	100.0		True
+CONTIG	132	1226	correct
+39611	42020	1	2410	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	118	100.0		True
+CONTIG	118	2410	correct
+759485	760545	1	1061	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	139	98.11		True
+CONTIG	139	1061	correct
+711477	712493	1	1017	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	142	99.61		True
+CONTIG	142	1017	correct
+651582	652741	1139	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	135	96.21		True
+CONTIG	135	1139	correct
+240744	241846	1103	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	137	97.19		True
+CONTIG	137	1103	correct
+27054	28119	1	1066	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	138	98.59		True
+CONTIG	138	1066	correct
+99746	100271	1	526	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	153	100.0		True
+CONTIG	153	526	correct
+712310	712863	554	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	152	100.0		True
+CONTIG	152	554	correct
+251589	252103	1	515	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	154	99.42		True
+CONTIG	154	515	correct
+248063	249100	1	1038	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	140	100.0		True
+CONTIG	140	1038	correct
+650923	651595	1	673	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	147	99.55		True
+CONTIG	147	673	correct
+668013	669033	1027	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	141	99.12		True
+CONTIG	141	1027	correct
+652073	652994	1	922	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	143	98.16		True
+CONTIG	143	922	correct
+893608	894406	799	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	145	100.0		True
+CONTIG	145	799	correct
+23080	23949	1	870	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	144	100.0		True
+CONTIG	144	870	correct
+1682752	1683538	1	787	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	169_Add	99.11		True
+CONTIG	169_Add	787	correct
+555792	556445	654	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	171_Add	99.69		True
+CONTIG	171_Add	654	correct
+56379	57174	1	796	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	168_Add	99.5		True
+CONTIG	168_Add	796	correct
+982272	982910	639	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	174_Add	99.69		True
+CONTIG	174_Add	639	correct
+425183	425886	1	704	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	170_Add	99.86		True
+CONTIG	170_Add	704	correct
+45282	45906	625	1	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	176_Add	99.68		True
+CONTIG	176_Add	625	correct
+120503	121143	641	1	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	173_Add	99.38		True
+CONTIG	173_Add	641	correct
+638518	639170	653	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	172_Add	99.39		True
+CONTIG	172_Add	653	correct
+4724	5269	546	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	178_Add	100.0		True
+CONTIG	178_Add	546	correct
+23270	24311	1060	1	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	165_Add	98.3		True
+CONTIG	165_Add	1060	correct
+94927	95468	542	1	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	179_Add	99.82		True
+CONTIG	179_Add	542	correct
+10198	10731	1	534	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	182_Add	99.06		True
+CONTIG	182_Add	534	correct
+119432	120431	1	1000	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	166_Add	99.3		True
+CONTIG	166_Add	1000	correct
+40264	40858	595	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	177_Add	99.83		True
+CONTIG	177_Add	595	correct
+50045	50901	1	857	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence	167_Add	99.53		True
+CONTIG	167_Add	857	correct
+86364	86899	1	536	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence	181_Add	99.25		True
+CONTIG	181_Add	536	correct
+122848	123347	500	1	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	185_Add	99.6		True
+CONTIG	185_Add	515	correct
+276755	276832	1	78	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	184_Add	100.0		True
+translocation
+272244	272681	516	79	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	184_Add	100.0		True
+CONTIG	184_Add	516	misassembled
+42579	43098	21	540	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	180_Add	99.81		True
+CONTIG	180_Add	540	correct
+62829	64068	1	1240	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	164_Add	99.52		True
+CONTIG	164_Add	1240	correct
+71941	72447	19	525	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	183_Add	100.0		True
+CONTIG	183_Add	525	correct
+519776	705334	185584	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	2	99.89		True
+CONTIG	2	185584	correct
+56853	57476	633	1	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence	175_Add	98.58		True
+CONTIG	175_Add	633	correct
+2927865	2935708	1	7844	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	425_10432_0_83__104N_116_	100.0		True
+indel: indel (> 5bp)
+2935671	2938258	7846	10433	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	425_10432_0_83__104N_116_	100.0		True
+CONTIG	425_10432_0_83__104N_116_	10433	correct
+21632	27671	1	6061	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	428_6312_0_130__..._417_	99.51		True
+CONTIG	428_6312_0_130__..._417_	6312	correct
+760265	762390	2123	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	427_5688_0_123__..._136-	99.06		True
+translocation
+238903	241276	2174	4547	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	427_5688_0_123__..._136-	99.66		True
+relocation, inconsistency = 1193898
+1435198	1436316	5689	4571	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	427_5688_0_123__..._136-	99.91		True
+CONTIG	427_5688_0_123__..._136-	5689	misassembled
+2412449	2457337	44913	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	421_44911_0_35__104N_85-	99.91		True
+CONTIG	421_44911_0_35__104N_85-	44913	correct
+1376228	1415986	1	39760	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	32	99.72		True
+CONTIG	32	39760	correct
+2320	23291	20973	1	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	424_21245_0_59-_104N_343-	99.98		True
+CONTIG	424_21245_0_59-_104N_343-	21247	correct
+537716	559511	21796	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	423_34904_0_57-_..._126-	100.0		True
+translocation
+894922	906273	33192	21841	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	423_34904_0_57-_..._126-	99.86		True
+translocation
+229169	230877	34905	33194	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	423_34904_0_57-_..._126-	99.59		True
+CONTIG	423_34904_0_57-_..._126-	34905	misassembled
+40463	43152	1	2690	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	426_4856_0_115-_..._155-	99.96		True
+local misassembly
+43298	45012	2699	4413	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	426_4856_0_115-_..._155-	100.0		True
+local misassembly
+44887	45149	4595	4857	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	426_4856_0_115-_..._155-	99.62		True
+CONTIG	426_4856_0_115-_..._155-	4857	correct
+2253248	2279582	26335	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	422_50776_0_50-_104N_52-	99.99		True
+translocation
+1	5334	31672	26337	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	422_50776_0_50-_104N_52-	99.76		True
+fake: not a misassembly (linear representation of circular genome)
+81714	100819	50778	31673	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	422_50776_0_50-_104N_52-	100.0		True
+CONTIG	422_50776_0_50-_104N_52-	50778	misassembled
+43088	43344	1	257	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	432_530_0_276__104N_412-	98.05		True
+translocation
+549874	550055	350	531	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	432_530_0_276__104N_412-	100.0		True
+CONTIG	432_530_0_276__104N_412-	531	misassembled
+672273	673077	805	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	430_1433_0_146-_104N_149_	100.0		True
+local misassembly
+671862	672489	1434	807	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	430_1433_0_146-_104N_149_	100.0		True
+CONTIG	430_1433_0_146-_104N_149_	1434	correct
+2861890	2927806	65916	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	420_70227_0_23__104N_97_	99.96		True
+relocation, inconsistency = 577954
+2279625	2283885	70227	65967	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	420_70227_0_23__104N_97_	99.88		True
+CONTIG	420_70227_0_23__104N_97_	70227	misassembled
+252563	253791	1229	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	429_2453_0_131__..._151_	100.0		True
+local misassembly
+252158	252775	1847	1230	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	429_2453_0_131__..._151_	97.91		True
+local misassembly
+252163	252769	2455	1849	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	429_2453_0_131__..._151_	99.84		True
+CONTIG	429_2453_0_131__..._151_	2455	correct
+672944	691852	18912	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	67	99.97		True
+CONTIG	67	18912	correct
+252366	335170	1	82807	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	419_89800_0_15-_104N_86-	99.99		True
+translocation
+601653	608641	89799	82809	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	419_89800_0_15-_104N_86-	99.97		True
+CONTIG	419_89800_0_15-_104N_86-	89799	misassembled
+744291	744710	420	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	431_6865_0_157__..._158-	100.0		True
+local misassembly
+743193	744386	1615	422	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	431_6865_0_157__..._158-	99.92		True
+translocation
+224243	226485	1617	3859	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	431_6865_0_157__..._158-	100.0		True
+local misassembly
+226278	228876	3861	6459	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	431_6865_0_157__..._158-	100.0		True
+local misassembly
+228753	229114	6507	6868	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	431_6865_0_157__..._158-	100.0		True
+CONTIG	431_6865_0_157__..._158-	6868	misassembled
+515	114178	1	113676	NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence	418_114756_0_10-_104N_148_	99.97		True
+CONTIG	418_114756_0_10-_104N_148_	114766	correct
+372099	500203	128104	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	9	99.94		True
+CONTIG	9	128104	correct
+1475882	1646160	48	170330	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	0	99.95		True
+indel: indel (> 5bp)
+1646168	1741945	170331	266113	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	0	99.92		True
+CONTIG	0	266113	correct
+2565684	2646863	81241	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	16	99.86		True
+CONTIG	16	81241	correct

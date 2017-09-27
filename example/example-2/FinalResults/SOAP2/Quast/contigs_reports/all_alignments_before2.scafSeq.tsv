@@ -1,0 +1,742 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+CONTIG	scaffold3_19.6	634	unaligned
+744475	744638	1	164	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold8_49.8	100.0		True
+local misassembly
+744761	745002	357	598	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold8_49.8	100.0		True
+CONTIG	scaffold8_49.8	598	correct
+234044	235436	1	1393	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold9_52.3	100.0		True
+CONTIG	scaffold9_52.3	1393	correct
+739511	742255	1	2745	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold15_44.6	100.0		True
+CONTIG	scaffold15_44.6	2745	correct
+226554	228676	2161	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold4_54.5	98.24		True
+CONTIG	scaffold4_54.5	2161	correct
+77523	78145	623	1	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence	scaffold22_58.1	100.0		True
+CONTIG	scaffold22_58.1	623	correct
+58487	59109	623	1	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	scaffold23_56.8	100.0		True
+CONTIG	scaffold23_56.8	623	correct
+2514042	2522294	1	8287	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold20_50.6	99.55		True
+CONTIG	scaffold20_50.6	8287	correct
+668985	672130	1	3181	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold14_57.7	98.9		True
+CONTIG	scaffold14_57.7	3373	correct
+854868	875102	1	20338	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold1_52.2	99.36		True
+CONTIG	scaffold1_52.2	20338	correct
+729954	737605	1	7689	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold27_55.1	98.92		True
+CONTIG	scaffold27_55.1	7689	correct
+175309	175860	552	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold6_52.6	99.64		True
+local misassembly
+170458	175411	5507	554	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold6_52.6	99.94		True
+indel: indel (> 5bp)
+166503	170522	9528	5509	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold6_52.6	99.98		True
+indel: indel (> 5bp)
+160396	166523	15672	9545	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold6_52.6	99.98		True
+CONTIG	scaffold6_52.6	15673	correct
+79856	105094	25239	1	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence	scaffold11_60.0	100.0		True
+indel: indel (> 5bp)
+79288	79894	25847	25241	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence	scaffold11_60.0	100.0		True
+CONTIG	scaffold11_60.0	25847	correct
+34601	35561	1	961	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	scaffold29_62.8	100.0		True
+CONTIG	scaffold29_62.8	961	correct
+785246	809731	1	24554	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold18_55.3	99.72		True
+local misassembly
+809603	809769	24556	24722	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold18_55.3	98.2		True
+indel: indel (> 5bp)
+809731	816621	24724	31614	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold18_55.3	99.99		True
+CONTIG	scaffold18_55.3	31614	correct
+82061	84145	1	2085	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	scaffold31_63.7	100.0		True
+CONTIG	scaffold31_63.7	2085	correct
+738445	739307	1	863	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold34_47.6	100.0		True
+CONTIG	scaffold34_47.6	863	correct
+CONTIG	scaffold33_49.3	702	unaligned
+131084	160287	29270	3	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold26_52.0	99.77		True
+CONTIG	scaffold26_52.0	29270	correct
+2310	27305	25181	1	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	scaffold5_58.5	98.79		True
+CONTIG	scaffold5_58.5	25181	correct
+651676	667564	1	15920	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold30_54.8	99.79		True
+indel: indel (> 5bp)
+667620	668016	16008	16404	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold30_54.8	100.0		True
+CONTIG	scaffold30_54.8	16404	correct
+893740	904743	11054	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold36_53.1	99.01		True
+CONTIG	scaffold36_53.1	11054	correct
+712445	729872	1	17464	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold37_53.9	99.78		True
+CONTIG	scaffold37_53.9	17464	correct
+904481	976995	72684	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold21_54.7	99.71		True
+CONTIG	scaffold21_54.7	72684	correct
+42166	45075	1	2910	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	scaffold25_60.7	99.97		True
+indel: indel (> 5bp)
+45099	71575	3009	29514	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	scaffold25_60.7	99.77		True
+CONTIG	scaffold25_60.7	29514	correct
+2410372	2412443	2072	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold38_47.3	99.95		True
+indel: indel (> 5bp)
+2390214	2410409	22301	2074	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold38_47.3	99.79		True
+indel: indel (> 5bp)
+2384986	2390220	27628	22331	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold38_47.3	98.77		True
+CONTIG	scaffold38_47.3	27628	correct
+1376205	1383078	1	6947	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold43_45.1	97.55		True
+indel: indel (> 5bp)
+1383039	1384902	6949	8812	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold43_45.1	100.0		True
+CONTIG	scaffold43_45.1	8816	correct
+27739	28008	1	270	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	scaffold46_62.0	100.0		True
+indel: indel (> 5bp)
+27975	31090	272	3387	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	scaffold46_62.0	100.0		True
+CONTIG	scaffold46_62.0	3387	correct
+2068974	2130570	61847	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold28_54.1	99.42		True
+CONTIG	scaffold28_54.1	61847	correct
+6065	33622	27701	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold35_53.2	99.47		True
+indel: indel (> 5bp)
+5303	6101	28501	27703	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold35_53.2	100.0		True
+CONTIG	scaffold35_53.2	28501	correct
+2279593	2282367	2880	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold49_40.7	95.24		True
+CONTIG	scaffold49_40.7	2880	correct
+48886	89713	40983	2	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold2_51.3	99.45		True
+indel: indel (> 5bp)
+41572	48961	48372	40984	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold2_51.3	99.96		True
+indel: indel (> 5bp)
+23000	41492	66976	48484	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold2_51.3	99.98		True
+local misassembly
+5303	23126	84831	66978	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold2_51.3	99.8		True
+CONTIG	scaffold2_51.3	84831	correct
+1828154	1828749	608	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold52_56.0	97.86		True
+CONTIG	scaffold52_56.0	608	correct
+1997716	1998068	1396	1006	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold39_52.2	99.63		True
+indel: stretch of mismatches and Ns
+1986129	1997715	12983	1397	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold39_52.2	99.99		True
+indel: indel (> 5bp)
+1956917	1986155	42335	12997	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold39_52.2	99.46		True
+CONTIG	scaffold39_52.2	42335	correct
+1365764	1375095	9332	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold47_50.0	99.98		True
+indel: indel (> 5bp)
+1365514	1365803	9623	9334	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold47_50.0	100.0		True
+CONTIG	scaffold47_50.0	9623	correct
+249073	251446	2448	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold48_56.6	96.98		True
+CONTIG	scaffold48_56.6	2448	correct
+2454780	2457318	2602	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold40_51.6	96.54		True
+indel: indel (> 5bp)
+2412497	2454719	44977	2704	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold40_51.6	99.78		True
+CONTIG	scaffold40_51.6	44977	correct
+131504	146792	1	15356	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold50_49.4	99.35		True
+CONTIG	scaffold50_49.4	15356	correct
+3119440	3125986	7257	711	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold19_53.9	99.98		True
+indel: indel (> 5bp)
+3109264	3119456	17473	7281	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold19_53.9	100.0		True
+indel: indel (> 5bp)
+3095968	3109273	30867	17503	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold19_53.9	99.56		True
+indel: indel (> 5bp)
+3044456	3095978	82705	30897	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold19_53.9	99.25		True
+indel: indel (> 5bp)
+3040157	3044494	87044	82707	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold19_53.9	100.0		True
+CONTIG	scaffold19_53.9	87044	correct
+117826	124083	1	6258	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	scaffold53_60.3	100.0		True
+CONTIG	scaffold53_60.3	6258	correct
+223480	223768	1	289	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold58_48.1	100.0		True
+indel: indel (> 5bp)
+223734	224088	291	645	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold58_48.1	100.0		True
+CONTIG	scaffold58_48.1	645	correct
+2471379	2487801	16466	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold44_50.1	99.72		True
+indel: indel (> 5bp)
+2457345	2471299	30559	16574	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold44_50.1	99.76		True
+CONTIG	scaffold44_50.1	30559	correct
+2512980	2513249	1	270	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold61_53.7	100.0		True
+indel: indel (> 5bp)
+2513209	2513936	272	999	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold61_53.7	100.0		True
+CONTIG	scaffold61_53.7	999	correct
+2245313	2260116	14804	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold24_49.9	99.98		True
+indel: indel (> 5bp)
+2228850	2245269	31342	14893	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold24_49.9	99.82		True
+indel: indel (> 5bp)
+2217160	2228863	43077	31374	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold24_49.9	100.0		True
+indel: indel (> 5bp)
+2183724	2217168	76584	43107	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold24_49.9	99.9		True
+indel: indel (> 5bp)
+2177340	2183690	82968	76585	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold24_49.9	99.87		True
+indel: indel (> 5bp)
+2176957	2177380	83393	82970	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold24_49.9	100.0		True
+CONTIG	scaffold24_49.9	83393	correct
+235457	238754	1	3298	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold57_54.2	99.97		True
+CONTIG	scaffold57_54.2	3298	correct
+847241	849981	2787	13	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold16_51.0	98.74		True
+indel: indel (> 5bp)
+846441	847170	3659	2895	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold16_51.0	99.66		True
+indel: stretch of mismatches and Ns
+806539	846440	43644	3660	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold16_51.0	99.64		True
+local misassembly
+785474	806630	65030	43809	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold16_51.0	99.67		True
+indel: indel (> 5bp)
+762283	785501	88292	65044	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold16_51.0	99.87		True
+indel: indel (> 5bp)
+762119	762322	88497	88294	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold16_51.0	100.0		True
+CONTIG	scaffold16_51.0	88497	correct
+1475807	1533736	57989	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold32_51.7	99.84		True
+indel: indel (> 5bp)
+1472006	1475747	61889	58084	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold32_51.7	99.73		True
+indel: indel (> 5bp)
+1436755	1471941	97140	61890	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold32_51.7	99.82		True
+CONTIG	scaffold32_51.7	97140	correct
+5236	6170	1	969	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	scaffold63_60.6	96.49		True
+CONTIG	scaffold63_60.6	969	correct
+CONTIG	scaffold65_53.6	731	unaligned
+229456	233269	1	3814	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold60_55.4	100.0		True
+indel: indel (> 5bp)
+233267	233505	3851	4089	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold60_55.4	100.0		True
+CONTIG	scaffold60_55.4	4089	correct
+129429	131026	1598	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold54_51.6	99.87		True
+indel: indel (> 5bp)
+119229	129462	11873	1603	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold54_51.6	99.48		True
+indel: indel (> 5bp)
+117249	119249	13892	11892	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold54_51.6	100.0		True
+CONTIG	scaffold54_51.6	13892	correct
+209849	216113	6298	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold45_51.1	99.48		True
+indel: indel (> 5bp)
+209559	209887	6636	6308	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold45_51.1	100.0		True
+indel: indel (> 5bp)
+182300	209563	33935	6672	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold45_51.1	99.99		True
+indel: indel (> 5bp)
+181500	182368	34807	33939	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold45_51.1	100.0		True
+indel: indel (> 5bp)
+175946	181535	40477	34812	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold45_51.1	98.41		True
+CONTIG	scaffold45_51.1	40477	correct
+637351	645592	8242	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold59_60.1	100.0		True
+CONTIG	scaffold59_60.1	8242	correct
+33116	33662	1	575	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	scaffold70_64.6	95.13		True
+CONTIG	scaffold70_64.6	575	correct
+268038	287865	19975	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold55_52.6	98.51		True
+CONTIG	scaffold55_52.6	19975	correct
+2339491	2344510	1	5046	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold51_52.3	98.38		True
+indel: indel (> 5bp)
+2344506	2367066	5077	27697	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold51_52.3	99.58		True
+indel: indel (> 5bp)
+2367016	2384909	27699	45629	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold51_52.3	99.62		True
+CONTIG	scaffold51_52.3	45629	correct
+3035511	3038583	3127	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold12_52.0	98.08		True
+indel: indel (> 5bp)
+3031884	3035516	6793	3161	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold12_52.0	99.92		True
+local misassembly
+3030474	3031989	8311	6796	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold12_52.0	100.0		True
+local misassembly
+2992149	3030382	46642	8312	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold12_52.0	99.74		True
+indel: indel (> 5bp)
+2964036	2992172	74823	46655	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold12_52.0	99.75		True
+indel: indel (> 5bp)
+2962136	2963985	76778	74914	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold12_52.0	99.88		True
+indel: indel (> 5bp)
+2938315	2962120	100677	76779	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold12_52.0	99.41		True
+CONTIG	scaffold12_52.0	100677	correct
+617484	629993	12550	6	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold74_52.1	99.47		True
+CONTIG	scaffold74_52.1	12550	correct
+737652	738283	660	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold76_60.5	95.76		True
+CONTIG	scaffold76_60.5	660	correct
+921352	922251	1	900	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold78_53.7	99.89		True
+CONTIG	scaffold78_53.7	900	correct
+1037290	1053136	9	15914	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold75_54.2	99.32		True
+CONTIG	scaffold75_54.2	15914	correct
+2000598	2034420	33936	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold67_52.5	99.43		True
+indel: indel (> 5bp)
+1998987	2000634	35585	33938	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold67_52.5	100.0		True
+CONTIG	scaffold67_52.5	35585	correct
+1423741	1424011	271	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold80_53.8	100.0		True
+indel: indel (> 5bp)
+1416005	1423774	8042	273	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold80_53.8	99.99		True
+CONTIG	scaffold80_53.8	8042	correct
+893176	893436	261	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold79_53.1	100.0		True
+indel: indel (> 5bp)
+891219	893187	2253	285	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold79_53.1	100.0		True
+CONTIG	scaffold79_53.1	2253	correct
+149208	169283	1	20106	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold72_50.6	99.61		True
+indel: indel (> 5bp)
+169229	175418	20108	26326	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold72_50.6	99.53		True
+CONTIG	scaffold72_50.6	26326	correct
+826517	831783	1	5266	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold73_49.7	99.96		True
+indel: indel (> 5bp)
+831749	843754	5268	17310	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold73_49.7	99.65		True
+indel: indel (> 5bp)
+843748	850057	17341	23717	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold73_49.7	98.18		True
+CONTIG	scaffold73_49.7	23717	correct
+2715603	2759881	44346	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold68_55.0	99.84		True
+CONTIG	scaffold68_55.0	44346	correct
+759129	760078	950	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold86_45.3	100.0		True
+indel: indel (> 5bp)
+758836	759169	1285	952	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold86_45.3	100.0		True
+CONTIG	scaffold86_45.3	1285	correct
+2522355	2559972	1	37724	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold71_48.6	99.51		True
+CONTIG	scaffold71_48.6	37724	correct
+905814	921190	1	15377	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold84_53.7	100.0		True
+CONTIG	scaffold84_53.7	15377	correct
+648602	650735	2157	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold87_55.3	98.89		True
+CONTIG	scaffold87_55.3	2157	correct
+97	4680	1	4584	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold85_64.8	100.0		True
+CONTIG	scaffold85_64.8	4584	correct
+148481	149160	714	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold89_60.7	95.1		True
+CONTIG	scaffold89_60.7	714	correct
+3126719	3180829	1	54262	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold66_50.0	99.64		True
+CONTIG	scaffold66_50.0	54262	correct
+1334329	1345643	11347	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold77_51.7	99.49		True
+indel: indel (> 5bp)
+1320509	1334269	25270	11444	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold77_51.7	99.44		True
+CONTIG	scaffold77_51.7	25270	correct
+742317	743124	839	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold91_59.2	96.31		True
+CONTIG	scaffold91_59.2	839	correct
+496628	500245	3618	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold17_51.7	100.0		True
+indel: indel (> 5bp)
+488314	496559	11988	3708	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold17_51.7	99.4		True
+indel: indel (> 5bp)
+480038	488325	20383	12013	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold17_51.7	98.52		True
+indel: indel (> 5bp)
+442915	479947	57597	20505	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold17_51.7	99.7		True
+indel: indel (> 5bp)
+397225	442830	103634	57721	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold17_51.7	99.03		True
+indel: indel (> 5bp)
+383387	397227	117606	103667	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold17_51.7	98.63		True
+indel: indel (> 5bp)
+373104	383339	127974	117706	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold17_51.7	99.46		True
+CONTIG	scaffold17_51.7	127974	correct
+577761	579940	1	2216	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold95_50.3	99.69		True
+indel: stretch of mismatches and Ns
+579941	595556	2217	17832	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold95_50.3	99.97		True
+indel: indel (> 5bp)
+595615	597718	17929	20032	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold95_50.3	100.0		True
+CONTIG	scaffold95_50.3	20037	correct
+1533816	1550644	1	16829	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold88_50.4	99.98		True
+CONTIG	scaffold88_50.4	16829	correct
+2136494	2166783	30361	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold83_47.9	99.54		True
+CONTIG	scaffold83_47.9	30361	correct
+1817844	1828016	1	10146	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold92_47.3	98.68		True
+CONTIG	scaffold92_47.3	10146	correct
+482632	503863	21320	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold69_52.5	99.73		True
+indel: indel (> 5bp)
+432184	482575	71845	21321	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold69_52.5	99.6		True
+CONTIG	scaffold69_52.5	71845	correct
+343782	361798	1	18076	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold94_53.7	99.42		True
+CONTIG	scaffold94_53.7	18076	correct
+1753142	1761060	1	7952	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold62_49.5	99.43		True
+indel: indel (> 5bp)
+1761044	1794955	7981	41999	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold62_49.5	99.57		True
+indel: indel (> 5bp)
+1795022	1817742	42093	64894	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold62_49.5	99.46		True
+CONTIG	scaffold62_49.5	64897	correct
+745764	758706	12943	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold98_59.2	100.0		True
+indel: indel (> 5bp)
+745150	745802	13597	12945	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold98_59.2	100.0		True
+CONTIG	scaffold98_59.2	13597	correct
+84500	92158	7659	1	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	scaffold93_65.1	99.96		True
+CONTIG	scaffold93_65.1	7659	correct
+248205	248960	785	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold103_57.8	96.31		True
+CONTIG	scaffold103_57.8	785	correct
+545148	569207	24299	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold96_48.1	98.81		True
+CONTIG	scaffold96_48.1	24300	correct
+668562	668900	339	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold104_59.0	100.0		True
+indel: indel (> 5bp)
+668148	668599	792	341	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold104_59.0	100.0		True
+CONTIG	scaffold104_59.0	792	correct
+89783	117145	1	27582	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold90_48.3	98.87		True
+CONTIG	scaffold90_48.3	27582	correct
+1716168	1753055	37010	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold56_51.1	99.56		True
+indel: indel (> 5bp)
+1639235	1716095	114069	37121	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold56_51.1	99.86		True
+CONTIG	scaffold56_51.1	114069	correct
+294736	339397	1	44882	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold82_51.6	99.36		True
+CONTIG	scaffold82_51.6	44882	correct
+94355	95003	649	1	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	scaffold108_62.6	100.0		True
+CONTIG	scaffold108_62.6	649	correct
+101850	108150	6301	1	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	scaffold107_59.4	100.0		True
+CONTIG	scaffold107_59.4	6301	correct
+1520	12704	11246	1	NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence	scaffold99_58.7	99.18		True
+CONTIG	scaffold99_58.7	11246	correct
+39601	42030	2454	1	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	scaffold111_57.4	97.39		True
+CONTIG	scaffold111_57.4	2455	correct
+977080	1002467	4	25459	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold101_51.3	99.73		True
+CONTIG	scaffold101_51.3	25459	correct
+760310	760648	1	339	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold117_38.1	100.0		True
+indel: indel (> 5bp)
+760643	761349	378	1084	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold117_38.1	100.0		True
+CONTIG	scaffold117_38.1	1084	correct
+253743	268003	14291	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold105_52.9	99.78		True
+CONTIG	scaffold105_52.9	14291	correct
+630116	640110	1	10028	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold116_56.3	99.66		True
+CONTIG	scaffold116_56.3	10028	correct
+816732	826433	9768	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold110_51.4	99.15		True
+CONTIG	scaffold110_51.4	9768	correct
+650689	705156	54693	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold97_51.7	99.5		True
+CONTIG	scaffold97_51.7	54693	correct
+28071	39593	1	11578	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	scaffold112_61.1	99.51		True
+CONTIG	scaffold112_61.1	11578	correct
+642789	645065	1	2307	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold115_49.7	98.61		True
+indel: indel (> 5bp)
+645015	650611	2309	7905	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold115_49.7	99.96		True
+CONTIG	scaffold115_49.7	7905	correct
+1396297	1408608	12312	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold119_49.3	100.0		True
+CONTIG	scaffold119_49.3	12312	correct
+2911498	2937810	26313	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold10_50.8	100.0		True
+indel: indel (> 5bp)
+2869330	2911402	68583	26429	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold10_50.8	99.75		True
+local misassembly
+2851737	2869433	86396	68586	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold10_50.8	99.06		True
+indel: indel (> 5bp)
+2809378	2851741	128904	86430	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold10_50.8	99.72		True
+indel: indel (> 5bp)
+2765254	2809452	173288	128909	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold10_50.8	99.44		True
+indel: indel (> 5bp)
+2764533	2765280	174052	173305	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold10_50.8	99.87		True
+CONTIG	scaffold10_50.8	174052	correct
+98169	99630	1	1495	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	scaffold122_62.2	97.79		True
+CONTIG	scaffold122_62.2	1495	correct
+1311140	1320407	9268	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold113_50.5	99.99		True
+indel: indel (> 5bp)
+1287433	1311141	33011	9303	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold113_50.5	99.99		True
+CONTIG	scaffold113_50.5	33018	correct
+175409	222549	1	47285	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold100_52.9	99.67		True
+CONTIG	scaffold100_52.9	47285	correct
+2283894	2304927	1	21034	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold81_49.7	99.99		True
+indel: indel (> 5bp)
+2304921	2308213	21063	24355	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold81_49.7	100.0		True
+indel: indel (> 5bp)
+2308211	2318917	24389	35166	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold81_49.7	99.16		True
+indel: indel (> 5bp)
+2318899	2324695	35187	40983	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold81_49.7	99.95		True
+indel: indel (> 5bp)
+2324685	2333489	41012	49888	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold81_49.7	98.9		True
+indel: indel (> 5bp)
+2333479	2339509	49922	55985	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold81_49.7	99.46		True
+CONTIG	scaffold81_49.7	55985	correct
+66156	79802	13726	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold114_53.9	99.36		True
+indel: indel (> 5bp)
+50467	66201	29462	13728	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold114_53.9	99.99		True
+indel: indel (> 5bp)
+42545	50505	37424	29464	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold114_53.9	100.0		True
+CONTIG	scaffold114_53.9	37424	correct
+241211	248066	1	6856	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold123_50.3	100.0		True
+CONTIG	scaffold123_50.3	6856	correct
+877389	878517	1129	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold128_49.2	99.82		True
+indel: indel (> 5bp)
+875104	877422	3449	1131	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold128_49.2	100.0		True
+CONTIG	scaffold128_49.2	3449	correct
+2049913	2068875	1	19036	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold118_52.0	99.61		True
+CONTIG	scaffold118_52.0	19036	correct
+81735	98098	16364	1	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	scaffold121_60.9	100.0		True
+CONTIG	scaffold121_60.9	16364	correct
+1002535	1012196	1	9731	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold126_53.4	99.28		True
+CONTIG	scaffold126_53.4	9747	correct
+423702	427028	3328	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold120_51.1	99.97		True
+indel: indel (> 5bp)
+401041	423741	26112	3334	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold120_51.1	99.65		True
+CONTIG	scaffold120_51.1	26117	correct
+1	2322	2347	1	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	scaffold132_55.6	98.93		True
+CONTIG	scaffold132_55.6	2391	correct
+2624870	2630138	1	5269	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold106_49.3	99.98		True
+indel: indel (> 5bp)
+2630120	2635614	5314	10808	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold106_49.3	100.0		True
+indel: indel (> 5bp)
+2635555	2645194	10824	20463	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold106_49.3	99.99		True
+indel: indel (> 5bp)
+2645179	2645969	20486	21341	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold106_49.3	99.38		True
+indel: indel (> 5bp)
+2646002	2670019	21342	45391	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold106_49.3	99.87		True
+CONTIG	scaffold106_49.3	45391	correct
+71796	81613	9818	1	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	scaffold130_60.9	100.0		True
+CONTIG	scaffold130_60.9	9818	correct
+2617832	2624801	6970	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold102_50.4	100.0		True
+indel: indel (> 5bp)
+2602410	2617769	22463	7064	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold102_50.4	99.7		True
+indel: stretch of mismatches and Ns
+2597140	2602409	27746	22464	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold102_50.4	99.69		True
+indel: indel (> 5bp)
+2587061	2597063	37865	27863	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold102_50.4	100.0		True
+indel: indel (> 5bp)
+2565653	2587094	59469	37874	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold102_50.4	99.06		True
+CONTIG	scaffold102_50.4	59469	correct
+519763	545052	1	25423	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold124_53.5	99.44		True
+CONTIG	scaffold124_53.5	25425	correct
+14623	15582	1	988	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	scaffold136_65.6	97.17		True
+CONTIG	scaffold136_65.6	988	correct
+58317	61699	3415	1	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence	scaffold137_50.7	99.0		True
+CONTIG	scaffold137_50.7	3417	correct
+82151	114178	32149	9	NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence	scaffold64_55.4	99.37		True
+indel: indel (> 5bp)
+75760	82123	38540	32150	NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence	scaffold64_55.4	99.89		True
+indel: indel (> 5bp)
+53890	75797	60554	38543	NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence	scaffold64_55.4	99.52		True
+indel: indel (> 5bp)
+44689	53820	69824	60555	NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence	scaffold64_55.4	99.04		True
+local misassembly
+12907	44689	101845	69912	NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence	scaffold64_55.4	99.39		True
+CONTIG	scaffold64_55.4	101896	correct
+569259	576016	1	6897	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold139_38.1	97.33		True
+CONTIG	scaffold139_38.1	6903	correct
+850188	873936	1	23787	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold131_57.6	99.79		True
+indel: indel (> 5bp)
+873924	888218	23812	38106	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold131_57.6	100.0		True
+CONTIG	scaffold131_57.6	38106	correct
+127570	130993	3424	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold125_51.0	100.0		True
+indel: indel (> 5bp)
+93355	127596	37710	3435	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold125_51.0	99.89		True
+CONTIG	scaffold125_51.0	37710	correct
+708694	711504	2845	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold145_53.1	98.8		True
+CONTIG	scaffold145_53.1	2845	correct
+2509382	2510425	1044	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold127_53.1	100.0		True
+indel: indel (> 5bp)
+2488477	2509413	21972	1049	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold127_53.1	99.92		True
+indel: indel (> 5bp)
+2487877	2488408	22604	22073	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold127_53.1	100.0		True
+CONTIG	scaffold127_53.1	22604	correct
+50380	52135	1	1692	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	scaffold146_62.3	96.3		True
+CONTIG	scaffold146_62.3	1711	correct
+2041610	2048158	1	6549	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold148_55.8	99.98		True
+indel: indel (> 5bp)
+2048111	2048567	6553	7009	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold148_55.8	100.0		True
+indel: indel (> 5bp)
+2048674	2049778	7137	8241	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold148_55.8	99.91		True
+CONTIG	scaffold148_55.8	8241	correct
+366449	400931	34556	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold129_50.5	99.69		True
+CONTIG	scaffold129_50.5	34556	correct
+1424079	1435245	1	11249	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold141_52.7	99.27		True
+CONTIG	scaffold141_52.7	11249	correct
+707337	716463	1	9127	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold133_50.5	100.0		True
+indel: indel (> 5bp)
+716452	725830	9161	18539	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold133_50.5	100.0		True
+indel: indel (> 5bp)
+725896	756729	18640	49473	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold133_50.5	100.0		True
+CONTIG	scaffold133_50.5	49474	correct
+1550744	1573859	1	23175	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold142_49.6	99.74		True
+CONTIG	scaffold142_49.6	23175	correct
+1635221	1639093	3950	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold154_53.1	97.42		True
+CONTIG	scaffold154_53.1	3950	correct
+43301	55523	1	12223	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	scaffold150_59.3	100.0		True
+CONTIG	scaffold150_59.3	12223	correct
+285054	294754	9735	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold135_51.7	99.88		True
+indel: indel (> 5bp)
+252302	285019	42518	9736	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold135_51.7	99.7		True
+CONTIG	scaffold135_51.7	42518	correct
+756852	772940	1	16158	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold147_48.3	99.3		True
+CONTIG	scaffold147_48.3	16158	correct
+1463	31413	1	29981	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence	scaffold134_59.8	99.8		True
+indel: indel (> 5bp)
+31405	40691	30008	39323	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence	scaffold134_59.8	99.69		True
+CONTIG	scaffold134_59.8	39323	correct
+851900	854768	2869	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold157_48.3	100.0		True
+indel: indel (> 5bp)
+850042	851936	4765	2871	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold157_48.3	100.0		True
+CONTIG	scaffold157_48.3	4765	correct
+516375	519768	6	3433	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold160_49.4	98.89		True
+CONTIG	scaffold160_49.4	3433	correct
+43343	44957	1	1645	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	scaffold161_62.5	98.18		True
+CONTIG	scaffold161_62.5	1645	correct
+66261	81699	15439	1	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	scaffold140_58.4	99.99		True
+indel: indel (> 5bp)
+60108	66270	21657	15465	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	scaffold140_58.4	99.52		True
+CONTIG	scaffold140_58.4	21657	correct
+1947927	1956876	8950	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold149_54.3	99.96		True
+indel: indel (> 5bp)
+1931415	1947831	25580	9086	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold149_54.3	99.49		True
+CONTIG	scaffold149_54.3	25580	correct
+504002	533449	1	29448	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold152_53.0	99.99		True
+indel: indel (> 5bp)
+533438	536555	29475	32630	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold152_53.0	97.59		True
+CONTIG	scaffold152_53.0	32630	correct
+288940	306542	1	17681	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold155_59.5	99.11		True
+CONTIG	scaffold155_59.5	17681	correct
+370724	371593	870	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold166_51.1	100.0		True
+indel: indel (> 5bp)
+369241	370755	2388	874	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold166_51.1	100.0		True
+CONTIG	scaffold166_51.1	2388	correct
+216287	243577	1	27474	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold144_49.8	99.17		True
+CONTIG	scaffold144_49.8	27474	correct
+2694239	2715396	21231	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold143_50.7	99.35		True
+indel: indel (> 5bp)
+2670279	2694258	45306	21250	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold143_50.7	99.61		True
+CONTIG	scaffold143_50.7	45306	correct
+673293	691756	1	18502	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold158_53.9	99.68		True
+CONTIG	scaffold158_53.9	18502	correct
+23754	32974	1	9221	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	scaffold159_65.5	99.99		True
+CONTIG	scaffold159_65.5	9221	correct
+31318	43073	1	11785	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	scaffold162_58.3	99.38		True
+CONTIG	scaffold162_58.3	11785	correct
+2130680	2136453	5774	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold165_54.4	100.0		True
+CONTIG	scaffold165_54.4	5779	correct
+2166982	2176245	9297	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold169_55.4	99.65		True
+CONTIG	scaffold169_55.4	9297	correct
+1012274	1028361	7	16131	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold156_51.9	99.75		True
+indel: indel (> 5bp)
+1028335	1034797	16146	22608	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold156_51.9	99.98		True
+indel: indel (> 5bp)
+1034796	1037203	22646	25032	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold156_51.9	99.13		True
+CONTIG	scaffold156_51.9	25035	correct
+585418	600693	15312	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold153_52.4	99.57		True
+indel: indel (> 5bp)
+576708	585441	24058	15325	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold153_52.4	99.98		True
+CONTIG	scaffold153_52.4	24058	correct
+2759881	2764483	4640	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold174_50.3	99.2		True
+CONTIG	scaffold174_50.3	4640	correct
+92224	94260	1	2061	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	scaffold167_63.2	98.84		True
+CONTIG	scaffold167_63.2	2061	correct
+1053209	1057053	1	3878	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold171_51.6	99.15		True
+CONTIG	scaffold171_51.6	3878	correct
+692193	698725	1	6597	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold163_54.2	98.42		True
+indel: indel (> 5bp)
+698771	707304	6686	15219	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold163_54.2	100.0		True
+CONTIG	scaffold163_54.2	15219	correct
+48078	50330	2266	1	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	scaffold175_62.4	99.38		True
+CONTIG	scaffold175_62.4	2269	correct
+55994	58241	2277	1	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence	scaffold180_59.5	98.68		True
+CONTIG	scaffold180_59.5	2277	correct
+339431	340439	1	1009	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold176_46.7	100.0		True
+indel: indel (> 5bp)
+340486	343780	1102	4396	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold176_46.7	100.0		True
+CONTIG	scaffold176_46.7	4396	correct
+597796	598976	1	1181	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold181_43.8	99.66		True
+indel: indel (> 5bp)
+598933	601494	1188	3749	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold181_43.8	100.0		True
+CONTIG	scaffold181_43.8	3749	correct
+603861	608635	4806	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold179_45.9	99.13		True
+indel: indel (> 5bp)
+601683	603803	7017	4897	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold179_45.9	99.95		True
+CONTIG	scaffold179_45.9	7020	correct
+95239	98263	1	3049	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	scaffold172_62.3	99.21		True
+CONTIG	scaffold172_62.3	3049	correct
+500221	516544	16327	4	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold170_46.0	99.97		True
+CONTIG	scaffold170_46.0	16327	correct
+608791	625690	1	16900	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold168_51.4	99.99		True
+indel: indel (> 5bp)
+625682	637297	16930	28577	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold168_51.4	99.7		True
+CONTIG	scaffold168_51.4	28577	correct
+922383	942573	1	20292	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold177_50.8	99.44		True
+CONTIG	scaffold177_50.8	20292	correct
+23149	27586	1	4476	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	scaffold186_58.6	99.13		True
+CONTIG	scaffold186_58.6	4476	correct
+79838	93305	13468	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold182_48.5	99.98		True
+CONTIG	scaffold182_48.5	13468	correct
+61754	74559	1	12835	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence	scaffold183_60.9	99.77		True
+CONTIG	scaffold183_60.9	12835	correct
+427066	432132	1	5098	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold184_50.1	99.37		True
+CONTIG	scaffold184_50.1	5098	correct
+1057055	1129874	1	73034	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold109_52.3	99.58		True
+indel: indel (> 5bp)
+1129845	1194782	73049	138057	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold109_52.3	99.88		True
+indel: indel (> 5bp)
+1194817	1195612	138058	138887	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold109_52.3	99.82		True
+local misassembly
+1196947	1199746	140278	143077	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold109_52.3	100.0		True
+CONTIG	scaffold109_52.3	143077	correct
+108253	117757	1	9505	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence	scaffold178_68.4	100.0		True
+CONTIG	scaffold178_68.4	9505	correct
+2039845	2041539	1703	9	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold191_55.1	100.0		True
+indel: indel (> 5bp)
+2034539	2039878	7044	1705	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold191_55.1	100.0		True
+CONTIG	scaffold191_55.1	7044	correct
+3180971	3188165	7259	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold185_51.0	98.53		True
+CONTIG	scaffold185_51.0	7259	correct
+1579045	1630074	1	51131	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold164_50.8	99.68		True
+indel: indel (> 5bp)
+1630071	1635141	51165	56235	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold164_50.8	100.0		True
+CONTIG	scaffold164_50.8	56235	correct
+243736	252319	8620	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold190_47.0	99.22		True
+CONTIG	scaffold190_47.0	8620	correct
+1408637	1415940	1	7338	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold195_51.6	99.5		True
+CONTIG	scaffold195_51.6	7338	correct
+1385126	1396231	3	11142	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold192_56.4	99.68		True
+CONTIG	scaffold192_56.4	11142	correct
+559463	577803	18378	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold188_54.5	99.74		True
+CONTIG	scaffold188_54.5	18378	correct
+19222	23671	1	4464	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	scaffold194_62.0	99.69		True
+CONTIG	scaffold194_62.0	4464	correct
+2276327	2279602	3276	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold198_51.2	99.94		True
+indel: indel (> 5bp)
+2260190	2276369	19491	3287	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold198_51.2	99.84		True
+CONTIG	scaffold198_51.2	19491	correct
+40788	55870	1	15083	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence	scaffold187_59.3	99.99		True
+CONTIG	scaffold187_59.3	15083	correct
+1199840	1200707	1	905	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold138_53.3	99.66		True
+indel: stretch of mismatches and Ns
+1200708	1286676	906	87064	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold138_53.3	99.67		True
+indel: indel (> 5bp)
+1286751	1287323	87176	87748	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold138_53.3	100.0		True
+CONTIG	scaffold138_53.3	87756	correct
+600740	617347	16641	4	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	scaffold197_55.7	99.82		True
+CONTIG	scaffold197_55.7	16641	correct
+1919942	1931290	11349	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold151_53.9	99.99		True
+indel: indel (> 5bp)
+1828839	1919889	102591	11437	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold151_53.9	99.74		True
+CONTIG	scaffold151_53.9	102591	correct
+782153	785096	2944	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold193_50.3	100.0		True
+indel: indel (> 5bp)
+773024	782176	12204	2992	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold193_50.3	99.35		True
+CONTIG	scaffold193_50.3	12204	correct
+1347402	1365362	18034	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold189_53.2	99.41		True
+indel: indel (> 5bp)
+1345784	1347439	19691	18036	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold189_53.2	100.0		True
+CONTIG	scaffold189_53.2	19691	correct
+537649	559180	21532	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold199_56.7	100.0		True
+CONTIG	scaffold199_56.7	21532	correct
+884106	904456	20383	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold196_49.9	99.71		True
+CONTIG	scaffold196_49.9	20383	correct
+576094	576665	572	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	C8632_24.0	99.83		True
+CONTIG	C8632_24.0	572	correct
+4699	5350	1	652	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C8740_64.0	100.0		True
+CONTIG	C8740_64.0	652	correct
+711617	712351	1	735	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	C8858_53.0	100.0		True
+CONTIG	C8858_53.0	735	correct
+743358	744266	1	909	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	C9078_61.0	100.0		True
+CONTIG	C9078_61.0	909	correct
+147117	147769	653	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C8742_48.0	100.0		True
+CONTIG	C8742_48.0	653	correct
+536592	537546	955	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C9134_72.0	100.0		True
+CONTIG	C9134_72.0	955	correct
+1375175	1376189	1015	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C9196_43.0	100.0		True
+CONTIG	C9196_43.0	1015	correct
+306494	307458	1	965	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C9140_79.0	100.0		True
+CONTIG	C9140_79.0	965	correct
+672441	672992	1	552	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C8608_43.0	100.0		True
+CONTIG	C8608_43.0	552	correct
+238848	239435	1	588	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C8646_44.0	100.0		True
+CONTIG	C8646_44.0	588	correct
+15584	16263	1	680	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	C8786_65.0	100.0		True
+CONTIG	C8786_65.0	680	correct
+21939	22970	1039	8	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	C9212_59.0	100.0		True
+CONTIG	C9212_59.0	1039	correct
+889976	891111	1	1136	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	C9326_60.0	100.0		True
+CONTIG	C9326_60.0	1136	correct
+705286	706475	1	1190	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	C9392_54.0	100.0		True
+CONTIG	C9392_54.0	1190	correct
+36432	37545	1114	1	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	C9304_84.0	100.0		True
+CONTIG	C9304_84.0	1114	correct
+46546	47624	1	1079	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	C9254_62.0	100.0		True
+CONTIG	C9254_62.0	1079	correct
+239387	240680	1	1294	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C9480_51.0	100.0		True
+CONTIG	C9480_51.0	1294	correct
+2282325	2283778	1454	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C9618_49.0	100.0		True
+CONTIG	C9618_49.0	1454	correct
+3038585	3040155	1	1571	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C9686_55.0	99.94		True
+CONTIG	C9686_55.0	1571	correct
+647065	648482	1	1418	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C9584_58.0	100.0		True
+CONTIG	C9584_58.0	1418	correct
+224307	226317	1	2011	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C10008_60.0	100.0		True
+CONTIG	C10008_60.0	2011	correct
+56563	58138	1576	1	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	C9690_69.0	100.0		True
+CONTIG	C9690_69.0	1576	correct
+640201	642721	1	2521	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	C10266_48.0	100.0		True
+CONTIG	C10266_48.0	2521	correct
+2510576	2512907	1	2332	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C10178_55.0	100.0		True
+CONTIG	C10178_55.0	2332	correct
+19076	21543	1	2468	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	C10244_61.0	100.0		True
+CONTIG	C10244_61.0	2468	correct
+38975	42262	3288	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	C10554_62.0	100.0		True
+CONTIG	C10554_62.0	3288	correct
+878580	884129	5550	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C11154_45.0	99.96		True
+CONTIG	C11154_45.0	5553	correct
+16697	19220	2524	1	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence	C10272_65.0	100.0		True
+CONTIG	C10272_65.0	2524	correct
+2560053	2565627	3	5577	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C11160_53.0	99.98		True
+CONTIG	C11160_53.0	5577	correct
+12178	14554	2377	1	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	C10206_62.0	100.0		True
+CONTIG	C10206_62.0	2377	correct
+1573861	1578980	5120	1	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	C11060_56.0	100.0		True
+CONTIG	C11060_56.0	5120	correct
+361859	369165	7307	1	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence	C11352_52.0	99.97		True
+CONTIG	C11352_52.0	7307	correct
+53	4903	4852	2	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence	C11008_61.0	100.0		True
+CONTIG	C11008_61.0	4852	correct
+307617	317621	1	10005	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold173_55.2	99.99		True
+indel: indel (> 5bp)
+317545	318438	10010	10903	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold173_55.2	100.0		True
+indel: indel (> 5bp)
+318427	340730	10927	33230	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold173_55.2	99.99		True
+indel: indel (> 5bp)
+340701	366378	33244	58981	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence	scaffold173_55.2	99.75		True
+CONTIG	scaffold173_55.2	58981	correct

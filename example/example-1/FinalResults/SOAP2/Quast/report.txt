@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assemblies before2.scafSeq, afterfilter2.scafSeq contain continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly                     before2     afterfilter2  before2.scafSeq  afterfilter2.scafSeq
+# contigs (>= 0 bp)          865         8944          849              8920                
+# contigs (>= 1000 bp)       558         48            551              25                  
+# contigs (>= 5000 bp)       214         39            217              18                  
+# contigs (>= 10000 bp)      50          38            51               17                  
+# contigs (>= 25000 bp)      0           32            0                16                  
+# contigs (>= 50000 bp)      0           19            0                12                  
+Total length (>= 0 bp)       2883386     3794368       2883625          3801281             
+Total length (>= 1000 bp)    2772498     2889469       2775889          2896903             
+Total length (>= 5000 bp)    1813250     2869733       1839213          2880236             
+Total length (>= 10000 bp)   668647      2863061       681128           2873564             
+Total length (>= 25000 bp)   0           2772237       0                2852890             
+Total length (>= 50000 bp)   0           2339967       0                2708100             
+# contigs                    649         55            641              31                  
+Largest contig               22607       306767        22607            762728              
+Total length                 2840284     2894698       2843039          2901611             
+Reference length             2903081     2903081       2903081          2903081             
+GC (%)                       32.57       32.60         32.58            32.60               
+Reference GC (%)             32.73       32.73         32.73            32.73               
+N50                          6466        126470        6521             275126              
+NG50                         6367        126470        6429             275126              
+N75                          4056        60847         4159             142667              
+NG75                         3831        60847         3871             142667              
+L50                          145         8             144              3                   
+LG50                         150         8             148              3                   
+L75                          284         16            282              7                   
+LG75                         296         16            293              7                   
+# misassemblies              0           6             1                9                   
+# misassembled contigs       0           6             1                8                   
+Misassembled contigs length  0           477620        794              1677573             
+# local misassemblies        1           39            1                52                  
+# unaligned contigs          0 + 1 part  0 + 0 part    0 + 1 part       0 + 0 part          
+Unaligned length             28          0             28               0                   
+Genome fraction (%)          97.415      98.734        97.503           98.737              
+Duplication ratio            1.004       1.010         1.004            1.012               
+# N's per 100 kbp            9.82        8.15          18.22            246.38              
+# mismatches per 100 kbp     2.40        7.95          2.76             8.34                
+# indels per 100 kbp         9.72        10.33         10.42            10.33               
+Largest alignment            22607       306761        22607            661134              
+Total aligned length         2840009     2893999       2842774          2894338             
+NA50                         6466        126469        6521             262700              
+NGA50                        6367        126469        6429             262700              
+NA75                         4056        54647         4159             102288              
+NGA75                        3831        54647         3871             102288              
+LA50                         145         8             144              4                   
+LGA50                        150         8             148              4                   
+LA75                         284         18            282              9                   
+LGA75                        296         18            293              9                   

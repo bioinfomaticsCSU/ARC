@@ -1,0 +1,8 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assemblies before2.scafSeq, afterfilter2.scafSeq contain continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly              # misassemblies      # relocations      # translocations      # inversions  # misassembled contigs  Misassembled contigs length  # local misassemblies  # mismatches  # indels      # indels (<= 5 bp)      # indels (> 5 bp)  Indels length
+before2               0                0                  0                     0                 0                       0                            1                      68            275       117                     158                    2167         
+afterfilter2          6                6                  0                     0                 6                       477620                       39                     228           296       80                      216                    6035         
+before2.scafSeq       1                1                  0                     0                 1                       794                          1                      78            295       128                     167                    2311         
+afterfilter2.scafSeq  9                9                  0                     0                 8                       1677573                      52                     239           296       80                      216                    6039         

@@ -1,0 +1,23 @@
+reference chromosomes:
+	NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence (total length: 100819 bp, maximal covered length: 85506 bp)
+	NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence (total length: 114178 bp, maximal covered length: 112659 bp)
+	NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence (total length: 52135 bp, maximal covered length: 27389 bp)
+	NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence (total length: 124310 bp, maximal covered length: 121154 bp)
+	NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence (total length: 105281 bp, maximal covered length: 99972 bp)
+	NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence (total length: 3188521 bp, maximal covered length: 3166407 bp)
+	NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence (total length: 942929 bp, maximal covered length: 919340 bp)
+
+total genome size: 4628173
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+================================================================================================================
+before2                  | 97.42577% | 1.00204     | 225       | -         | -         | -         | -         |
+afterfilter2             | 97.74343% | 1.00490     | 159       | -         | -         | -         | -         |
+before2                  | 97.70395% | 1.00546     | 211       | -         | -         | -         | -         |
+afterfilter2             | 97.85006% | 1.00719     | 151       | -         | -         | -         | -         |

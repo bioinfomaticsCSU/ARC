@@ -1,0 +1,1461 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference 
+Parsing coords...
+Loading reference...
+	Loaded [NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome]
+	Loaded [gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence]
+	Loaded [gi_225631039_ref_NC_012417.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA01-HOU__complete_sequence]
+Loading SNPs...
+	Total Regions: 3
+	Total Region Length: 2903081
+Analyzing contigs...
+CONTIG: scaffold11.1_scaffold11_0_20674_f (20674bp)
+Top Length: 11211  Top ID: 99.70 (Score: 11177.4)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1961673 1961756 | 60 143 | 84 84 | 97.62 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold11.1_scaffold11_0_20674_f
+			The best set is below. Score: 20554.2, number of alignments: 2, unaligned bases: 1
+		This contig is misassembled. 3 total aligns.
+			Real Alignment 1: 2181473 2191019 | 1 9462 | 9547 9462 | 99.1 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold11.1_scaffold11_0_20674_f
+			  Indel (> 5bp) between these two alignments: insertion of length 36; 0 mismatches
+			Real Alignment 2: 2190985 2202161 | 9464 20674 | 11177 11211 | 99.7 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold11.1_scaffold11_0_20674_f
+
+CONTIG: scaffold8.1_scaffold8_0_4551_f (4551bp)
+Top Length: 3543  Top ID: 97.57 (Score: 3456.9)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 517789 517947 | 828 671 | 159 158 | 98.11 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold8.1_scaffold8_0_4551_f
+		Skipping redundant alignment 1998278 1998343 | 942 1007 | 66 66 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold8.1_scaffold8_0_4551_f
+		Skipping redundant alignment 556088 556180 | 1101 1009 | 93 93 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold8.1_scaffold8_0_4551_f
+		Skipping redundant alignment 558945 562040 | 4104 1009 | 3096 3096 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold8.1_scaffold8_0_4551_f
+		Skipping redundant alignment 2292783 2295878 | 1009 4104 | 3096 3096 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold8.1_scaffold8_0_4551_f
+		Skipping redundant alignment 1998308 2001602 | 1009 4359 | 3295 3351 | 98.24 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold8.1_scaffold8_0_4551_f
+		Skipping redundant alignment 2295913 2296058 | 4241 4386 | 146 146 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold8.1_scaffold8_0_4551_f
+		Skipping redundant alignment 514331 517789 | 4551 1009 | 3459 3543 | 97.57 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold8.1_scaffold8_0_4551_f
+		Skipping redundant alignment 2296054 2296179 | 4426 4551 | 126 126 | 99.21 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold8.1_scaffold8_0_4551_f
+		Skipping redundant alignment 2001782 2001875 | 4455 4551 | 94 97 | 95.88 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold8.1_scaffold8_0_4551_f
+			The best set is below. Score: 4131.1, number of alignments: 4, unaligned bases: 333
+		This contig is misassembled. 14 total aligns.
+			Real Alignment 1: 2175645 2176494 | 1 850 | 850 850 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold8.1_scaffold8_0_4551_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -181
+			Real Alignment 2: 2176472 2179568 | 1009 4104 | 3097 3096 | 99.94 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold8.1_scaffold8_0_4551_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -102
+			Real Alignment 3: 2179603 2179748 | 4241 4386 | 146 146 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold8.1_scaffold8_0_4551_f
+			  Indel (> 5bp) between these two alignments: insertion of length 44; 0 mismatches
+			Real Alignment 4: 2179744 2179869 | 4426 4551 | 126 126 | 99.21 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold8.1_scaffold8_0_4551_f
+
+CONTIG: scaffold19.1_scaffold19_0_790_f (790bp)
+Top Length: 641  Top ID: 98.14 (Score: 629.1)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1998033 1998180 | 1 149 | 148 149 | 95.97 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold19.1_scaffold19_0_790_f
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 727.6, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled. 3 total aligns.
+			Excluding internal overlap of size 2 between Alignment 1 and 2:  556307 556457 | 151 1 | 151 151 --> 556309 556457 | 149 1 | 149 149
+			Real Alignment 1: 556309 556457 | 149 1 | 149 149 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold19.1_scaffold19_0_790_f
+			  Extensive misassembly ( relocation, inconsistency = 1405388 ) between these two alignments
+			Real Alignment 2: 1961846 1962486 | 150 790 | 641 641 | 98.14 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold19.1_scaffold19_0_790_f
+
+CONTIG: scaffold5.1_scaffold5_0_38417_f (38417bp)
+Top Length: 38358  Top ID: 99.81 (Score: 38285.1)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  517837 528575 | 60 10794 | 10739 10735 | 99.41 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold5.1_scaffold5_0_38417_f
+			Skipping alignment  562089 562333 | 286 529 | 245 244 | 97.14 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold5.1_scaffold5_0_38417_f
+			Skipping alignment  561948 562065 | 38300 38417 | 118 118 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold5.1_scaffold5_0_38417_f
+			Skipping alignment  1998283 1998400 | 38417 38300 | 118 118 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold5.1_scaffold5_0_38417_f
+			Skipping alignment  2176447 2176564 | 38417 38300 | 118 118 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold5.1_scaffold5_0_38417_f
+			Skipping alignment  2292758 2292875 | 38417 38300 | 118 118 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold5.1_scaffold5_0_38417_f
+			Skipping alignment  517697 517814 | 38300 38417 | 118 118 | 99.15 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold5.1_scaffold5_0_38417_f
+			Skipping alignment  562088 562200 | 60 171 | 113 112 | 97.35 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold5.1_scaffold5_0_38417_f
+		One align captures most of this contig: 517837 556205 | 60 38417 | 38369 38358 | 99.81 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold5.1_scaffold5_0_38417_f
+
+CONTIG: scaffold5.2_scaffold5_38545_39066_f (521bp)
+Top Length: 521  Top ID: 96.55 (Score: 503.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  2001601 2001683 | 462 379 | 83 84 | 98.81 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold5.2_scaffold5_38545_39066_f
+		One align captures most of this contig: 556504 557008 | 1 521 | 505 521 | 96.55 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold5.2_scaffold5_38545_39066_f
+
+CONTIG: scaffold20.1_scaffold20_0_6672_f (6672bp)
+Top Length: 6672  Top ID: 99.52 (Score: 6640.0)
+		One align captures most of this contig: 349208 355847 | 6672 1 | 6640 6672 | 99.52 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold20.1_scaffold20_0_6672_f
+
+CONTIG: scaffold16.1_scaffold16_0_12649_f (12649bp)
+Top Length: 12649  Top ID: 100.00 (Score: 12649.0)
+		One align captures most of this contig: 1755406 1768054 | 12649 1 | 12649 12649 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold16.1_scaffold16_0_12649_f
+
+CONTIG: scaffold16.2_scaffold16_12694_46235_f (33541bp)
+Top Length: 19562  Top ID: 99.88 (Score: 19538.5)
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 33409.2, number of alignments: 4, unaligned bases: 2
+		This contig is misassembled. 4 total aligns.
+			Real Alignment 1: 1750771 1756442 | 5692 1 | 5672 5692 | 99.61 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold16.2_scaffold16_12694_46235_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -91
+			Real Alignment 2: 1742691 1750860 | 13863 5694 | 8170 8170 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold16.2_scaffold16_12694_46235_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -117
+			Excluding internal overlap of size 15699 between Alignment 3 and 4:  1727016 1742806 | 29678 13865 | 15791 15814 --> 1742715 1742806 | 13979 13865 | 92 115
+			Real Alignment 3: 1742715 1742806 | 13979 13865 | 92 115 | 99.85 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold16.2_scaffold16_12694_46235_f
+			  Indel (> 5bp) between these two alignments: deletion of length 23; 0 mismatches
+			Real Alignment 4: 1723153 1742691 | 33541 13980 | 19539 19562 | 99.88 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold16.2_scaffold16_12694_46235_f
+
+CONTIG: scaffold21.1_scaffold21_0_28885_f (28885bp)
+Top Length: 28885  Top ID: 99.92 (Score: 28861.9)
+		One align captures most of this contig: 671717 700578 | 28885 1 | 28862 28885 | 99.92 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold21.1_scaffold21_0_28885_f
+
+CONTIG: scaffold10.1_scaffold10_0_28534_f (28534bp)
+Top Length: 25913  Top ID: 99.91 (Score: 25889.7)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1994262 1995786 | 1614 88 | 1525 1527 | 99.61 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold10.1_scaffold10_0_28534_f
+			The best set is below. Score: 28507.8, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled. 3 total aligns.
+			Excluding internal overlap of size 19997 between Alignment 1 and 2:  2263790 2286385 | 28534 5917 | 22596 22618 --> 2263790 2266388 | 28534 25914 | 2599 2621
+			Real Alignment 1: 2266411 2292301 | 25913 1 | 25891 25913 | 99.91 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold10.1_scaffold10_0_28534_f
+			  Indel (> 5bp) between these two alignments: deletion of length 22; 0 mismatches
+			Real Alignment 2: 2263790 2266388 | 28534 25914 | 2599 2621 | 99.89 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold10.1_scaffold10_0_28534_f
+
+CONTIG: scaffold10.2_scaffold10_28603_89450_f (60847bp)
+Top Length: 43574  Top ID: 99.89 (Score: 43526.1)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 159139 159790 | 8525 9175 | 652 651 | 98.31 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold10.2_scaffold10_28603_89450_f
+			The best set is below. Score: 60752.7, number of alignments: 3, unaligned bases: 1
+		This contig is misassembled. 4 total aligns.
+			Real Alignment 1: 2248041 2263825 | 15785 1 | 15785 15785 | 99.99 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold10.2_scaffold10_28603_89450_f
+			  Gap between these two alignments (local misassembly). Inconsistency = 156
+			Excluding internal overlap of size 19997 between Alignment 2 and 3:  2226424 2247883 | 37270 15787 | 21460 21484 --> 2246421 2247883 | 17273 15787 | 1463 1487
+			Real Alignment 2: 2246421 2247883 | 17273 15787 | 1463 1487 | 99.88 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold10.2_scaffold10_28603_89450_f
+			  Indel (> 5bp) between these two alignments: deletion of length 24; 0 mismatches
+			Real Alignment 3: 2202868 2246396 | 60847 17274 | 43529 43574 | 99.89 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold10.2_scaffold10_28603_89450_f
+
+CONTIG: scaffold12.1_scaffold12_0_51690_f (51690bp)
+Top Length: 36162  Top ID: 99.81 (Score: 36093.3)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1996710 1996972 | 32503 32242 | 263 262 | 96.2 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold12.1_scaffold12_0_51690_f
+		Skipping redundant alignment 1996383 1996460 | 32584 32507 | 78 78 | 98.72 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold12.1_scaffold12_0_51690_f
+		Skipping redundant alignment 1032797 1032877 | 32733 32653 | 81 81 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold12.1_scaffold12_0_51690_f
+		Skipping redundant alignment 2292600 2292783 | 32809 32623 | 184 187 | 98.4 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold12.1_scaffold12_0_51690_f
+			The best set is below. Score: 51618.7, number of alignments: 2, unaligned bases: 1
+		This contig is misassembled. 6 total aligns.
+			Real Alignment 1: 1978790 1994316 | 15527 1 | 15527 15527 | 99.99 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold12.1_scaffold12_0_51690_f
+			  Indel (> 5bp) between these two alignments: insertion of length 42; 0 mismatches
+			Real Alignment 2: 1942630 1978830 | 51690 15529 | 36201 36162 | 99.81 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold12.1_scaffold12_0_51690_f
+
+CONTIG: scaffold12.2_scaffold12_51989_78178_f (26189bp)
+Top Length: 26189  Top ID: 99.60 (Score: 26084.2)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  457281 458977 | 2917 4641 | 1697 1725 | 97.39 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold12.2_scaffold12_51989_78178_f
+			Skipping alignment  1456995 1457755 | 23667 24427 | 761 761 | 99.21 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold12.2_scaffold12_51989_78178_f
+			Skipping alignment  170068 170775 | 23702 24411 | 708 710 | 97.46 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold12.2_scaffold12_51989_78178_f
+			Skipping alignment  459447 459619 | 5151 5323 | 173 173 | 95.38 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold12.2_scaffold12_51989_78178_f
+			Skipping alignment  1205133 1205204 | 12556 12485 | 72 72 | 98.61 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold12.2_scaffold12_51989_78178_f
+		One align captures most of this contig: 1916018 1942139 | 26189 1 | 26122 26189 | 99.6 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold12.2_scaffold12_51989_78178_f
+
+CONTIG: scaffold18.1_scaffold18_0_71534_f (71534bp)
+Top Length: 44786  Top ID: 99.99 (Score: 44781.5)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1601145 1601618 | 16065 16542 | 474 478 | 97.49 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold18.1_scaffold18_0_71534_f
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 71200.5, number of alignments: 4, unaligned bases: 2
+		This contig is misassembled. 5 total aligns.
+			Excluding internal overlap of size 3975 between Alignment 1 and 2:  2113034 2117136 | 7311 11413 | 4103 4103 --> 2117009 2117136 | 11286 11413 | 128 128
+			Real Alignment 1: 2105759 2117008 | 1 11285 | 11250 11285 | 99.69 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold18.1_scaffold18_0_71534_f
+			  Short stretch of 0 mismatches and 0 Ns between these two alignments
+			Real Alignment 2: 2117009 2117136 | 11286 11413 | 128 128 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold18.1_scaffold18_0_71534_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -130
+			Real Alignment 3: 2117008 2132340 | 11415 26747 | 15333 15333 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold18.1_scaffold18_0_71534_f
+			  Extensive misassembly ( relocation, inconsistency = -3780 ) between these two alignments
+			Real Alignment 4: 2128562 2173343 | 26749 71534 | 44782 44786 | 99.99 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold18.1_scaffold18_0_71534_f
+
+CONTIG: scaffold13.1_scaffold13_0_111413_f (111413bp)
+Top Length: 55896  Top ID: 99.85 (Score: 55812.2)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1072219 1072332 | 111413 111300 | 114 114 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold13.1_scaffold13_0_111413_f
+			The best set is below. Score: 110873.5, number of alignments: 5, unaligned bases: 1
+		This contig is misassembled. 6 total aligns.
+			Real Alignment 1: 562633 618453 | 1 55896 | 55821 55896 | 99.85 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold13.1_scaffold13_0_111413_f
+			  Extensive misassembly ( relocation, inconsistency = -2828 ) between these two alignments
+			Excluding internal overlap of size 222 between Alignment 2 and 3:  615627 618483 | 55898 58788 | 2857 2891 --> 615627 618261 | 55898 58566 | 2635 2669
+			Real Alignment 2: 615627 618261 | 55898 58566 | 2635 2669 | 97.79 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold13.1_scaffold13_0_111413_f
+			  Gap between these two alignments (local misassembly). Inconsistency = 378
+			Excluding internal overlap of size 353 between Alignment 3 and 4:  618640 622610 | 58567 62537 | 3971 3971 --> 618640 622257 | 58567 62184 | 3618 3618
+			Real Alignment 3: 618640 622257 | 58567 62184 | 3618 3618 | 99.27 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold13.1_scaffold13_0_111413_f
+			  Indel (> 5bp) between these two alignments: deletion of length 84; 0 mismatches
+			Excluding internal overlap of size 19997 between Alignment 4 and 5:  637566 671636 | 77403 111413 | 34071 34011 --> 657563 671636 | 97400 111413 | 14074 14014
+			Real Alignment 4: 622342 657542 | 62185 97399 | 35201 35215 | 99.9 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold13.1_scaffold13_0_111413_f
+			  Indel (> 5bp) between these two alignments: deletion of length 20; 0 mismatches
+			Real Alignment 5: 657563 671636 | 97400 111413 | 14074 14014 | 99.7 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold13.1_scaffold13_0_111413_f
+
+CONTIG: scaffold15.1_scaffold15_0_142667_f (142667bp)
+Top Length: 69327  Top ID: 99.68 (Score: 69105.2)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1426487 1426602 | 17271 17384 | 116 114 | 97.41 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1426741 1426823 | 17408 17490 | 83 83 | 96.39 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1205205 1205323 | 17501 17383 | 119 119 | 98.32 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1910649 1910876 | 17279 17507 | 228 229 | 98.69 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 2478476 2478582 | 17408 17514 | 107 107 | 97.2 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 318664 318907 | 17275 17518 | 244 244 | 97.95 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 2431649 2431874 | 17292 17518 | 226 227 | 96.92 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1443297 1443777 | 17741 17263 | 481 479 | 96.67 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 2071524 2072067 | 17819 17275 | 544 545 | 97.25 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 318907 319233 | 17644 17970 | 327 327 | 97.55 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1804082 1805055 | 18240 17270 | 974 971 | 98.46 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1910876 1911484 | 17633 18240 | 609 608 | 97.7 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1380490 1380554 | 36928 36864 | 65 65 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 800980 801060 | 36854 36934 | 81 81 | 98.77 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1098188 1098258 | 36864 36934 | 71 71 | 98.59 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 2478230 2478335 | 105718 105822 | 106 105 | 98.11 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1426496 1426602 | 105718 105824 | 107 107 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1426741 1426823 | 105848 105930 | 83 83 | 96.39 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1205205 1205323 | 105941 105823 | 119 119 | 98.32 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 2478476 2478573 | 105848 105945 | 98 98 | 97.96 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1910649 1910876 | 105718 105947 | 228 230 | 98.7 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 318664 318907 | 105714 105958 | 244 245 | 97.55 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 2431652 2431874 | 105735 105958 | 223 224 | 96.88 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1443304 1443773 | 106174 105705 | 470 470 | 97.02 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 2071524 2072067 | 106259 105714 | 544 546 | 97.25 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 318907 319233 | 106084 106410 | 327 327 | 97.86 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1892510 1893480 | 106681 105708 | 971 974 | 97.23 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1442817 1443304 | 107690 107202 | 488 489 | 97.75 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1426813 1427120 | 107392 107699 | 308 308 | 97.08 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1204938 1205142 | 107699 107494 | 205 206 | 97.57 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 2478990 2479091 | 107598 107699 | 102 102 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 2317461 2319448 | 105709 107705 | 1988 1997 | 96.52 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+		Skipping redundant alignment 1910876 1912508 | 106073 107705 | 1633 1633 | 99.45 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+			The best set is below. Score: 142225.8, number of alignments: 4, unaligned bases: 1
+		This contig is misassembled. 37 total aligns.
+			Real Alignment 1: 1873665 1910722 | 37186 1 | 37058 37186 | 99.62 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+			  Gap between these two alignments (local misassembly). Inconsistency = 95
+			Excluding internal overlap of size 19997 between Alignment 2 and 3:  1823779 1873568 | 86998 37188 | 49790 49811 --> 1843776 1873568 | 67001 37188 | 29793 29814
+			Real Alignment 2: 1843776 1873568 | 67001 37188 | 29793 29814 | 99.94 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+			  Indel (> 5bp) between these two alignments: deletion of length 21; 0 mismatches
+			Excluding internal overlap of size 19997 between Alignment 3 and 4:  1768175 1794439 | 142667 116332 | 26265 26336 --> 1768175 1774442 | 142667 136329 | 6268 6339
+			Real Alignment 3: 1774514 1843754 | 136328 67002 | 69241 69327 | 99.68 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+			  Indel (> 5bp) between these two alignments: deletion of length 71; 0 mismatches
+			Real Alignment 4: 1768175 1774442 | 142667 136329 | 6268 6339 | 99.73 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold15.1_scaffold15_0_142667_f
+
+CONTIG: scaffold6.1_scaffold6_0_30604_f (30604bp)
+Top Length: 16991  Top ID: 98.15 (Score: 16676.7)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 16728 17117 | 1 390 | 390 390 | 100.0 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 12451 12840 | 390 1 | 390 390 | 98.21 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 36218 36612 | 1 395 | 395 395 | 97.97 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 76151 76547 | 397 1 | 397 397 | 96.98 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 16328 17118 | 6754 7544 | 791 791 | 99.37 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 35818 36612 | 6755 7548 | 795 794 | 97.61 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 12445 13247 | 7549 6747 | 803 803 | 97.76 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 76151 76947 | 7550 6755 | 797 796 | 96.87 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 17088 26839 | 3505 13255 | 9752 9751 | 99.89 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 1931 2086 | 15933 16088 | 156 156 | 98.72 | gi_225631039_ref_NC_012417.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA01-HOU__complete_sequence scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 1920 2086 | 17998 18163 | 167 166 | 98.8 | gi_225631039_ref_NC_012417.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA01-HOU__complete_sequence scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 76158 76947 | 26319 27109 | 790 791 | 98.1 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 35818 36607 | 27109 26320 | 790 790 | 98.86 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 20330 21126 | 27116 26320 | 797 797 | 97.49 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 16315 17119 | 27123 26318 | 805 806 | 98.64 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 12833 13254 | 30604 30184 | 422 421 | 96.92 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 35804 36225 | 30185 30604 | 422 420 | 97.39 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 20337 20744 | 30197 30604 | 408 408 | 98.77 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold6.1_scaffold6_0_30604_f
+		Skipping redundant alignment 76540 76947 | 30604 30198 | 408 407 | 96.81 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold6.1_scaffold6_0_30604_f
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 29931.2, number of alignments: 4, unaligned bases: 26
+		This contig is misassembled. 23 total aligns.
+			Real Alignment 1: 20737 24243 | 1 3507 | 3507 3507 | 100.0 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold6.1_scaffold6_0_30604_f
+			  Extensive misassembly ( relocation, inconsistency = -7153 ) between these two alignments
+			Excluding internal overlap of size 30 between Alignment 2 and 3:  26859 27041 | 13431 13613 | 183 183 --> 26889 27041 | 13461 13613 | 153 153
+			Real Alignment 2: 17117 27016 | 3534 13460 | 9900 9927 | 99.62 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold6.1_scaffold6_0_30604_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -128
+			Real Alignment 3: 26889 27041 | 13461 13613 | 153 153 | 98.36 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold6.1_scaffold6_0_30604_f
+			  Not a misassembly (linear representation of circular genome) between these two alignments
+			Real Alignment 4: 1 16735 | 13614 30604 | 16735 16991 | 98.15 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold6.1_scaffold6_0_30604_f
+
+CONTIG: scaffold9.1_scaffold9_0_102291_f (102291bp)
+Top Length: 41857  Top ID: 99.92 (Score: 41823.5)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2478224 2478335 | 33744 33853 | 112 110 | 96.43 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+		Skipping redundant alignment 1426493 1426602 | 33747 33855 | 110 109 | 99.09 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+		Skipping redundant alignment 1426741 1426823 | 33879 33961 | 83 83 | 97.59 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+		Skipping redundant alignment 1205205 1205323 | 33972 33854 | 119 119 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+		Skipping redundant alignment 2478476 2478582 | 33879 33985 | 107 107 | 99.07 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+		Skipping redundant alignment 318662 318907 | 33744 33989 | 246 246 | 99.19 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+		Skipping redundant alignment 1910649 1910887 | 33750 33989 | 239 240 | 98.33 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+		Skipping redundant alignment 2431649 2431874 | 33763 33989 | 226 227 | 96.92 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+		Skipping redundant alignment 1443297 1443784 | 34211 33727 | 488 485 | 95.9 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+		Skipping redundant alignment 1804504 1805049 | 34289 33746 | 546 544 | 97.62 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+		Skipping redundant alignment 1892931 1893475 | 34289 33746 | 545 544 | 97.25 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+		Skipping redundant alignment 2317466 2318011 | 33746 34289 | 546 544 | 95.97 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+		Skipping redundant alignment 1910887 1911062 | 34114 34289 | 176 176 | 97.73 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+		Skipping redundant alignment 848524 848603 | 74076 73997 | 80 80 | 98.75 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+		Skipping redundant alignment 2003474 2015096 | 102291 90636 | 11623 11656 | 99.72 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+			The best set is below. Score: 102017.7, number of alignments: 4, unaligned bases: 3
+		This contig is misassembled. 19 total aligns.
+			Real Alignment 1: 2063956 2105783 | 41857 1 | 41828 41857 | 99.92 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+			  Indel (> 5bp) between these two alignments: insertion of length 36; 0 mismatches
+			Real Alignment 2: 2041121 2063990 | 64773 41859 | 22870 22915 | 99.8 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+			  Gap between these two alignments (local misassembly). Inconsistency = 92
+			Real Alignment 3: 2031832 2041027 | 73995 64775 | 9196 9221 | 99.73 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+			  Gap between these two alignments (local misassembly). Inconsistency = 140
+			Real Alignment 4: 2003474 2031690 | 102291 73997 | 28217 28295 | 99.71 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold9.1_scaffold9_0_102291_f
+
+CONTIG: C19510.1_C19510_0_726_f (726bp)
+Top Length: 726  Top ID: 100.00 (Score: 726.0)
+		One align captures most of this contig: 700549 701274 | 726 1 | 726 726 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C19510.1_C19510_0_726_f
+
+CONTIG: C19378.1_C19378_0_592_f (592bp)
+Top Length: 592  Top ID: 100.00 (Score: 592.0)
+		One align captures most of this contig: 1912458 1913049 | 1 592 | 592 592 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C19378.1_C19378_0_592_f
+
+CONTIG: C19546.1_C19546_0_780_f (780bp)
+Top Length: 780  Top ID: 100.00 (Score: 780.0)
+		One align captures most of this contig: 2202133 2202912 | 1 780 | 780 780 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C19546.1_C19546_0_780_f
+
+CONTIG: C19592.1_C19592_0_847_f (847bp)
+Top Length: 847  Top ID: 100.00 (Score: 847.0)
+		One align captures most of this contig: 2665088 2665934 | 1 847 | 847 847 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C19592.1_C19592_0_847_f
+
+CONTIG: C19684.1_C19684_0_973_f (973bp)
+Top Length: 973  Top ID: 100.00 (Score: 973.0)
+		One align captures most of this contig: 346956 347928 | 973 1 | 973 973 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C19684.1_C19684_0_973_f
+
+CONTIG: C19702.1_C19702_0_1001_f (1001bp)
+Top Length: 1001  Top ID: 100.00 (Score: 1001.0)
+		One align captures most of this contig: 1942201 1943201 | 1001 1 | 1001 1001 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C19702.1_C19702_0_1001_f
+
+CONTIG: C20262.1_C20262_0_2224_f (2224bp)
+Top Length: 2224  Top ID: 100.00 (Score: 2224.0)
+		One align captures most of this contig: 2173360 2175583 | 1 2224 | 2224 2224 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C20262.1_C20262_0_2224_f
+
+CONTIG: C20452.1_C20452_0_2861_f (2861bp)
+Top Length: 2861  Top ID: 100.00 (Score: 2861.0)
+		One align captures most of this contig: 1719897 1722757 | 2861 1 | 2861 2861 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C20452.1_C20452_0_2861_f
+
+CONTIG: C20516.1_C20516_0_3051_f (3051bp)
+Top Length: 3051  Top ID: 100.00 (Score: 3051.0)
+		One align captures most of this contig: 1913012 1916062 | 1 3051 | 3051 3051 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C20516.1_C20516_0_3051_f
+
+CONTIG: C19866.1_C19866_0_1320_f (1320bp)
+Top Length: 1320  Top ID: 100.00 (Score: 1320.0)
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 1994266 1995585 | 1 1320 | 1320 1320 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C19866.1_C19866_0_1320_f
+			Skipping alignment  2290692 2292011 | 1 1320 | 1320 1320 | 99.92 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C19866.1_C19866_0_1320_f
+
+CONTIG: C20042.1_C20042_0_1659_f (1659bp)
+Top Length: 1659  Top ID: 100.00 (Score: 1659.0)
+		This contig has 5 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 557002 558660 | 1 1659 | 1659 1659 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C20042.1_C20042_0_1659_f
+			Skipping alignment  512723 514381 | 1 1659 | 1659 1659 | 99.94 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C20042.1_C20042_0_1659_f
+			Skipping alignment  2179819 2181477 | 1659 1 | 1659 1659 | 99.94 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C20042.1_C20042_0_1659_f
+			Skipping alignment  2296129 2297787 | 1659 1 | 1659 1659 | 99.94 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C20042.1_C20042_0_1659_f
+			Skipping alignment  2001825 2003483 | 1659 1 | 1659 1659 | 99.88 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome C20042.1_C20042_0_1659_f
+
+CONTIG: scaffold17.1_scaffold17_0_102070_f (102070bp)
+Top Length: 53674  Top ID: 99.96 (Score: 53652.5)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1071860 1071932 | 39062 38990 | 73 73 | 98.63 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold17.1_scaffold17_0_102070_f
+		Skipping redundant alignment 1938607 1939251 | 102070 101426 | 645 645 | 97.36 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold17.1_scaffold17_0_102070_f
+			The best set is below. Score: 101837.6, number of alignments: 3, unaligned bases: 1
+		This contig is misassembled. 5 total aligns.
+			Real Alignment 1: 355833 394886 | 1 39090 | 39054 39090 | 99.63 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold17.1_scaffold17_0_102070_f
+			  Gap between these two alignments (local misassembly). Inconsistency = 129
+			Excluding internal overlap of size 19354 between Alignment 2 and 3:  429337 457925 | 73412 102070 | 28589 28659 --> 448691 457925 | 92766 102070 | 9235 9305
+			Real Alignment 2: 395017 448670 | 39092 92765 | 53654 53674 | 99.96 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold17.1_scaffold17_0_102070_f
+			  Indel (> 5bp) between these two alignments: deletion of length 20; 0 mismatches
+			Real Alignment 3: 448691 457925 | 92766 102070 | 9235 9305 | 99.75 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold17.1_scaffold17_0_102070_f
+
+CONTIG: scaffold17.2_scaffold17_102924_157733_f (54809bp)
+Top Length: 22886  Top ID: 99.99 (Score: 22883.7)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1936901 1937073 | 694 522 | 173 173 | 95.38 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold17.2_scaffold17_102924_157733_f
+		Skipping redundant alignment 458926 469829 | 1 10930 | 10904 10930 | 99.76 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold17.2_scaffold17_102924_157733_f
+		Skipping redundant alignment 1997198 1997291 | 45691 45598 | 94 94 | 98.94 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold17.2_scaffold17_102924_157733_f
+			The best set is below. Score: 54388.3, number of alignments: 4, unaligned bases: 162
+		This contig is misassembled. 7 total aligns.
+			Real Alignment 1: 458926 470475 | 1 11576 | 11550 11576 | 99.42 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold17.2_scaffold17_102924_157733_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -807
+			Real Alignment 2: 469829 492714 | 11737 34622 | 22886 22886 | 99.99 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold17.2_scaffold17_102924_157733_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -122
+			Real Alignment 3: 492594 504781 | 34624 46860 | 12188 12237 | 99.14 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold17.2_scaffold17_102924_157733_f
+			  Indel (> 5bp) between these two alignments: insertion of length 36; 0 mismatches
+			Real Alignment 4: 504747 512694 | 46862 54809 | 7948 7948 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold17.2_scaffold17_102924_157733_f
+
+CONTIG: scaffold2.1_scaffold2_0_186457_f (186457bp)
+Top Length: 85427  Top ID: 99.65 (Score: 85128.0)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1380453 1380776 | 7551 7874 | 324 324 | 98.15 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 1469789 1470112 | 7874 7551 | 324 324 | 96.3 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 891633 891755 | 7878 7756 | 123 123 | 97.56 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 172239 201814 | 10202 39824 | 29576 29623 | 99.84 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 1426493 1426602 | 156880 156988 | 110 109 | 99.09 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 1426741 1426823 | 157012 157094 | 83 83 | 98.8 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 1205205 1205323 | 157105 156987 | 119 119 | 99.16 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 1893245 1893475 | 157109 156879 | 231 231 | 98.27 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 1804816 1805049 | 157111 156879 | 234 233 | 97.86 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 2478476 2478583 | 157012 157119 | 108 108 | 98.15 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 1443520 1443767 | 157122 156876 | 248 247 | 98.39 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 2071824 2072069 | 157122 156877 | 246 246 | 98.78 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 2317466 2317710 | 156879 157122 | 245 244 | 97.55 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 2431649 2432199 | 156896 157447 | 551 552 | 95.83 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 2317836 2318161 | 157122 157447 | 326 326 | 96.93 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 1910649 1911213 | 156883 157448 | 565 566 | 98.06 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 1804353 1804690 | 157448 157111 | 338 338 | 98.22 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 1892780 1893116 | 157448 157111 | 337 338 | 97.63 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		Skipping redundant alignment 347622 348041 | 182237 182661 | 420 425 | 95.29 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 185734.8, number of alignments: 5, unaligned bases: 1
+		This contig is misassembled. 24 total aligns.
+			Excluding internal overlap of size 19997 between Alignment 1 and 2:  227402 274703 | 65431 112802 | 47302 47372 --> 247399 274703 | 85428 112802 | 27305 27375
+			Real Alignment 1: 162253 247378 | 1 85427 | 85126 85427 | 99.65 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+			  Indel (> 5bp) between these two alignments: deletion of length 20; 0 mismatches
+			Real Alignment 2: 247399 274703 | 85428 112802 | 27305 27375 | 99.85 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+			  Indel (> 5bp) between these two alignments: insertion of length 43; 0 mismatches
+			Excluding internal overlap of size 19997 between Alignment 3 and 4:  314889 347148 | 153078 185411 | 32260 32334 --> 334886 347148 | 173075 185411 | 12263 12337
+			Real Alignment 3: 274662 334839 | 112804 173074 | 60178 60271 | 99.85 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+			  Indel (> 5bp) between these two alignments: deletion of length 46; 0 mismatches
+			Excluding internal overlap of size 361 between Alignment 4 and 5:  347805 349211 | 185051 186457 | 1407 1407 --> 348166 349211 | 185412 186457 | 1046 1046
+			Real Alignment 4: 334886 347148 | 173075 185411 | 12263 12337 | 99.7 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+			  Extensive misassembly ( relocation, inconsistency = 1017 ) between these two alignments
+			Real Alignment 5: 348166 349211 | 185412 186457 | 1046 1046 | 99.64 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold2.1_scaffold2_0_186457_f
+
+CONTIG: scaffold7.1_scaffold7_0_55025_f (55025bp)
+Top Length: 50902  Top ID: 99.75 (Score: 50774.7)
+			The best set is below. Score: 54854.7, number of alignments: 2, unaligned bases: 1
+		This contig is misassembled. 2 total aligns.
+			Real Alignment 1: 1715783 1719904 | 4122 1 | 4122 4122 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold7.1_scaffold7_0_55025_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -100
+			Real Alignment 2: 1664899 1715881 | 55025 4124 | 50983 50902 | 99.75 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold7.1_scaffold7_0_55025_f
+
+CONTIG: scaffold7.2_scaffold7_55034_234736_f (179702bp)
+Top Length: 88484  Top ID: 99.79 (Score: 88298.2)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2121658 2122135 | 63808 63335 | 478 474 | 97.49 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold7.2_scaffold7_55034_234736_f
+			The best set is below. Score: 179369.0, number of alignments: 5, unaligned bases: 2
+		This contig is misassembled. 6 total aligns.
+			Excluding internal overlap of size 19997 between Alignment 1 and 2:  1634328 1664889 | 30612 1 | 30562 30612 --> 1654325 1664889 | 10615 1 | 10565 10615
+			Real Alignment 1: 1654325 1664889 | 10615 1 | 10565 10615 | 99.83 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold7.2_scaffold7_55034_234736_f
+			  Indel (> 5bp) between these two alignments: deletion of length 50; 0 mismatches
+			Excluding internal overlap of size 19997 between Alignment 2 and 3:  1549579 1585830 | 115419 79103 | 36252 36317 --> 1549579 1565833 | 115419 99100 | 16255 16320
+			Real Alignment 2: 1565866 1654274 | 99099 10616 | 88409 88484 | 99.79 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold7.2_scaffold7_55034_234736_f
+			  Indel (> 5bp) between these two alignments: deletion of length 32; 0 mismatches
+			Real Alignment 3: 1549579 1565833 | 115419 99100 | 16255 16320 | 99.69 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold7.2_scaffold7_55034_234736_f
+			  Indel (> 5bp) between these two alignments: insertion of length 39; 0 mismatches
+			Real Alignment 4: 1495934 1549616 | 169127 115421 | 53683 53707 | 99.95 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold7.2_scaffold7_55034_234736_f
+			  Indel (> 5bp) between these two alignments: insertion of length 47; 0 mismatches
+			Real Alignment 5: 1485456 1495979 | 179702 169129 | 10524 10574 | 99.53 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold7.2_scaffold7_55034_234736_f
+
+CONTIG: scaffold7.3_scaffold7_234744_262711_f (27967bp)
+Top Length: 27967  Top ID: 99.92 (Score: 27944.6)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  1380451 1380776 | 15542 15867 | 326 326 | 97.85 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold7.3_scaffold7_234744_262711_f
+			Skipping alignment  1098114 1098282 | 15719 15551 | 169 169 | 96.45 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold7.3_scaffold7_234744_262711_f
+			Skipping alignment  671639 671750 | 15763 15873 | 112 111 | 96.43 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold7.3_scaffold7_234744_262711_f
+			Skipping alignment  800873 800977 | 15867 15763 | 105 105 | 98.1 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold7.3_scaffold7_234744_262711_f
+			Skipping alignment  2866835 2866938 | 15645 15542 | 104 104 | 98.08 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold7.3_scaffold7_234744_262711_f
+			Skipping alignment  800990 801084 | 15645 15551 | 95 95 | 96.84 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold7.3_scaffold7_234744_262711_f
+		One align captures most of this contig: 1457689 1485634 | 27967 1 | 27946 27967 | 99.92 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold7.3_scaffold7_234744_262711_f
+
+CONTIG: scaffold4.1_scaffold4_0_30210_f (30210bp)
+Top Length: 30210  Top ID: 99.69 (Score: 30116.3)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  2297783 2309464 | 1 11712 | 11682 11712 | 99.74 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  1803040 1805054 | 21705 19731 | 2015 1975 | 96.08 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  1910887 1912508 | 20106 21705 | 1622 1600 | 97.1 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  2071524 2072067 | 20281 19736 | 544 546 | 95.97 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  1442814 1443304 | 21692 21202 | 491 491 | 97.56 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  1443304 1443769 | 20196 19731 | 466 466 | 95.28 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  318907 319232 | 20106 20431 | 326 326 | 96.93 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  1426813 1427120 | 21392 21699 | 308 308 | 96.75 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  318664 318907 | 19736 19980 | 244 245 | 97.55 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  1910649 1910887 | 19740 19980 | 239 241 | 98.34 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  2431652 2431874 | 19757 19980 | 223 224 | 95.54 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  1204938 1205142 | 21699 21494 | 205 206 | 97.09 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  1205205 1205323 | 19963 19845 | 119 119 | 98.32 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  1426493 1426602 | 19737 19846 | 110 110 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  2478222 2478335 | 19732 19844 | 114 113 | 96.49 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  2478990 2479091 | 21598 21699 | 102 102 | 99.02 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  2478476 2478573 | 19870 19967 | 98 98 | 97.96 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+			Skipping alignment  1426741 1426817 | 19870 19946 | 77 77 | 97.4 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+		One align captures most of this contig: 2297783 2327931 | 1 30210 | 30149 30210 | 99.69 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.1_scaffold4_0_30210_f
+
+CONTIG: scaffold4.2_scaffold4_30307_65165_f (34858bp)
+Top Length: 34858  Top ID: 99.88 (Score: 34816.2)
+		One align captures most of this contig: 2327871 2362686 | 1 34858 | 34816 34858 | 99.88 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.2_scaffold4_30307_65165_f
+
+CONTIG: scaffold4.3_scaffold4_65169_275126_f (209957bp)
+Top Length: 122314  Top ID: 99.75 (Score: 122008.2)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1443656 1443768 | 115939 115826 | 113 114 | 96.49 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 2317462 2317574 | 115826 115939 | 113 114 | 96.49 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 2071960 2072069 | 115939 115828 | 110 112 | 96.43 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 1804941 1805045 | 115939 115834 | 105 106 | 98.11 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 1910649 1910752 | 115834 115939 | 104 106 | 97.17 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 1426495 1426823 | 115833 116162 | 329 330 | 97.27 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 1804818 1804915 | 116177 116080 | 98 98 | 97.96 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 1910778 1910874 | 116080 116177 | 97 98 | 97.96 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 2317600 2317697 | 116080 116177 | 98 98 | 97.96 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 2071828 2071934 | 116186 116080 | 107 107 | 97.2 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 1893236 1893342 | 116186 116080 | 107 107 | 96.26 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 318797 318904 | 116080 116187 | 108 108 | 98.15 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 2431765 2431871 | 116080 116187 | 107 108 | 96.3 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 2318629 2319045 | 116177 116593 | 417 417 | 98.08 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 1803443 1803859 | 116593 116177 | 417 417 | 97.12 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 1803046 1803147 | 116695 116594 | 102 102 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 1912401 1912502 | 116594 116695 | 102 102 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 2319341 2319442 | 116594 116695 | 102 102 | 99.02 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+		Skipping redundant alignment 1204934 1205038 | 116699 116594 | 105 106 | 99.06 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+			The best set is below. Score: 209437.6, number of alignments: 3, unaligned bases: 0
+		This contig is misassembled. 22 total aligns.
+			Excluding internal overlap of size 10446 between Alignment 1 and 2:  2362674 2442236 | 1 79641 | 79563 79641 --> 2362674 2431790 | 1 69195 | 69117 69195
+			Real Alignment 1: 2362674 2431790 | 1 69195 | 69117 69195 | 99.71 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+			  Indel (> 5bp) between these two alignments: deletion of length 27; 0 mismatches
+			Excluding internal overlap of size 19997 between Alignment 2 and 3:  2533856 2572277 | 171513 209957 | 38422 38445 --> 2553853 2572277 | 191510 209957 | 18425 18448
+			Real Alignment 2: 2431818 2553829 | 69196 191509 | 122012 122314 | 99.75 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+			  Indel (> 5bp) between these two alignments: deletion of length 23; 0 mismatches
+			Real Alignment 3: 2553853 2572277 | 191510 209957 | 18425 18448 | 99.93 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold4.3_scaffold4_65169_275126_f
+
+CONTIG: scaffold1.1_scaffold1_0_82896_f (82896bp)
+Top Length: 44495  Top ID: 99.93 (Score: 44463.9)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2664845 2665030 | 8510 8326 | 186 185 | 96.77 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.1_scaffold1_0_82896_f
+		Skipping redundant alignment 2640384 2654292 | 68833 82764 | 13909 13932 | 99.83 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.1_scaffold1_0_82896_f
+			The best set is below. Score: 82627.8, number of alignments: 3, unaligned bases: 4
+		This contig is misassembled. 5 total aligns.
+			Excluding internal overlap of size 15747 between Alignment 1 and 2:  2572236 2596363 | 1 24058 | 24128 24058 --> 2572236 2580616 | 1 8311 | 8381 8311
+			Real Alignment 1: 2572236 2580616 | 1 8311 | 8381 8311 | 99.62 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.1_scaffold1_0_82896_f
+			  Indel (> 5bp) between these two alignments: deletion of length 10; 0 mismatches
+			Excluding internal overlap of size 696 between Alignment 2 and 3:  2623648 2654420 | 52111 82892 | 30773 30782 --> 2624344 2654420 | 52807 82892 | 30077 30086
+			Real Alignment 2: 2580627 2625111 | 8312 52806 | 44485 44495 | 99.93 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.1_scaffold1_0_82896_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -768
+			Real Alignment 3: 2624344 2654420 | 52807 82892 | 30077 30086 | 99.47 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.1_scaffold1_0_82896_f
+
+CONTIG: scaffold1.2_scaffold1_82903_93538_f (10635bp)
+Top Length: 10635  Top ID: 100.00 (Score: 10635.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  848190 848393 | 10432 10635 | 204 204 | 97.06 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.2_scaffold1_82903_93538_f
+			Skipping alignment  2580641 2580825 | 10608 10423 | 185 186 | 96.77 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.2_scaffold1_82903_93538_f
+		One align captures most of this contig: 2654423 2665057 | 1 10635 | 10635 10635 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.2_scaffold1_82903_93538_f
+
+CONTIG: scaffold1.3_scaffold1_94178_171000_f (76822bp)
+Top Length: 30116  Top ID: 99.35 (Score: 29920.2)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2701778 2725453 | 36051 59777 | 23676 23727 | 99.79 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.3_scaffold1_94178_171000_f
+			The best set is below. Score: 76243.6, number of alignments: 4, unaligned bases: 7
+		This contig is misassembled. 5 total aligns.
+			Excluding internal overlap of size 19991 between Alignment 1 and 2:  2673662 2697814 | 7773 31949 | 24153 24177 --> 2693653 2697814 | 27764 31949 | 4162 4186
+			Real Alignment 1: 2665916 2693628 | 1 27763 | 27713 27763 | 99.82 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.3_scaffold1_94178_171000_f
+			  Indel (> 5bp) between these two alignments: deletion of length 24; 0 mismatches
+			Real Alignment 2: 2693653 2697814 | 27764 31949 | 4162 4186 | 99.9 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.3_scaffold1_94178_171000_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -132
+			Real Alignment 3: 2697684 2727742 | 31951 62066 | 30059 30116 | 99.35 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.3_scaffold1_94178_171000_f
+			  Extensive misassembly ( relocation, inconsistency = -2769 ) between these two alignments
+			Real Alignment 4: 2724980 2739703 | 62073 76822 | 14724 14750 | 99.8 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.3_scaffold1_94178_171000_f
+
+CONTIG: scaffold1.4_scaffold1_171069_329041_f (157972bp)
+Top Length: 33017  Top ID: 99.66 (Score: 32904.7)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2739733 2756685 | 1 16982 | 16953 16982 | 99.82 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.4_scaffold1_171069_329041_f
+		Skipping redundant alignment 1961512 1961583 | 157940 157869 | 72 72 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.4_scaffold1_171069_329041_f
+		Skipping redundant alignment 2292594 2292672 | 157947 157869 | 79 79 | 97.47 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.4_scaffold1_171069_329041_f
+		Skipping redundant alignment 842909 842982 | 90951 91024 | 74 74 | 98.65 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.4_scaffold1_171069_329041_f
+		Skipping redundant alignment 842964 843037 | 90951 91024 | 74 74 | 98.65 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.4_scaffold1_171069_329041_f
+			The best set is below. Score: 157408.6, number of alignments: 7, unaligned bases: 3
+		This contig is misassembled. 12 total aligns.
+			Real Alignment 1: 2739733 2759954 | 1 20251 | 20222 20251 | 99.85 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.4_scaffold1_171069_329041_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -97
+			Excluding internal overlap of size 98 between Alignment 2 and 3:  2759859 2774967 | 20253 35382 | 15109 15130 --> 2759859 2774869 | 20253 35284 | 15011 15032
+			Real Alignment 2: 2759859 2774869 | 20253 35284 | 15011 15032 | 99.76 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.4_scaffold1_171069_329041_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -162
+			Real Alignment 3: 2774708 2807681 | 35285 68301 | 32974 33017 | 99.66 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.4_scaffold1_171069_329041_f
+			  Gap between these two alignments (local misassembly). Inconsistency = 93
+			Real Alignment 4: 2807776 2838259 | 68303 98806 | 30484 30504 | 99.56 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.4_scaffold1_171069_329041_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -157
+			Excluding internal overlap of size 19733 between Alignment 5 and 6:  2838104 2862273 | 98808 122988 | 24170 24181 --> 2838104 2842540 | 98808 103255 | 4437 4448
+			Real Alignment 5: 2838104 2842540 | 98808 103255 | 4437 4448 | 99.95 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.4_scaffold1_171069_329041_f
+			  Indel (> 5bp) between these two alignments: deletion of length 11; 0 mismatches
+			Real Alignment 6: 2842552 2872915 | 103256 133651 | 30364 30396 | 99.89 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.4_scaffold1_171069_329041_f
+			  Not a misassembly (linear representation of circular genome) between these two alignments
+			Real Alignment 7: 1 24281 | 133652 157972 | 24281 24321 | 99.82 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.4_scaffold1_171069_329041_f
+
+CONTIG: scaffold1.5_scaffold1_329083_340668_f (11585bp)
+Top Length: 11585  Top ID: 100.00 (Score: 11585.0)
+		One align captures most of this contig: 24284 35868 | 1 11585 | 11585 11585 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.5_scaffold1_329083_340668_f
+
+CONTIG: scaffold1.6_scaffold1_341342_467812_f (126470bp)
+Top Length: 58485  Top ID: 99.81 (Score: 58373.9)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 52874 52943 | 16296 16365 | 70 70 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.6_scaffold1_341342_467812_f
+		Skipping redundant alignment 68052 68780 | 25724 25006 | 729 719 | 97.39 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.6_scaffold1_341342_467812_f
+		Skipping redundant alignment 61639 62357 | 32147 31419 | 719 729 | 96.16 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.6_scaffold1_341342_467812_f
+		Skipping redundant alignment 20338 21133 | 40234 39437 | 796 798 | 97.37 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold1.6_scaffold1_341342_467812_f
+		Skipping redundant alignment 16329 17118 | 40234 39444 | 790 791 | 98.48 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold1.6_scaffold1_341342_467812_f
+		Skipping redundant alignment 12450 13240 | 39444 40234 | 791 791 | 98.36 | gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence scaffold1.6_scaffold1_341342_467812_f
+		Skipping redundant alignment 35817 36607 | 40235 39445 | 791 791 | 98.36 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.6_scaffold1_341342_467812_f
+		Skipping redundant alignment 2254651 2255301 | 123967 123316 | 651 652 | 98.31 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.6_scaffold1_341342_467812_f
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 126024.1, number of alignments: 5, unaligned bases: 1
+		This contig is misassembled. 13 total aligns.
+			Real Alignment 1: 36751 37196 | 1 446 | 446 446 | 98.43 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.6_scaffold1_341342_467812_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -616
+			Excluding internal overlap of size 70 between Alignment 2 and 3:  36582 52558 | 448 16365 | 15977 15918 --> 36582 52488 | 448 16295 | 15907 15848
+			Real Alignment 2: 36582 52488 | 448 16295 | 15907 15848 | 99.62 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.6_scaffold1_341342_467812_f
+			  Gap between these two alignments (local misassembly). Inconsistency = 440
+			Excluding internal overlap of size 14076 between Alignment 3 and 4:  97418 112938 | 60705 76235 | 15521 15531 --> 111494 112938 | 74781 76235 | 1445 1455
+			Real Alignment 3: 52929 111483 | 16296 74780 | 58555 58485 | 99.81 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.6_scaffold1_341342_467812_f
+			  Indel (> 5bp) between these two alignments: deletion of length 10; 0 mismatches
+			Excluding internal overlap of size 1160 between Alignment 4 and 5:  111494 112938 | 74781 76235 | 1445 1455 --> 111494 111778 | 74781 75075 | 285 295
+			Real Alignment 4: 111494 111778 | 74781 75075 | 285 295 | 99.4 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.6_scaffold1_341342_467812_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -832
+			Real Alignment 5: 110947 162293 | 75076 126470 | 51347 51395 | 99.73 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold1.6_scaffold1_341342_467812_f
+
+CONTIG: scaffold14.1_scaffold14_0_29994_f (29994bp)
+Top Length: 29994  Top ID: 99.99 (Score: 29991.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  2318945 2319435 | 13756 14247 | 491 492 | 98.17 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+			Skipping alignment  1803055 1803542 | 14244 13757 | 488 488 | 98.57 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+			Skipping alignment  1912005 1912493 | 13756 14244 | 489 489 | 96.93 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+			Skipping alignment  2071602 2072086 | 13763 13276 | 485 488 | 95.49 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+			Skipping alignment  1893009 1893487 | 13763 13283 | 479 481 | 96.47 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+			Skipping alignment  1804588 1805058 | 13757 13287 | 471 471 | 97.03 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+			Skipping alignment  2317461 2317926 | 13291 13756 | 466 466 | 95.28 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+			Skipping alignment  1426813 1427111 | 13946 14244 | 299 299 | 97.32 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+			Skipping alignment  318661 318907 | 13293 13540 | 247 248 | 98.39 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+			Skipping alignment  1910649 1910887 | 13300 13540 | 239 241 | 97.51 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+			Skipping alignment  2431652 2431874 | 13317 13540 | 223 224 | 96.88 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+			Skipping alignment  1204947 1205142 | 14244 14048 | 196 197 | 97.97 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+			Skipping alignment  1205205 1205323 | 13523 13405 | 119 119 | 98.32 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+			Skipping alignment  1426482 1426602 | 13286 13406 | 121 121 | 96.69 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+			Skipping alignment  2478222 2478335 | 13292 13404 | 114 113 | 96.49 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+		One align captures most of this contig: 1427067 1457059 | 29994 1 | 29993 29994 | 99.99 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.1_scaffold14_0_29994_f
+
+CONTIG: scaffold14.2_scaffold14_30187_72928_f (42741bp)
+Top Length: 34588  Top ID: 99.80 (Score: 34518.8)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2431652 2431798 | 147 1 | 147 147 | 97.96 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.2_scaffold14_30187_72928_f
+		Skipping redundant alignment 1804882 1805045 | 1 164 | 164 164 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.2_scaffold14_30187_72928_f
+		Skipping redundant alignment 1910649 1910811 | 164 1 | 163 164 | 99.39 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.2_scaffold14_30187_72928_f
+		Skipping redundant alignment 2478229 2478335 | 165 60 | 107 106 | 98.13 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.2_scaffold14_30187_72928_f
+		Skipping redundant alignment 2317467 2317633 | 167 1 | 167 167 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.2_scaffold14_30187_72928_f
+		Skipping redundant alignment 318665 318830 | 167 1 | 166 167 | 99.4 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.2_scaffold14_30187_72928_f
+		Skipping redundant alignment 2071901 2072066 | 1 167 | 166 167 | 98.8 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.2_scaffold14_30187_72928_f
+		Skipping redundant alignment 1893309 1893479 | 1 173 | 171 173 | 98.27 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.2_scaffold14_30187_72928_f
+		Skipping redundant alignment 1443597 1443774 | 1 178 | 178 178 | 97.75 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.2_scaffold14_30187_72928_f
+			The best set is below. Score: 42606.7, number of alignments: 2, unaligned bases: 57
+		This contig is misassembled. 11 total aligns.
+			Excluding internal overlap of size 19997 between Alignment 1 and 2:  1398536 1426602 | 28150 58 | 28067 28093 --> 1418533 1426602 | 8153 58 | 8070 8096
+			Real Alignment 1: 1418533 1426602 | 8153 58 | 8070 8096 | 99.9 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.2_scaffold14_30187_72928_f
+			  Indel (> 5bp) between these two alignments: deletion of length 26; 0 mismatches
+			Real Alignment 2: 1383986 1418506 | 42741 8154 | 34521 34588 | 99.8 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.2_scaffold14_30187_72928_f
+
+CONTIG: scaffold14.3_scaffold14_73610_98575_f (24965bp)
+Top Length: 20553  Top ID: 99.90 (Score: 20532.4)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 800873 800977 | 4303 4407 | 105 105 | 99.05 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.3_scaffold14_73610_98575_f
+		Skipping redundant alignment 671639 671743 | 4407 4303 | 105 105 | 98.1 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.3_scaffold14_73610_98575_f
+		Skipping redundant alignment 1469789 1469897 | 4303 4411 | 109 109 | 99.08 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.3_scaffold14_73610_98575_f
+		Skipping redundant alignment 891637 891749 | 4303 4416 | 113 114 | 98.25 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.3_scaffold14_73610_98575_f
+			The best set is below. Score: 24901.4, number of alignments: 2, unaligned bases: 1
+		This contig is misassembled. 6 total aligns.
+			Real Alignment 1: 1380668 1385078 | 4411 1 | 4411 4411 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.3_scaffold14_73610_98575_f
+			  Gap between these two alignments (local misassembly). Inconsistency = 167
+			Real Alignment 2: 1359968 1380499 | 24965 4413 | 20532 20553 | 99.9 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.3_scaffold14_73610_98575_f
+
+CONTIG: scaffold14.4_scaffold14_98827_100224_f (1397bp)
+Top Length: 1397  Top ID: 100.00 (Score: 1397.0)
+		One align captures most of this contig: 1362293 1363689 | 1397 1 | 1397 1397 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.4_scaffold14_98827_100224_f
+
+CONTIG: scaffold14.5_scaffold14_102064_145556_f (43492bp)
+Top Length: 43492  Top ID: 99.80 (Score: 43405.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  1328352 1356805 | 31742 3221 | 28454 28522 | 99.76 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.5_scaffold14_102064_145556_f
+		One align captures most of this contig: 1316622 1360025 | 43492 1 | 43404 43492 | 99.8 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.5_scaffold14_102064_145556_f
+
+CONTIG: scaffold14.6_scaffold14_145606_452373_f (306767bp)
+Top Length: 108678  Top ID: 99.87 (Score: 108536.7)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 318749 318890 | 111379 111520 | 142 142 | 99.3 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		Skipping redundant alignment 1443537 1443678 | 111520 111379 | 142 142 | 98.59 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		Skipping redundant alignment 1804822 1804963 | 111520 111379 | 142 142 | 98.59 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		Skipping redundant alignment 1910730 1910870 | 111379 111520 | 141 142 | 98.59 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		Skipping redundant alignment 2317552 2317693 | 111379 111520 | 142 142 | 98.59 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		Skipping redundant alignment 2071841 2071982 | 111520 111379 | 142 142 | 97.89 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		Skipping redundant alignment 2431717 2431857 | 111379 111520 | 141 142 | 97.18 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		Skipping redundant alignment 1893248 1893390 | 111521 111379 | 143 143 | 99.3 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		Skipping redundant alignment 1929668 1929739 | 111592 111521 | 72 72 | 98.61 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		Skipping redundant alignment 1442817 1443013 | 111778 111583 | 197 196 | 97.97 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		Skipping redundant alignment 1803046 1803251 | 111787 111583 | 206 205 | 98.06 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		Skipping redundant alignment 2319237 2319442 | 111583 111787 | 206 205 | 98.06 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		Skipping redundant alignment 1912297 1912502 | 111583 111787 | 206 205 | 97.57 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		Skipping redundant alignment 2478990 2479095 | 111687 111791 | 106 105 | 99.06 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		Skipping redundant alignment 2292673 2292753 | 284974 284894 | 81 81 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		Skipping redundant alignment 1961584 1961664 | 284974 284894 | 81 81 | 98.77 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 306058.9, number of alignments: 12, unaligned bases: 6
+		This contig is misassembled. 28 total aligns.
+			Excluding internal overlap of size 19988 between Alignment 1 and 2:  1295171 1316575 | 21428 1 | 21405 21428 --> 1315159 1316575 | 1440 1 | 1417 1440
+			Real Alignment 1: 1315159 1316575 | 1440 1 | 1417 1440 | 99.89 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+			  Indel (> 5bp) between these two alignments: deletion of length 23; 0 mismatches
+			Real Alignment 2: 1206531 1315135 | 110118 1441 | 108605 108678 | 99.87 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+			  Indel (> 5bp) between these two alignments: insertion of length 64; 0 mismatches
+			Real Alignment 3: 1175691 1206593 | 141057 110120 | 30903 30938 | 99.88 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -129
+			Real Alignment 4: 1124456 1175818 | 192421 141059 | 51363 51363 | 99.99 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -154
+			Real Alignment 5: 1123106 1124608 | 193925 192423 | 1503 1503 | 99.93 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -102
+			Real Alignment 6: 1098240 1123206 | 218893 193927 | 24967 24967 | 99.99 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+			  Gap between these two alignments (local misassembly). Inconsistency = 147
+			Excluding internal overlap of size 3 between Alignment 7 and 8:  1072342 1075086 | 244759 242045 | 2745 2715 --> 1072342 1075083 | 244759 242048 | 2742 2712
+			Real Alignment 7: 1074977 1098091 | 242047 218895 | 23115 23153 | 99.76 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -107
+			Real Alignment 8: 1072342 1075083 | 244759 242048 | 2742 2712 | 98.87 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+			  Gap between these two alignments (local misassembly). Inconsistency = 119
+			Excluding internal overlap of size 18384 between Alignment 9 and 10:  1036398 1055286 | 280635 261724 | 18889 18912 --> 1036398 1036902 | 280635 280108 | 505 528
+			Real Alignment 9: 1036926 1072221 | 280107 244761 | 35296 35347 | 99.85 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+			  Indel (> 5bp) between these two alignments: deletion of length 23; 0 mismatches
+			Excluding internal overlap of size 160 between Alignment 10 and 11:  1036398 1036902 | 280635 280108 | 505 528 --> 1036558 1036902 | 280475 280108 | 345 368
+			Real Alignment 10: 1036558 1036902 | 280475 280108 | 345 368 | 99.83 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -369
+			Excluding internal overlap of size 160 between Alignment 11 and 12:  1036398 1036926 | 281004 280476 | 529 529 --> 1036558 1036926 | 280844 280476 | 369 369
+			Real Alignment 11: 1036558 1036926 | 280844 280476 | 369 369 | 97.54 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -369
+			Real Alignment 12: 1011028 1036926 | 306767 280845 | 25899 25923 | 99.89 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.6_scaffold14_145606_452373_f
+
+CONTIG: scaffold14.7_scaffold14_452382_454054_f (1672bp)
+Top Length: 1672  Top ID: 100.00 (Score: 1672.0)
+		One align captures most of this contig: 1009361 1011032 | 1672 1 | 1672 1672 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.7_scaffold14_452382_454054_f
+
+CONTIG: scaffold14.8_scaffold14_454696_615278_f (160582bp)
+Top Length: 62685  Top ID: 99.88 (Score: 62609.8)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 848614 855684 | 160582 153481 | 7071 7102 | 99.56 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.8_scaffold14_454696_615278_f
+		Skipping redundant alignment 1586015 1586090 | 102963 103038 | 76 76 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.8_scaffold14_454696_615278_f
+		Skipping redundant alignment 855802 866082 | 153481 143172 | 10281 10310 | 99.72 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.8_scaffold14_454696_615278_f
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 160209.0, number of alignments: 6, unaligned bases: 2
+		This contig is misassembled. 9 total aligns.
+			Excluding internal overlap of size 19997 between Alignment 1 and 2:  981997 1009417 | 27470 1 | 27421 27470 --> 1001994 1009417 | 7473 1 | 7424 7473
+			Real Alignment 1: 1001994 1009417 | 7473 1 | 7424 7473 | 99.82 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.8_scaffold14_454696_615278_f
+			  Indel (> 5bp) between these two alignments: deletion of length 25; 0 mismatches
+			Real Alignment 2: 954697 1001968 | 54751 7474 | 47272 47278 | 99.9 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.8_scaffold14_454696_615278_f
+			  Gap between these two alignments (local misassembly). Inconsistency = 197
+			Excluding internal overlap of size 8 between Alignment 3 and 4:  866082 891675 | 143023 117430 | 25594 25594 --> 866082 891667 | 143023 117438 | 25586 25586
+			Real Alignment 3: 891886 954498 | 117437 54753 | 62613 62685 | 99.88 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.8_scaffold14_454696_615278_f
+			  Gap between these two alignments (local misassembly). Inconsistency = 218
+			Real Alignment 4: 866082 891667 | 143023 117438 | 25586 25586 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.8_scaffold14_454696_615278_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -149
+			Excluding internal overlap of size 1 between Alignment 5 and 6:  848614 855730 | 160582 153436 | 7117 7147 --> 848614 855729 | 160582 153437 | 7116 7146
+			Real Alignment 5: 855847 866229 | 153436 143025 | 10383 10412 | 99.72 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.8_scaffold14_454696_615278_f
+			  Gap between these two alignments (local misassembly). Inconsistency = 117
+			Real Alignment 6: 848614 855729 | 160582 153437 | 7116 7146 | 99.47 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.8_scaffold14_454696_615278_f
+
+CONTIG: scaffold14.9_scaffold14_615326_652164_f (36838bp)
+Top Length: 25133  Top ID: 99.70 (Score: 25057.6)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 2664854 2665050 | 200 4 | 197 197 | 97.97 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.9_scaffold14_615326_652164_f
+		Skipping redundant alignment 2830450 2830521 | 5424 5353 | 72 72 | 98.61 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.9_scaffold14_615326_652164_f
+			The best set is below. Score: 36719.6, number of alignments: 2, unaligned bases: 1
+		This contig is misassembled. 4 total aligns.
+			Real Alignment 1: 823223 848389 | 25133 1 | 25167 25133 | 99.7 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.9_scaffold14_615326_652164_f
+			  Gap between these two alignments (local misassembly). Inconsistency = 150
+			Real Alignment 2: 811368 823071 | 36838 25135 | 11704 11704 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.9_scaffold14_615326_652164_f
+
+CONTIG: scaffold14.10_scaffold14_652188_662504_f (10316bp)
+Top Length: 10296  Top ID: 99.99 (Score: 10295.0)
+		One align captures most of this contig: 801042 811337 | 10316 21 | 10296 10296 | 99.99 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.10_scaffold14_652188_662504_f
+
+CONTIG: scaffold14.11_scaffold14_662732_762728_f (99996bp)
+Top Length: 75629  Top ID: 99.82 (Score: 75492.9)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1098188 1098252 | 65 1 | 65 65 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.11_scaffold14_662732_762728_f
+		Skipping redundant alignment 1380490 1380554 | 1 65 | 65 65 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.11_scaffold14_662732_762728_f
+		Skipping redundant alignment 1470011 1470075 | 65 1 | 65 65 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.11_scaffold14_662732_762728_f
+		Skipping redundant alignment 2866828 2866899 | 72 1 | 72 72 | 100.0 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.11_scaffold14_662732_762728_f
+		Skipping redundant alignment 671562 671743 | 1 182 | 182 182 | 97.25 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.11_scaffold14_662732_762728_f
+		Skipping redundant alignment 1380672 1380776 | 78 182 | 105 105 | 99.05 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.11_scaffold14_662732_762728_f
+		Skipping redundant alignment 1469789 1469893 | 182 78 | 105 105 | 98.1 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.11_scaffold14_662732_762728_f
+		Skipping redundant alignment 169959 170069 | 74 184 | 111 111 | 98.2 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.11_scaffold14_662732_762728_f
+		Skipping redundant alignment 712413 748991 | 88710 52088 | 36579 36623 | 99.88 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.11_scaffold14_662732_762728_f
+			The best set is below. Score: 99804.4, number of alignments: 3, unaligned bases: 0
+		This contig is misassembled. 12 total aligns.
+			Excluding internal overlap of size 19997 between Alignment 1 and 2:  760419 801054 | 40660 1 | 40636 40660 --> 780416 801054 | 20663 1 | 20639 20663
+			Real Alignment 1: 780416 801054 | 20663 1 | 20639 20663 | 99.94 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.11_scaffold14_662732_762728_f
+			  Indel (> 5bp) between these two alignments: deletion of length 24; 0 mismatches
+			Excluding internal overlap of size 191 between Alignment 2 and 3:  701323 705217 | 99996 96102 | 3895 3895 --> 701323 705026 | 99996 96293 | 3704 3704
+			Real Alignment 2: 704894 780391 | 96292 20664 | 75498 75629 | 99.82 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.11_scaffold14_662732_762728_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -133
+			Real Alignment 3: 701323 705026 | 99996 96293 | 3704 3704 | 99.97 | NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome scaffold14.11_scaffold14_662732_762728_f
+
+Analyzing coverage...
+Writing SNPs into /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.used_snps.gz
+	Reference NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome: 131 total alignments. 1 total regions.
+		Region: 1 to 2872915 (2872915 bp)
+			Align 1: 1 24281 scaffold1.4_scaffold1_171069_329041_f 133652 157972
+				Gap between this and next alignment: 24281 to 24284 (2 bp)
+				Next Alignment: 24284 35868 scaffold1.5_scaffold1_329083_340668_f 1 11585
+
+			Align 2: 24284 35868 scaffold1.5_scaffold1_329083_340668_f 1 11585
+				Gap between this and next alignment: 35868 to 36582 (713 bp)
+				Next Alignment: 36582 52488 scaffold1.6_scaffold1_341342_467812_f 448 16295
+
+			Align 3: 36582 52488 scaffold1.6_scaffold1_341342_467812_f 448 16295
+				The next alignment (36751 37196 scaffold1.6_scaffold1_341342_467812_f 1 446) is redundant. Skipping.
+				Gap between this and next alignment: 52488 to 52929 (440 bp)
+				Next Alignment: 52929 111483 scaffold1.6_scaffold1_341342_467812_f 16296 74780
+
+			Align 5: 52929 111483 scaffold1.6_scaffold1_341342_467812_f 16296 74780
+				Negative gap (overlap) between this and next alignment: 111483 to 110947 (-536 bp)
+				Next Alignment: 110947 162293 scaffold1.6_scaffold1_341342_467812_f 75076 126470
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 75076 to 75615.
+			Align 6: 111484 162293 scaffold1.6_scaffold1_341342_467812_f 75615 126470
+				The next alignment (111494 111778 scaffold1.6_scaffold1_341342_467812_f 74781 75075) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 162293 to 162253 (-40 bp)
+				Next Alignment: 162253 247378 scaffold2.1_scaffold2_0_186457_f 1 85427
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 42.
+			Align 8: 162294 247378 scaffold2.1_scaffold2_0_186457_f 42 85427
+				Gap between this and next alignment: 247378 to 247399 (20 bp)
+				Next Alignment: 247399 274703 scaffold2.1_scaffold2_0_186457_f 85428 112802
+
+			Align 9: 247399 274703 scaffold2.1_scaffold2_0_186457_f 85428 112802
+				Negative gap (overlap) between this and next alignment: 274703 to 274662 (-41 bp)
+				Next Alignment: 274662 334839 scaffold2.1_scaffold2_0_186457_f 112804 173074
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 112804 to 112846.
+			Align 10: 274704 334839 scaffold2.1_scaffold2_0_186457_f 112846 173074
+				Gap between this and next alignment: 334839 to 334886 (46 bp)
+				Next Alignment: 334886 347148 scaffold2.1_scaffold2_0_186457_f 173075 185411
+
+			Align 11: 334886 347148 scaffold2.1_scaffold2_0_186457_f 173075 185411
+				Negative gap (overlap) between this and next alignment: 347148 to 346956 (-192 bp)
+				Next Alignment: 346956 347928 C19684.1_C19684_0_973_f 973 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 973 to 780.
+			Align 12: 347149 347928 C19684.1_C19684_0_973_f 780 1
+				Gap between this and next alignment: 347928 to 348166 (237 bp)
+				Next Alignment: 348166 349211 scaffold2.1_scaffold2_0_186457_f 185412 186457
+
+			Align 13: 348166 349211 scaffold2.1_scaffold2_0_186457_f 185412 186457
+				Negative gap (overlap) between this and next alignment: 349211 to 349208 (-3 bp)
+				Next Alignment: 349208 355847 scaffold20.1_scaffold20_0_6672_f 6672 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 6672 to 6668.
+			Align 14: 349212 355847 scaffold20.1_scaffold20_0_6672_f 6668 1
+				Negative gap (overlap) between this and next alignment: 355847 to 355833 (-14 bp)
+				Next Alignment: 355833 394886 scaffold17.1_scaffold17_0_102070_f 1 39090
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 16.
+			Align 15: 355848 394886 scaffold17.1_scaffold17_0_102070_f 16 39090
+				Gap between this and next alignment: 394886 to 395017 (130 bp)
+				Next Alignment: 395017 448670 scaffold17.1_scaffold17_0_102070_f 39092 92765
+
+			Align 16: 395017 448670 scaffold17.1_scaffold17_0_102070_f 39092 92765
+				Gap between this and next alignment: 448670 to 448691 (20 bp)
+				Next Alignment: 448691 457925 scaffold17.1_scaffold17_0_102070_f 92766 102070
+
+			Align 17: 448691 457925 scaffold17.1_scaffold17_0_102070_f 92766 102070
+				Gap between this and next alignment: 457925 to 458926 (1000 bp)
+				Next Alignment: 458926 470475 scaffold17.2_scaffold17_102924_157733_f 1 11576
+
+			Align 18: 458926 470475 scaffold17.2_scaffold17_102924_157733_f 1 11576
+				Negative gap (overlap) between this and next alignment: 470475 to 469829 (-646 bp)
+				Next Alignment: 469829 492714 scaffold17.2_scaffold17_102924_157733_f 11737 34622
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 11737 to 12384.
+			Align 19: 470476 492714 scaffold17.2_scaffold17_102924_157733_f 12384 34622
+				Negative gap (overlap) between this and next alignment: 492714 to 492594 (-120 bp)
+				Next Alignment: 492594 504781 scaffold17.2_scaffold17_102924_157733_f 34624 46860
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 34624 to 34745.
+			Align 20: 492715 504781 scaffold17.2_scaffold17_102924_157733_f 34745 46860
+				Negative gap (overlap) between this and next alignment: 504781 to 504747 (-34 bp)
+				Next Alignment: 504747 512694 scaffold17.2_scaffold17_102924_157733_f 46862 54809
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 46862 to 46897.
+			Align 21: 504782 512694 scaffold17.2_scaffold17_102924_157733_f 46897 54809
+				Gap between this and next alignment: 512694 to 517837 (5142 bp)
+				Next Alignment: 517837 556205 scaffold5.1_scaffold5_0_38417_f 60 38417
+
+			Align 22: 517837 556205 scaffold5.1_scaffold5_0_38417_f 60 38417
+				Gap between this and next alignment: 556205 to 556309 (103 bp)
+				Next Alignment: 556309 556457 scaffold19.1_scaffold19_0_790_f 149 1
+
+			Align 23: 556309 556457 scaffold19.1_scaffold19_0_790_f 149 1
+				Gap between this and next alignment: 556457 to 556504 (46 bp)
+				Next Alignment: 556504 557008 scaffold5.2_scaffold5_38545_39066_f 1 521
+
+			Align 24: 556504 557008 scaffold5.2_scaffold5_38545_39066_f 1 521
+				Negative gap (overlap) between this and next alignment: 557008 to 557002 (-6 bp)
+				Next Alignment: 557002 558660 C20042.1_C20042_0_1659_f 1 1659
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 8.
+			Align 25: 557009 558660 C20042.1_C20042_0_1659_f 8 1659
+				Gap between this and next alignment: 558660 to 562633 (3972 bp)
+				Next Alignment: 562633 618453 scaffold13.1_scaffold13_0_111413_f 1 55896
+
+			Align 26: 562633 618453 scaffold13.1_scaffold13_0_111413_f 1 55896
+				The next alignment (615627 618261 scaffold13.1_scaffold13_0_111413_f 55898 58566) is redundant. Skipping.
+				Gap between this and next alignment: 618453 to 618640 (186 bp)
+				Next Alignment: 618640 622257 scaffold13.1_scaffold13_0_111413_f 58567 62184
+
+			Align 28: 618640 622257 scaffold13.1_scaffold13_0_111413_f 58567 62184
+				Gap between this and next alignment: 622257 to 622342 (84 bp)
+				Next Alignment: 622342 657542 scaffold13.1_scaffold13_0_111413_f 62185 97399
+
+			Align 29: 622342 657542 scaffold13.1_scaffold13_0_111413_f 62185 97399
+				Gap between this and next alignment: 657542 to 657563 (20 bp)
+				Next Alignment: 657563 671636 scaffold13.1_scaffold13_0_111413_f 97400 111413
+
+			Align 30: 657563 671636 scaffold13.1_scaffold13_0_111413_f 97400 111413
+				Gap between this and next alignment: 671636 to 671717 (80 bp)
+				Next Alignment: 671717 700578 scaffold21.1_scaffold21_0_28885_f 28885 1
+
+			Align 31: 671717 700578 scaffold21.1_scaffold21_0_28885_f 28885 1
+				Negative gap (overlap) between this and next alignment: 700578 to 700549 (-29 bp)
+				Next Alignment: 700549 701274 C19510.1_C19510_0_726_f 726 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 726 to 696.
+			Align 32: 700579 701274 C19510.1_C19510_0_726_f 696 1
+				Gap between this and next alignment: 701274 to 701323 (48 bp)
+				Next Alignment: 701323 705026 scaffold14.11_scaffold14_662732_762728_f 99996 96293
+
+			Align 33: 701323 705026 scaffold14.11_scaffold14_662732_762728_f 99996 96293
+				Negative gap (overlap) between this and next alignment: 705026 to 704894 (-132 bp)
+				Next Alignment: 704894 780391 scaffold14.11_scaffold14_662732_762728_f 96292 20664
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 96292 to 96159.
+			Align 34: 705027 780391 scaffold14.11_scaffold14_662732_762728_f 96159 20664
+				Gap between this and next alignment: 780391 to 780416 (24 bp)
+				Next Alignment: 780416 801054 scaffold14.11_scaffold14_662732_762728_f 20663 1
+
+			Align 35: 780416 801054 scaffold14.11_scaffold14_662732_762728_f 20663 1
+				Negative gap (overlap) between this and next alignment: 801054 to 801042 (-12 bp)
+				Next Alignment: 801042 811337 scaffold14.10_scaffold14_652188_662504_f 10316 21
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 10316 to 10303.
+			Align 36: 801055 811337 scaffold14.10_scaffold14_652188_662504_f 10303 21
+				Gap between this and next alignment: 811337 to 811368 (30 bp)
+				Next Alignment: 811368 823071 scaffold14.9_scaffold14_615326_652164_f 36838 25135
+
+			Align 37: 811368 823071 scaffold14.9_scaffold14_615326_652164_f 36838 25135
+				Gap between this and next alignment: 823071 to 823223 (151 bp)
+				Next Alignment: 823223 848389 scaffold14.9_scaffold14_615326_652164_f 25133 1
+
+			Align 38: 823223 848389 scaffold14.9_scaffold14_615326_652164_f 25133 1
+				Gap between this and next alignment: 848389 to 848614 (224 bp)
+				Next Alignment: 848614 855729 scaffold14.8_scaffold14_454696_615278_f 160582 153437
+
+			Align 39: 848614 855729 scaffold14.8_scaffold14_454696_615278_f 160582 153437
+				Gap between this and next alignment: 855729 to 855847 (117 bp)
+				Next Alignment: 855847 866229 scaffold14.8_scaffold14_454696_615278_f 153436 143025
+
+			Align 40: 855847 866229 scaffold14.8_scaffold14_454696_615278_f 153436 143025
+				Negative gap (overlap) between this and next alignment: 866229 to 866082 (-147 bp)
+				Next Alignment: 866082 891667 scaffold14.8_scaffold14_454696_615278_f 143023 117438
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 143023 to 142875.
+			Align 41: 866230 891667 scaffold14.8_scaffold14_454696_615278_f 142875 117438
+				Gap between this and next alignment: 891667 to 891886 (218 bp)
+				Next Alignment: 891886 954498 scaffold14.8_scaffold14_454696_615278_f 117437 54753
+
+			Align 42: 891886 954498 scaffold14.8_scaffold14_454696_615278_f 117437 54753
+				Gap between this and next alignment: 954498 to 954697 (198 bp)
+				Next Alignment: 954697 1001968 scaffold14.8_scaffold14_454696_615278_f 54751 7474
+
+			Align 43: 954697 1001968 scaffold14.8_scaffold14_454696_615278_f 54751 7474
+				Gap between this and next alignment: 1001968 to 1001994 (25 bp)
+				Next Alignment: 1001994 1009417 scaffold14.8_scaffold14_454696_615278_f 7473 1
+
+			Align 44: 1001994 1009417 scaffold14.8_scaffold14_454696_615278_f 7473 1
+				Negative gap (overlap) between this and next alignment: 1009417 to 1009361 (-56 bp)
+				Next Alignment: 1009361 1011032 scaffold14.7_scaffold14_452382_454054_f 1672 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1672 to 1615.
+			Align 45: 1009418 1011032 scaffold14.7_scaffold14_452382_454054_f 1615 1
+				Negative gap (overlap) between this and next alignment: 1011032 to 1011028 (-4 bp)
+				Next Alignment: 1011028 1036926 scaffold14.6_scaffold14_145606_452373_f 306767 280845
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 306767 to 306762.
+			Align 46: 1011033 1036926 scaffold14.6_scaffold14_145606_452373_f 306762 280845
+				The next alignment (1036558 1036902 scaffold14.6_scaffold14_145606_452373_f 280475 280108) is redundant. Skipping.
+				The next alignment (1036558 1036926 scaffold14.6_scaffold14_145606_452373_f 280844 280476) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1036926 to 1036926 (0 bp)
+				Next Alignment: 1036926 1072221 scaffold14.6_scaffold14_145606_452373_f 280107 244761
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 280107 to 280106.
+			Align 49: 1036927 1072221 scaffold14.6_scaffold14_145606_452373_f 280106 244761
+				Gap between this and next alignment: 1072221 to 1072342 (120 bp)
+				Next Alignment: 1072342 1075083 scaffold14.6_scaffold14_145606_452373_f 244759 242048
+
+			Align 50: 1072342 1075083 scaffold14.6_scaffold14_145606_452373_f 244759 242048
+				Negative gap (overlap) between this and next alignment: 1075083 to 1074977 (-106 bp)
+				Next Alignment: 1074977 1098091 scaffold14.6_scaffold14_145606_452373_f 242047 218895
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 242047 to 241940.
+			Align 51: 1075084 1098091 scaffold14.6_scaffold14_145606_452373_f 241940 218895
+				Gap between this and next alignment: 1098091 to 1098240 (148 bp)
+				Next Alignment: 1098240 1123206 scaffold14.6_scaffold14_145606_452373_f 218893 193927
+
+			Align 52: 1098240 1123206 scaffold14.6_scaffold14_145606_452373_f 218893 193927
+				Negative gap (overlap) between this and next alignment: 1123206 to 1123106 (-100 bp)
+				Next Alignment: 1123106 1124608 scaffold14.6_scaffold14_145606_452373_f 193925 192423
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 193925 to 193824.
+			Align 53: 1123207 1124608 scaffold14.6_scaffold14_145606_452373_f 193824 192423
+				Negative gap (overlap) between this and next alignment: 1124608 to 1124456 (-152 bp)
+				Next Alignment: 1124456 1175818 scaffold14.6_scaffold14_145606_452373_f 192421 141059
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 192421 to 192268.
+			Align 54: 1124609 1175818 scaffold14.6_scaffold14_145606_452373_f 192268 141059
+				Negative gap (overlap) between this and next alignment: 1175818 to 1175691 (-127 bp)
+				Next Alignment: 1175691 1206593 scaffold14.6_scaffold14_145606_452373_f 141057 110120
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 141057 to 140929.
+			Align 55: 1175819 1206593 scaffold14.6_scaffold14_145606_452373_f 140929 110120
+				Negative gap (overlap) between this and next alignment: 1206593 to 1206531 (-62 bp)
+				Next Alignment: 1206531 1315135 scaffold14.6_scaffold14_145606_452373_f 110118 1441
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 110118 to 110055.
+			Align 56: 1206594 1315135 scaffold14.6_scaffold14_145606_452373_f 110055 1441
+				Gap between this and next alignment: 1315135 to 1315159 (23 bp)
+				Next Alignment: 1315159 1316575 scaffold14.6_scaffold14_145606_452373_f 1440 1
+
+			Align 57: 1315159 1316575 scaffold14.6_scaffold14_145606_452373_f 1440 1
+				Gap between this and next alignment: 1316575 to 1316622 (46 bp)
+				Next Alignment: 1316622 1360025 scaffold14.5_scaffold14_102064_145556_f 43492 1
+
+			Align 58: 1316622 1360025 scaffold14.5_scaffold14_102064_145556_f 43492 1
+				Negative gap (overlap) between this and next alignment: 1360025 to 1359968 (-57 bp)
+				Next Alignment: 1359968 1380499 scaffold14.3_scaffold14_73610_98575_f 24965 4413
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 24965 to 24907.
+			Align 59: 1360026 1380499 scaffold14.3_scaffold14_73610_98575_f 24907 4413
+				The next alignment (1362293 1363689 scaffold14.4_scaffold14_98827_100224_f 1397 1) is redundant. Skipping.
+				Gap between this and next alignment: 1380499 to 1380668 (168 bp)
+				Next Alignment: 1380668 1385078 scaffold14.3_scaffold14_73610_98575_f 4411 1
+
+			Align 61: 1380668 1385078 scaffold14.3_scaffold14_73610_98575_f 4411 1
+				Negative gap (overlap) between this and next alignment: 1385078 to 1383986 (-1092 bp)
+				Next Alignment: 1383986 1418506 scaffold14.2_scaffold14_30187_72928_f 42741 8154
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 42741 to 41648.
+			Align 62: 1385079 1418506 scaffold14.2_scaffold14_30187_72928_f 41648 8154
+				Gap between this and next alignment: 1418506 to 1418533 (26 bp)
+				Next Alignment: 1418533 1426602 scaffold14.2_scaffold14_30187_72928_f 8153 58
+
+			Align 63: 1418533 1426602 scaffold14.2_scaffold14_30187_72928_f 8153 58
+				Gap between this and next alignment: 1426602 to 1427067 (464 bp)
+				Next Alignment: 1427067 1457059 scaffold14.1_scaffold14_0_29994_f 29994 1
+
+			Align 64: 1427067 1457059 scaffold14.1_scaffold14_0_29994_f 29994 1
+				Gap between this and next alignment: 1457059 to 1457689 (629 bp)
+				Next Alignment: 1457689 1485634 scaffold7.3_scaffold7_234744_262711_f 27967 1
+
+			Align 65: 1457689 1485634 scaffold7.3_scaffold7_234744_262711_f 27967 1
+				Negative gap (overlap) between this and next alignment: 1485634 to 1485456 (-178 bp)
+				Next Alignment: 1485456 1495979 scaffold7.2_scaffold7_55034_234736_f 179702 169129
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 179702 to 179523.
+			Align 66: 1485635 1495979 scaffold7.2_scaffold7_55034_234736_f 179523 169129
+				Negative gap (overlap) between this and next alignment: 1495979 to 1495934 (-45 bp)
+				Next Alignment: 1495934 1549616 scaffold7.2_scaffold7_55034_234736_f 169127 115421
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 169127 to 169081.
+			Align 67: 1495980 1549616 scaffold7.2_scaffold7_55034_234736_f 169081 115421
+				Negative gap (overlap) between this and next alignment: 1549616 to 1549579 (-37 bp)
+				Next Alignment: 1549579 1565833 scaffold7.2_scaffold7_55034_234736_f 115419 99100
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 115419 to 115381.
+			Align 68: 1549617 1565833 scaffold7.2_scaffold7_55034_234736_f 115381 99100
+				Gap between this and next alignment: 1565833 to 1565866 (32 bp)
+				Next Alignment: 1565866 1654274 scaffold7.2_scaffold7_55034_234736_f 99099 10616
+
+			Align 69: 1565866 1654274 scaffold7.2_scaffold7_55034_234736_f 99099 10616
+				Gap between this and next alignment: 1654274 to 1654325 (50 bp)
+				Next Alignment: 1654325 1664889 scaffold7.2_scaffold7_55034_234736_f 10615 1
+
+			Align 70: 1654325 1664889 scaffold7.2_scaffold7_55034_234736_f 10615 1
+				Gap between this and next alignment: 1664889 to 1664899 (9 bp)
+				Next Alignment: 1664899 1715881 scaffold7.1_scaffold7_0_55025_f 55025 4124
+
+			Align 71: 1664899 1715881 scaffold7.1_scaffold7_0_55025_f 55025 4124
+				Negative gap (overlap) between this and next alignment: 1715881 to 1715783 (-98 bp)
+				Next Alignment: 1715783 1719904 scaffold7.1_scaffold7_0_55025_f 4122 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 4122 to 4023.
+			Align 72: 1715882 1719904 scaffold7.1_scaffold7_0_55025_f 4023 1
+				Negative gap (overlap) between this and next alignment: 1719904 to 1719897 (-7 bp)
+				Next Alignment: 1719897 1722757 C20452.1_C20452_0_2861_f 2861 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 2861 to 2853.
+			Align 73: 1719905 1722757 C20452.1_C20452_0_2861_f 2853 1
+				Gap between this and next alignment: 1722757 to 1723153 (395 bp)
+				Next Alignment: 1723153 1742691 scaffold16.2_scaffold16_12694_46235_f 33541 13980
+
+			Align 74: 1723153 1742691 scaffold16.2_scaffold16_12694_46235_f 33541 13980
+				Negative gap (overlap) between this and next alignment: 1742691 to 1742691 (0 bp)
+				Next Alignment: 1742691 1750860 scaffold16.2_scaffold16_12694_46235_f 13863 5694
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 13863 to 13862.
+			Align 75: 1742692 1750860 scaffold16.2_scaffold16_12694_46235_f 13862 5694
+				The next alignment (1742715 1742806 scaffold16.2_scaffold16_12694_46235_f 13979 13865) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1750860 to 1750771 (-89 bp)
+				Next Alignment: 1750771 1756442 scaffold16.2_scaffold16_12694_46235_f 5692 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 5692 to 5602.
+			Align 77: 1750861 1756442 scaffold16.2_scaffold16_12694_46235_f 5602 1
+				Negative gap (overlap) between this and next alignment: 1756442 to 1755406 (-1036 bp)
+				Next Alignment: 1755406 1768054 scaffold16.1_scaffold16_0_12649_f 12649 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 12649 to 11612.
+			Align 78: 1756443 1768054 scaffold16.1_scaffold16_0_12649_f 11612 1
+				Gap between this and next alignment: 1768054 to 1768175 (120 bp)
+				Next Alignment: 1768175 1774442 scaffold15.1_scaffold15_0_142667_f 142667 136329
+
+			Align 79: 1768175 1774442 scaffold15.1_scaffold15_0_142667_f 142667 136329
+				Gap between this and next alignment: 1774442 to 1774514 (71 bp)
+				Next Alignment: 1774514 1843754 scaffold15.1_scaffold15_0_142667_f 136328 67002
+
+			Align 80: 1774514 1843754 scaffold15.1_scaffold15_0_142667_f 136328 67002
+				Gap between this and next alignment: 1843754 to 1843776 (21 bp)
+				Next Alignment: 1843776 1873568 scaffold15.1_scaffold15_0_142667_f 67001 37188
+
+			Align 81: 1843776 1873568 scaffold15.1_scaffold15_0_142667_f 67001 37188
+				Gap between this and next alignment: 1873568 to 1873665 (96 bp)
+				Next Alignment: 1873665 1910722 scaffold15.1_scaffold15_0_142667_f 37186 1
+
+			Align 82: 1873665 1910722 scaffold15.1_scaffold15_0_142667_f 37186 1
+				Gap between this and next alignment: 1910722 to 1912458 (1735 bp)
+				Next Alignment: 1912458 1913049 C19378.1_C19378_0_592_f 1 592
+
+			Align 83: 1912458 1913049 C19378.1_C19378_0_592_f 1 592
+				Negative gap (overlap) between this and next alignment: 1913049 to 1913012 (-37 bp)
+				Next Alignment: 1913012 1916062 C20516.1_C20516_0_3051_f 1 3051
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 39.
+			Align 84: 1913050 1916062 C20516.1_C20516_0_3051_f 39 3051
+				Negative gap (overlap) between this and next alignment: 1916062 to 1916018 (-44 bp)
+				Next Alignment: 1916018 1942139 scaffold12.2_scaffold12_51989_78178_f 26189 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 26189 to 26144.
+			Align 85: 1916063 1942139 scaffold12.2_scaffold12_51989_78178_f 26144 1
+				Gap between this and next alignment: 1942139 to 1942201 (61 bp)
+				Next Alignment: 1942201 1943201 C19702.1_C19702_0_1001_f 1001 1
+
+			Align 86: 1942201 1943201 C19702.1_C19702_0_1001_f 1001 1
+				Negative gap (overlap) between this and next alignment: 1943201 to 1942630 (-571 bp)
+				Next Alignment: 1942630 1978830 scaffold12.1_scaffold12_0_51690_f 51690 15529
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 51690 to 51118.
+			Align 87: 1943202 1978830 scaffold12.1_scaffold12_0_51690_f 51118 15529
+				The next alignment (1961846 1962486 scaffold19.1_scaffold19_0_790_f 150 790) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 1978830 to 1978790 (-40 bp)
+				Next Alignment: 1978790 1994316 scaffold12.1_scaffold12_0_51690_f 15527 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 15527 to 15486.
+			Align 89: 1978831 1994316 scaffold12.1_scaffold12_0_51690_f 15486 1
+				Negative gap (overlap) between this and next alignment: 1994316 to 1994266 (-50 bp)
+				Next Alignment: 1994266 1995585 C19866.1_C19866_0_1320_f 1 1320
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 52.
+			Align 90: 1994317 1995585 C19866.1_C19866_0_1320_f 52 1320
+				Gap between this and next alignment: 1995585 to 2003474 (7888 bp)
+				Next Alignment: 2003474 2031690 scaffold9.1_scaffold9_0_102291_f 102291 73997
+
+			Align 91: 2003474 2031690 scaffold9.1_scaffold9_0_102291_f 102291 73997
+				Gap between this and next alignment: 2031690 to 2031832 (141 bp)
+				Next Alignment: 2031832 2041027 scaffold9.1_scaffold9_0_102291_f 73995 64775
+
+			Align 92: 2031832 2041027 scaffold9.1_scaffold9_0_102291_f 73995 64775
+				Gap between this and next alignment: 2041027 to 2041121 (93 bp)
+				Next Alignment: 2041121 2063990 scaffold9.1_scaffold9_0_102291_f 64773 41859
+
+			Align 93: 2041121 2063990 scaffold9.1_scaffold9_0_102291_f 64773 41859
+				Negative gap (overlap) between this and next alignment: 2063990 to 2063956 (-34 bp)
+				Next Alignment: 2063956 2105783 scaffold9.1_scaffold9_0_102291_f 41857 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 41857 to 41822.
+			Align 94: 2063991 2105783 scaffold9.1_scaffold9_0_102291_f 41822 1
+				Negative gap (overlap) between this and next alignment: 2105783 to 2105759 (-24 bp)
+				Next Alignment: 2105759 2117008 scaffold18.1_scaffold18_0_71534_f 1 11285
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 26.
+			Align 95: 2105784 2117008 scaffold18.1_scaffold18_0_71534_f 26 11285
+				Negative gap (overlap) between this and next alignment: 2117008 to 2117008 (0 bp)
+				Next Alignment: 2117008 2132340 scaffold18.1_scaffold18_0_71534_f 11415 26747
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 11415 to 11416.
+			Align 96: 2117009 2132340 scaffold18.1_scaffold18_0_71534_f 11416 26747
+				The next alignment (2117009 2117136 scaffold18.1_scaffold18_0_71534_f 11286 11413) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 2132340 to 2128562 (-3778 bp)
+				Next Alignment: 2128562 2173343 scaffold18.1_scaffold18_0_71534_f 26749 71534
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 26749 to 30528.
+			Align 98: 2132341 2173343 scaffold18.1_scaffold18_0_71534_f 30528 71534
+				Gap between this and next alignment: 2173343 to 2173360 (16 bp)
+				Next Alignment: 2173360 2175583 C20262.1_C20262_0_2224_f 1 2224
+
+			Align 99: 2173360 2175583 C20262.1_C20262_0_2224_f 1 2224
+				Gap between this and next alignment: 2175583 to 2175645 (61 bp)
+				Next Alignment: 2175645 2176494 scaffold8.1_scaffold8_0_4551_f 1 850
+
+			Align 100: 2175645 2176494 scaffold8.1_scaffold8_0_4551_f 1 850
+				Negative gap (overlap) between this and next alignment: 2176494 to 2176472 (-22 bp)
+				Next Alignment: 2176472 2179568 scaffold8.1_scaffold8_0_4551_f 1009 4104
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1009 to 1032.
+			Align 101: 2176495 2179568 scaffold8.1_scaffold8_0_4551_f 1032 4104
+				Gap between this and next alignment: 2179568 to 2179603 (34 bp)
+				Next Alignment: 2179603 2179748 scaffold8.1_scaffold8_0_4551_f 4241 4386
+
+			Align 102: 2179603 2179748 scaffold8.1_scaffold8_0_4551_f 4241 4386
+				Negative gap (overlap) between this and next alignment: 2179748 to 2179744 (-4 bp)
+				Next Alignment: 2179744 2179869 scaffold8.1_scaffold8_0_4551_f 4426 4551
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 4426 to 4431.
+			Align 103: 2179749 2179869 scaffold8.1_scaffold8_0_4551_f 4431 4551
+				Gap between this and next alignment: 2179869 to 2181473 (1603 bp)
+				Next Alignment: 2181473 2191019 scaffold11.1_scaffold11_0_20674_f 1 9462
+
+			Align 104: 2181473 2191019 scaffold11.1_scaffold11_0_20674_f 1 9462
+				Negative gap (overlap) between this and next alignment: 2191019 to 2190985 (-34 bp)
+				Next Alignment: 2190985 2202161 scaffold11.1_scaffold11_0_20674_f 9464 20674
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 9464 to 9499.
+			Align 105: 2191020 2202161 scaffold11.1_scaffold11_0_20674_f 9499 20674
+				Negative gap (overlap) between this and next alignment: 2202161 to 2202133 (-28 bp)
+				Next Alignment: 2202133 2202912 C19546.1_C19546_0_780_f 1 780
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 30.
+			Align 106: 2202162 2202912 C19546.1_C19546_0_780_f 30 780
+				Negative gap (overlap) between this and next alignment: 2202912 to 2202868 (-44 bp)
+				Next Alignment: 2202868 2246396 scaffold10.2_scaffold10_28603_89450_f 60847 17274
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 60847 to 60802.
+			Align 107: 2202913 2246396 scaffold10.2_scaffold10_28603_89450_f 60802 17274
+				Gap between this and next alignment: 2246396 to 2246421 (24 bp)
+				Next Alignment: 2246421 2247883 scaffold10.2_scaffold10_28603_89450_f 17273 15787
+
+			Align 108: 2246421 2247883 scaffold10.2_scaffold10_28603_89450_f 17273 15787
+				Gap between this and next alignment: 2247883 to 2248041 (157 bp)
+				Next Alignment: 2248041 2263825 scaffold10.2_scaffold10_28603_89450_f 15785 1
+
+			Align 109: 2248041 2263825 scaffold10.2_scaffold10_28603_89450_f 15785 1
+				Negative gap (overlap) between this and next alignment: 2263825 to 2263790 (-35 bp)
+				Next Alignment: 2263790 2266388 scaffold10.1_scaffold10_0_28534_f 28534 25914
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 28534 to 28498.
+			Align 110: 2263826 2266388 scaffold10.1_scaffold10_0_28534_f 28498 25914
+				Gap between this and next alignment: 2266388 to 2266411 (22 bp)
+				Next Alignment: 2266411 2292301 scaffold10.1_scaffold10_0_28534_f 25913 1
+
+			Align 111: 2266411 2292301 scaffold10.1_scaffold10_0_28534_f 25913 1
+				Gap between this and next alignment: 2292301 to 2297783 (5481 bp)
+				Next Alignment: 2297783 2327931 scaffold4.1_scaffold4_0_30210_f 1 30210
+
+			Align 112: 2297783 2327931 scaffold4.1_scaffold4_0_30210_f 1 30210
+				Negative gap (overlap) between this and next alignment: 2327931 to 2327871 (-60 bp)
+				Next Alignment: 2327871 2362686 scaffold4.2_scaffold4_30307_65165_f 1 34858
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 62.
+			Align 113: 2327932 2362686 scaffold4.2_scaffold4_30307_65165_f 62 34858
+				Negative gap (overlap) between this and next alignment: 2362686 to 2362674 (-12 bp)
+				Next Alignment: 2362674 2431790 scaffold4.3_scaffold4_65169_275126_f 1 69195
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 14.
+			Align 114: 2362687 2431790 scaffold4.3_scaffold4_65169_275126_f 14 69195
+				Gap between this and next alignment: 2431790 to 2431818 (27 bp)
+				Next Alignment: 2431818 2553829 scaffold4.3_scaffold4_65169_275126_f 69196 191509
+
+			Align 115: 2431818 2553829 scaffold4.3_scaffold4_65169_275126_f 69196 191509
+				Gap between this and next alignment: 2553829 to 2553853 (23 bp)
+				Next Alignment: 2553853 2572277 scaffold4.3_scaffold4_65169_275126_f 191510 209957
+
+			Align 116: 2553853 2572277 scaffold4.3_scaffold4_65169_275126_f 191510 209957
+				Negative gap (overlap) between this and next alignment: 2572277 to 2572236 (-41 bp)
+				Next Alignment: 2572236 2580616 scaffold1.1_scaffold1_0_82896_f 1 8311
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 43.
+			Align 117: 2572278 2580616 scaffold1.1_scaffold1_0_82896_f 43 8311
+				Gap between this and next alignment: 2580616 to 2580627 (10 bp)
+				Next Alignment: 2580627 2625111 scaffold1.1_scaffold1_0_82896_f 8312 52806
+
+			Align 118: 2580627 2625111 scaffold1.1_scaffold1_0_82896_f 8312 52806
+				Negative gap (overlap) between this and next alignment: 2625111 to 2624344 (-767 bp)
+				Next Alignment: 2624344 2654420 scaffold1.1_scaffold1_0_82896_f 52807 82892
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 52807 to 53575.
+			Align 119: 2625112 2654420 scaffold1.1_scaffold1_0_82896_f 53575 82892
+				Gap between this and next alignment: 2654420 to 2654423 (2 bp)
+				Next Alignment: 2654423 2665057 scaffold1.2_scaffold1_82903_93538_f 1 10635
+
+			Align 120: 2654423 2665057 scaffold1.2_scaffold1_82903_93538_f 1 10635
+				Gap between this and next alignment: 2665057 to 2665088 (30 bp)
+				Next Alignment: 2665088 2665934 C19592.1_C19592_0_847_f 1 847
+
+			Align 121: 2665088 2665934 C19592.1_C19592_0_847_f 1 847
+				Negative gap (overlap) between this and next alignment: 2665934 to 2665916 (-18 bp)
+				Next Alignment: 2665916 2693628 scaffold1.3_scaffold1_94178_171000_f 1 27763
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 20.
+			Align 122: 2665935 2693628 scaffold1.3_scaffold1_94178_171000_f 20 27763
+				Gap between this and next alignment: 2693628 to 2693653 (24 bp)
+				Next Alignment: 2693653 2697814 scaffold1.3_scaffold1_94178_171000_f 27764 31949
+
+			Align 123: 2693653 2697814 scaffold1.3_scaffold1_94178_171000_f 27764 31949
+				Negative gap (overlap) between this and next alignment: 2697814 to 2697684 (-130 bp)
+				Next Alignment: 2697684 2727742 scaffold1.3_scaffold1_94178_171000_f 31951 62066
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 31951 to 32082.
+			Align 124: 2697815 2727742 scaffold1.3_scaffold1_94178_171000_f 32082 62066
+				Negative gap (overlap) between this and next alignment: 2727742 to 2724980 (-2762 bp)
+				Next Alignment: 2724980 2739703 scaffold1.3_scaffold1_94178_171000_f 62073 76822
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 62073 to 64836.
+			Align 125: 2727743 2739703 scaffold1.3_scaffold1_94178_171000_f 64836 76822
+				Gap between this and next alignment: 2739703 to 2739733 (29 bp)
+				Next Alignment: 2739733 2759954 scaffold1.4_scaffold1_171069_329041_f 1 20251
+
+			Align 126: 2739733 2759954 scaffold1.4_scaffold1_171069_329041_f 1 20251
+				Negative gap (overlap) between this and next alignment: 2759954 to 2759859 (-95 bp)
+				Next Alignment: 2759859 2774869 scaffold1.4_scaffold1_171069_329041_f 20253 35284
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 20253 to 20349.
+			Align 127: 2759955 2774869 scaffold1.4_scaffold1_171069_329041_f 20349 35284
+				Negative gap (overlap) between this and next alignment: 2774869 to 2774708 (-161 bp)
+				Next Alignment: 2774708 2807681 scaffold1.4_scaffold1_171069_329041_f 35285 68301
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 35285 to 35447.
+			Align 128: 2774870 2807681 scaffold1.4_scaffold1_171069_329041_f 35447 68301
+				Gap between this and next alignment: 2807681 to 2807776 (94 bp)
+				Next Alignment: 2807776 2838259 scaffold1.4_scaffold1_171069_329041_f 68303 98806
+
+			Align 129: 2807776 2838259 scaffold1.4_scaffold1_171069_329041_f 68303 98806
+				Negative gap (overlap) between this and next alignment: 2838259 to 2838104 (-155 bp)
+				Next Alignment: 2838104 2842540 scaffold1.4_scaffold1_171069_329041_f 98808 103255
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 98808 to 98964.
+			Align 130: 2838260 2842540 scaffold1.4_scaffold1_171069_329041_f 98964 103255
+				Gap between this and next alignment: 2842540 to 2842552 (11 bp)
+				Next Alignment: 2842552 2872915 scaffold1.4_scaffold1_171069_329041_f 103256 133651
+
+			Align 131: 2842552 2872915 scaffold1.4_scaffold1_171069_329041_f 103256 133651
+			END in current alignment.  Modifying 2872915 to 2872915.
+
+ERROR: Reference gi_225631039_ref_NC_012417.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA01-HOU__complete_sequence does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence', 'NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome']
+	Reference gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence: 4 total alignments. 1 total regions.
+		Region: 1 to 27041 (27041 bp)
+			Align 1: 1 16735 scaffold6.1_scaffold6_0_30604_f 13614 30604
+				Gap between this and next alignment: 16735 to 17117 (381 bp)
+				Next Alignment: 17117 27016 scaffold6.1_scaffold6_0_30604_f 3534 13460
+
+			Align 2: 17117 27016 scaffold6.1_scaffold6_0_30604_f 3534 13460
+				The next alignment (20737 24243 scaffold6.1_scaffold6_0_30604_f 1 3507) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 27016 to 26889 (-127 bp)
+				Next Alignment: 26889 27041 scaffold6.1_scaffold6_0_30604_f 13461 13613
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 13461 to 13589.
+			Align 4: 27017 27041 scaffold6.1_scaffold6_0_30604_f 13589 13613
+			END in current alignment.  Modifying 27041 to 27041.
+
+Analysis is finished!
+Founded SNPs were written into /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.used_snps.gz
+
+Results:
+	Local Misassemblies: 39
+	Misassemblies: 6
+		Relocations: 6
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 6
+	Misassembled Contig Bases: 477620
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 0 part
+Partially Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 10
+Total Bases in Ambiguously Mapped Contigs: 919724
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 2866315
+
+	SNPs: 228
+	Insertions: 4338
+	Deletions: 1697
+
+	Positive Gaps: 65
+		Internal Gaps:  37
+		External Gaps:  28
+		External Gap Total:  30166
+		External Gap Average: 1077
+	Negative Gaps: 58
+		Internal Overlaps:  32
+		External Overlaps:  26
+		External Overlaps Total: -3690
+		External Overlaps Average: -142
+	Contigs with Redundant Alignments: 8 (9845)

@@ -1,0 +1,19 @@
+reference chromosomes:
+	gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence (total length: 27041 bp, maximal covered length: 25490 bp)
+	gi_225631039_ref_NC_012417.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA01-HOU__complete_sequence (total length: 3125 bp, maximal covered length: 0 bp)
+	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome (total length: 2872915 bp, maximal covered length: 2817654 bp)
+
+total genome size: 2903081
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+================================================================================================================
+before_contigs           | 97.92159% | 1.00456     | 86        | -         | -         | -         | -         |
+after_filter_contigs     | 97.91370% | 1.00456     | 87        | -         | -         | -         | -         |
+before_scaffolds         | 97.91415% | 1.00473     | 87        | -         | -         | -         | -         |
+after_filter_scaffolds   | 97.93540% | 1.01902     | 85        | -         | -         | -         | -         |

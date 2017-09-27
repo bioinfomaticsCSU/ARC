@@ -1,0 +1,8 @@
+Datasets: Rhodobacter sphaeroides (HiSeq)
+Link:http://ccb.jhu.edu/gage_b/datasets/index.html
+Genome size(Mbp):4.6
+lib1: 
+     Read length(bp):101
+	 Number of reads:4628173
+     Coverage:~210
+	 InsertSize:220

@@ -1,0 +1,259 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+2181473	2191019	1	9462	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold11_0.0	99.1		True
+indel: indel (> 5bp)
+2190985	2202161	9464	20674	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold11_0.0	99.7		True
+CONTIG	scaffold11_0.0	20674	correct
+2175645	2176494	1	850	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold8_0.0	100.0		True
+local misassembly
+2176472	2179568	1009	4104	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold8_0.0	99.94		True
+local misassembly
+2179603	2179748	4241	4386	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold8_0.0	100.0		True
+indel: indel (> 5bp)
+2179744	2179869	4426	4551	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold8_0.0	99.21		True
+CONTIG	scaffold8_0.0	4551	correct
+556309	556457	149	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold19_0.0	100.0		True
+relocation, inconsistency = 1405388
+1961846	1962486	150	790	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold19_0.0	98.14		True
+CONTIG	scaffold19_0.0	790	misassembled
+517837	556205	60	38417	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold5_0.0	99.81		True
+local misassembly
+556504	557008	38546	39066	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold5_0.0	96.55		True
+CONTIG	scaffold5_0.0	39066	correct
+349208	355847	6672	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold20_0.0	99.52		True
+CONTIG	scaffold20_0.0	6672	correct
+1755406	1768054	12649	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold16_0.0	100.0		True
+relocation, inconsistency = -1082
+1750771	1756442	18386	12695	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold16_0.0	99.61		True
+local misassembly
+1742691	1750860	26557	18388	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold16_0.0	100.0		True
+local misassembly
+1742715	1742806	26673	26559	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold16_0.0	99.85		True
+indel: indel (> 5bp)
+1723153	1742691	46235	26674	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold16_0.0	99.88		True
+CONTIG	scaffold16_0.0	46235	misassembled
+671717	700578	28885	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold21_0.0	99.92		True
+CONTIG	scaffold21_0.0	28885	correct
+2266411	2292301	25913	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold10_0.0	99.91		True
+indel: indel (> 5bp)
+2263790	2266388	28534	25914	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold10_0.0	99.89		True
+local misassembly
+2248041	2263825	44388	28604	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold10_0.0	99.99		True
+local misassembly
+2246421	2247883	45876	44390	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold10_0.0	99.88		True
+indel: indel (> 5bp)
+2202868	2246396	89450	45877	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold10_0.0	99.89		True
+CONTIG	scaffold10_0.0	89450	correct
+1978790	1994316	15527	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold12_0.0	99.99		True
+indel: indel (> 5bp)
+1942630	1978830	51690	15529	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold12_0.0	99.81		True
+local misassembly
+1916018	1942139	78178	51990	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold12_0.0	99.6		True
+CONTIG	scaffold12_0.0	78178	correct
+2105759	2117008	1	11285	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold18_0.0	99.69		True
+indel: stretch of mismatches and Ns
+2117009	2117136	11286	11413	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold18_0.0	100.0		True
+local misassembly
+2117008	2132340	11415	26747	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold18_0.0	100.0		True
+relocation, inconsistency = -3780
+2128562	2173343	26749	71534	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold18_0.0	99.99		True
+CONTIG	scaffold18_0.0	71534	misassembled
+562633	618453	1	55896	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold13_0.0	99.85		True
+relocation, inconsistency = -2828
+615627	618261	55898	58566	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold13_0.0	97.79		True
+local misassembly
+618640	622257	58567	62184	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold13_0.0	99.27		True
+indel: indel (> 5bp)
+622342	657542	62185	97399	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold13_0.0	99.9		True
+indel: indel (> 5bp)
+657563	671636	97400	111413	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold13_0.0	99.7		True
+CONTIG	scaffold13_0.0	111413	misassembled
+1873665	1910722	37186	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold15_0.0	99.62		True
+local misassembly
+1843776	1873568	67001	37188	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold15_0.0	99.94		True
+indel: indel (> 5bp)
+1774514	1843754	136328	67002	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold15_0.0	99.68		True
+indel: indel (> 5bp)
+1768175	1774442	142667	136329	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold15_0.0	99.73		True
+CONTIG	scaffold15_0.0	142667	correct
+20737	24243	1	3507	gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence	scaffold6_0.0	100.0		True
+relocation, inconsistency = -7153
+17117	27016	3534	13460	gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence	scaffold6_0.0	99.62		True
+local misassembly
+26889	27041	13461	13613	gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence	scaffold6_0.0	98.36		True
+fake: not a misassembly (linear representation of circular genome)
+1	16735	13614	30604	gi_161510924_ref_NC_010063.1__Staphylococcus_aureus_subsp._aureus_USA300_TCH1516_plasmid_pUSA300HOUMR__complete_sequence	scaffold6_0.0	98.15		True
+CONTIG	scaffold6_0.0	30604	misassembled
+2063956	2105783	41857	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold9_0.0	99.92		True
+indel: indel (> 5bp)
+2041121	2063990	64773	41859	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold9_0.0	99.8		True
+local misassembly
+2031832	2041027	73995	64775	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold9_0.0	99.73		True
+local misassembly
+2003474	2031690	102291	73997	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold9_0.0	99.71		True
+CONTIG	scaffold9_0.0	102291	correct
+700549	701274	726	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	C19510__0.0	100.0		True
+CONTIG	C19510__0.0	726	correct
+1912458	1913049	1	592	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	C19378__0.0	100.0		True
+CONTIG	C19378__0.0	592	correct
+2202133	2202912	1	780	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	C19546__0.0	100.0		True
+CONTIG	C19546__0.0	780	correct
+2665088	2665934	1	847	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	C19592__0.0	100.0		True
+CONTIG	C19592__0.0	847	correct
+346956	347928	973	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	C19684__0.0	100.0		True
+CONTIG	C19684__0.0	973	correct
+1942201	1943201	1001	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	C19702__0.0	100.0		True
+CONTIG	C19702__0.0	1001	correct
+2173360	2175583	1	2224	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	C20262__0.0	100.0		True
+CONTIG	C20262__0.0	2224	correct
+1719897	1722757	2861	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	C20452__0.0	100.0		True
+CONTIG	C20452__0.0	2861	correct
+1913012	1916062	1	3051	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	C20516__0.0	100.0		True
+CONTIG	C20516__0.0	3051	correct
+1994266	1995585	1	1320	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	C19866__0.0	100.0		True
+CONTIG	C19866__0.0	1320	correct
+557002	558660	1	1659	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	C20042__0.0	100.0		True
+CONTIG	C20042__0.0	1659	correct
+355833	394886	1	39090	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold17_0.0	99.63		True
+local misassembly
+395017	448670	39092	92765	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold17_0.0	99.96		True
+indel: indel (> 5bp)
+448691	457925	92766	102070	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold17_0.0	99.75		True
+local misassembly
+458926	470358	102925	114383	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold17_0.0	99.42		True
+local misassembly
+469552	492714	114384	137546	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold17_0.0	99.81		True
+local misassembly
+492594	504781	137548	149784	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold17_0.0	99.14		True
+indel: indel (> 5bp)
+504747	512694	149786	157733	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold17_0.0	100.0		True
+CONTIG	scaffold17_0.0	157733	correct
+162253	247378	1	85427	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold2_0.0	99.65		True
+indel: indel (> 5bp)
+247399	274703	85428	112802	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold2_0.0	99.85		True
+indel: indel (> 5bp)
+274662	334839	112804	173074	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold2_0.0	99.85		True
+indel: indel (> 5bp)
+334886	347148	173075	185411	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold2_0.0	99.7		True
+relocation, inconsistency = 1017
+348166	349211	185412	186457	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold2_0.0	99.64		True
+CONTIG	scaffold2_0.0	186457	misassembled
+1715783	1719904	4122	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold7_0.0	100.0		True
+local misassembly
+1654325	1715881	65649	4124	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold7_0.0	99.77		True
+indel: indel (> 5bp)
+1565866	1654274	154133	65650	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold7_0.0	99.79		True
+indel: indel (> 5bp)
+1549579	1565833	170453	154134	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold7_0.0	99.69		True
+indel: indel (> 5bp)
+1495934	1549616	224161	170455	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold7_0.0	99.95		True
+indel: indel (> 5bp)
+1485456	1495979	234736	224163	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold7_0.0	99.53		True
+local misassembly
+1485478	1485634	234922	234745	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold7_0.0	99.82		True
+indel: indel (> 5bp)
+1457689	1485456	262711	234923	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold7_0.0	99.92		True
+CONTIG	scaffold7_0.0	262711	correct
+2297783	2327871	1	30150	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold4_0.0	99.69		True
+local misassembly
+2327871	2431790	30308	134364	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold4_0.0	99.75		True
+indel: indel (> 5bp)
+2431818	2553829	134365	256678	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold4_0.0	99.75		True
+indel: indel (> 5bp)
+2553853	2572277	256679	275126	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold4_0.0	99.93		True
+CONTIG	scaffold4_0.0	275126	correct
+2572236	2580616	1	8311	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.62		True
+indel: indel (> 5bp)
+2580627	2625111	8312	52806	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.93		True
+local misassembly
+2624344	2665057	52807	93538	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.59		True
+local misassembly
+2665916	2693628	94179	121941	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.82		True
+indel: indel (> 5bp)
+2693653	2697814	121942	126127	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.9		True
+local misassembly
+2697684	2727742	126129	156244	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.35		True
+relocation, inconsistency = -2769
+2724980	2756685	156251	188051	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.59		True
+indel: indel (> 5bp)
+2756715	2759954	188052	191320	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.85		True
+local misassembly
+2759859	2774869	191322	206353	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.76		True
+local misassembly
+2774708	2807681	206354	239370	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.66		True
+local misassembly
+2807776	2838259	239372	269875	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.56		True
+local misassembly
+2838104	2842540	269877	274324	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.95		True
+indel: indel (> 5bp)
+2842552	2872915	274325	304720	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.89		True
+fake: not a misassembly (linear representation of circular genome)
+1	35868	304721	340668	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.76		True
+local misassembly
+36751	37196	341343	341788	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	98.43		True
+local misassembly
+36582	52488	341790	357637	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.62		True
+local misassembly
+52929	111483	357638	416122	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.81		True
+indel: indel (> 5bp)
+111494	111778	416123	416417	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.4		True
+local misassembly
+110947	162293	416418	467812	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold1_0.0	99.73		True
+CONTIG	scaffold1_0.0	467812	misassembled
+1427067	1457059	29994	1	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.99		True
+local misassembly
+1418533	1426602	38340	30245	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.9		True
+indel: indel (> 5bp)
+1383986	1418506	72928	38341	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.8		True
+relocation, inconsistency = -1775
+1380668	1385078	78022	73611	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.98		True
+local misassembly
+1359968	1380499	98575	78023	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.9		True
+relocation, inconsistency = -3974
+1362293	1363689	100224	98828	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	100.0		True
+local misassembly
+1315159	1360025	147046	102065	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.75		True
+indel: indel (> 5bp)
+1206531	1315135	255724	147047	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.87		True
+indel: indel (> 5bp)
+1175691	1206593	286663	255726	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.88		True
+local misassembly
+1124456	1175818	338027	286665	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.99		True
+local misassembly
+1123106	1124608	339531	338029	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.93		True
+local misassembly
+1098240	1123206	364499	339533	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.99		True
+local misassembly
+1074977	1098091	387653	364501	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.76		True
+local misassembly
+1072342	1075083	390365	387654	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	98.87		True
+local misassembly
+1036926	1072221	425713	390367	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.85		True
+indel: indel (> 5bp)
+1036558	1036902	426081	425714	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.83		True
+local misassembly
+1036558	1036926	426450	426082	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	97.54		True
+local misassembly
+1009361	1036926	454054	426451	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.85		True
+local misassembly
+1001994	1009417	462169	454697	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.82		True
+indel: indel (> 5bp)
+954697	1001968	509447	462170	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.9		True
+local misassembly
+891886	954498	572133	509449	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.88		True
+local misassembly
+866082	891667	597719	572134	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	100.0		True
+local misassembly
+855847	866229	608132	597721	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.72		True
+local misassembly
+848614	855729	615278	608133	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.47		True
+local misassembly
+823223	848389	640459	615327	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.7		True
+local misassembly
+801042	823071	662504	640461	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.83		True
+local misassembly
+780416	801054	683395	662733	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.94		True
+indel: indel (> 5bp)
+704894	780391	759024	683396	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.82		True
+local misassembly
+701323	705026	762728	759025	NC_010079_Staphylococcus_aureus_subsp._aureus_USA300_TCH1516__complete_genome	scaffold14_0.0	99.97		True
+CONTIG	scaffold14_0.0	762728	misassembled

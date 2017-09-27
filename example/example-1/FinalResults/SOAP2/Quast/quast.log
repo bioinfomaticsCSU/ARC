@@ -1,0 +1,179 @@
+/home/liaoxingyu/quast-4.3/quast.py /home/liaoxingyu/ARC-quake-master/AssemblyResults/SOAP2/before/before2.contig /home/liaoxingyu/ARC-quake-master/AssemblyResults/SOAP2/after+filter/afterfilter2.contig /home/liaoxingyu/ARC-quake-master/AssemblyResults/SOAP2/before/before2.scafSeq /home/liaoxingyu/ARC-quake-master/AssemblyResults/SOAP2/after+filter/afterfilter2.scafSeq -R /home/liaoxingyu/ARC-quake-master/reference/genome-1.fasta -o /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/
+
+Version: 4.3
+
+System information:
+  OS: Linux-3.13.0-24-generic-x86_64-with-Ubuntu-12.04-precise (linux_64)
+  Python version: 2.7.3
+  CPUs number: 24
+
+Started: 2017-07-28 02:05:44
+
+Logging to /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+NOTICE: Maximum number of threads is set to 6 (use --threads option to set it manually)
+
+CWD: /home/liaoxingyu/ARC-quake-master
+Main parameters: 
+  Threads: 6, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+WARNING: Can't draw plots: please install python-matplotlib.
+
+Reference:
+  /home/liaoxingyu/ARC-quake-master/reference/genome-1.fasta ==> genome-1
+
+Contigs:
+  Pre-processing...
+  1  /home/liaoxingyu/ARC-quake-master/AssemblyResults/SOAP2/before/before2.contig ==> before2
+  2  /home/liaoxingyu/ARC-quake-master/AssemblyResults/SOAP2/after+filter/afterfilter2.contig ==> afterfilter2
+  3  /home/liaoxingyu/ARC-quake-master/AssemblyResults/SOAP2/before/before2.scafSeq ==> before2.scafSeq
+  4  /home/liaoxingyu/ARC-quake-master/AssemblyResults/SOAP2/after+filter/afterfilter2.scafSeq ==> afterfilter2.scafSeq
+
+2017-07-28 02:05:45
+Running Basic statistics processor...
+  Reference genome:
+    genome-1.fasta, Reference length = 2903081, Reference GC % = 32.73
+  Contig files: 
+    1  before2
+    2  afterfilter2
+    3  before2.scafSeq
+    4  afterfilter2.scafSeq
+  Calculating N50 and L50...
+    1  before2, N50 = 6466, L50 = 145, Total length = 2840284, GC % = 32.57, # N's per 100 kbp =  9.82
+    2  afterfilter2, N50 = 126470, L50 = 8, Total length = 2894698, GC % = 32.60, # N's per 100 kbp =  8.15
+    3  before2.scafSeq, N50 = 6521, L50 = 144, Total length = 2843039, GC % = 32.58, # N's per 100 kbp =  18.22
+    4  afterfilter2.scafSeq, N50 = 275126, L50 = 3, Total length = 2901611, GC % = 32.60, # N's per 100 kbp =  246.38
+Done.
+
+2017-07-28 02:05:46
+Running Contig analyzer...
+  3  before2.scafSeq
+  4  afterfilter2.scafSeq
+  2  afterfilter2
+  3  Logging to files /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/contigs_report_before2.scafSeq.stdout and contigs_report_before2.scafSeq.stderr...
+  4  Logging to files /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/contigs_report_afterfilter2.scafSeq.stdout and contigs_report_afterfilter2.scafSeq.stderr...
+  1  Logging to files /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/contigs_report_before2.stdout and contigs_report_before2.stderr...
+  2  Logging to files /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/contigs_report_afterfilter2.stdout and contigs_report_afterfilter2.stderr...
+  3  Aligning contigs to the reference
+  4  Aligning contigs to the reference
+  1  Aligning contigs to the reference
+  2  Aligning contigs to the reference
+  3  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/nucmer -c 65 -l 65 --maxmatch \
+     -p FinalResults/SOAP2/contigs_reports/nucmer_output/before2.scafSeq -t 1 FinalResults/SOAP2/quast_corrected_input/genome-1.fasta \
+     FinalResults/SOAP2/quast_corrected_input/before2.scafSeq >> FinalResults/SOAP2/contigs_reports/contigs_report_before2.scafSeq.stdout \
+     2>> FinalResults/SOAP2/contigs_reports/contigs_report_before2.scafSeq.stderr
+  4  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/nucmer -c 65 -l 65 --maxmatch \
+     -p FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.scafSeq -t 1 \
+     FinalResults/SOAP2/quast_corrected_input/genome-1.fasta FinalResults/SOAP2/quast_corrected_input/afterfilter2.scafSeq \
+     >> FinalResults/SOAP2/contigs_reports/contigs_report_afterfilter2.scafSeq.stdout \
+     2>> FinalResults/SOAP2/contigs_reports/contigs_report_afterfilter2.scafSeq.stderr
+  1  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/nucmer -c 65 -l 65 --maxmatch \
+     -p FinalResults/SOAP2/contigs_reports/nucmer_output/before2 -t 1 FinalResults/SOAP2/quast_corrected_input/genome-1.fasta \
+     FinalResults/SOAP2/quast_corrected_input/before2.contig >> FinalResults/SOAP2/contigs_reports/contigs_report_before2.stdout \
+     2>> FinalResults/SOAP2/contigs_reports/contigs_report_before2.stderr
+  1  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/delta-filter -i 95.0 -l 0 FinalResults/SOAP2/contigs_reports/nucmer_output/before2.delta \
+     > FinalResults/SOAP2/contigs_reports/nucmer_output/before2.fdelta 2> FinalResults/SOAP2/contigs_reports/contigs_report_before2.stderr
+  1  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-coords FinalResults/SOAP2/contigs_reports/nucmer_output/before2.delta \
+     > FinalResults/SOAP2/contigs_reports/nucmer_output/before2.coords_tmp 2> FinalResults/SOAP2/contigs_reports/contigs_report_before2.stderr
+  1  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-snps -S -T -H FinalResults/SOAP2/contigs_reports/nucmer_output/before2.delta \
+     < FinalResults/SOAP2/contigs_reports/nucmer_output/before2.coords.headless > \
+     FinalResults/SOAP2/contigs_reports/nucmer_output/before2.all_snps 2> FinalResults/SOAP2/contigs_reports/contigs_report_before2.stderr
+  3  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/delta-filter -i 95.0 -l 0 FinalResults/SOAP2/contigs_reports/nucmer_output/before2.scafSeq.delta \
+     > FinalResults/SOAP2/contigs_reports/nucmer_output/before2.scafSeq.fdelta 2> \
+     FinalResults/SOAP2/contigs_reports/contigs_report_before2.scafSeq.stderr
+  3  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-coords FinalResults/SOAP2/contigs_reports/nucmer_output/before2.scafSeq.delta \
+     > FinalResults/SOAP2/contigs_reports/nucmer_output/before2.scafSeq.coords_tmp \
+     2> FinalResults/SOAP2/contigs_reports/contigs_report_before2.scafSeq.stderr
+  3  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-snps -S -T -H FinalResults/SOAP2/contigs_reports/nucmer_output/before2.scafSeq.delta \
+     < FinalResults/SOAP2/contigs_reports/nucmer_output/before2.scafSeq.coords.headless \
+     > FinalResults/SOAP2/contigs_reports/nucmer_output/before2.scafSeq.all_snps 2> \
+     FinalResults/SOAP2/contigs_reports/contigs_report_before2.scafSeq.stderr
+  1  Alignments: FinalResults/SOAP2/contigs_reports/alignments_before2.tsv
+  1  Analysis is finished.
+
+  Gzipping /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/nucmer_output/before2.all_snps to reduce disk space usage...
+    saved to /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/nucmer_output/before2.all_snps.gz
+  3  Alignments: FinalResults/SOAP2/contigs_reports/alignments_before2.scafSeq.tsv
+  3  Analysis is finished.
+
+  Gzipping /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/nucmer_output/before2.scafSeq.all_snps to reduce disk space usage...
+    saved to /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/nucmer_output/before2.scafSeq.all_snps.gz
+  4  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/delta-filter -i 95.0 -l 0 FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.scafSeq.delta \
+     > FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.scafSeq.fdelta \
+     2> FinalResults/SOAP2/contigs_reports/contigs_report_afterfilter2.scafSeq.stderr
+  4  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-coords FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.scafSeq.delta \
+     > FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.scafSeq.coords_tmp \
+     2> FinalResults/SOAP2/contigs_reports/contigs_report_afterfilter2.scafSeq.stderr
+  4  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-snps -S -T -H FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.scafSeq.delta \
+     < FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.scafSeq.coords.headless \
+     > FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.scafSeq.all_snps \
+     2> FinalResults/SOAP2/contigs_reports/contigs_report_afterfilter2.scafSeq.stderr
+  2  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/delta-filter -i 95.0 -l 0 FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.delta \
+     > FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.fdelta 2> FinalResults/SOAP2/contigs_reports/contigs_report_afterfilter2.stderr
+  2  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-coords FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.delta \
+     > FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.coords_tmp 2> \
+     FinalResults/SOAP2/contigs_reports/contigs_report_afterfilter2.stderr
+  2  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-snps -S -T -H FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.delta \
+     < FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.coords.headless \
+     > FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.all_snps 2> FinalResults/SOAP2/contigs_reports/contigs_report_afterfilter2.stderr
+  4  Alignments: FinalResults/SOAP2/contigs_reports/alignments_afterfilter2.scafSeq.tsv
+  4  Analysis is finished.
+
+  Gzipping /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.scafSeq.all_snps to reduce disk space usage...
+  2  Alignments: FinalResults/SOAP2/contigs_reports/alignments_afterfilter2.tsv
+  2  Analysis is finished.
+
+  Gzipping /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.all_snps to reduce disk space usage...
+    saved to /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.scafSeq.all_snps.gz
+    saved to /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/nucmer_output/afterfilter2.all_snps.gz
+  Creating total report...
+    saved to /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+Done.
+
+2017-07-28 02:06:04
+Running NA-NGA calculation...
+  1  before2, Largest alignment = 22607, NA50 = 6466, NGA50 = 6367, LA50 = 145, LGA50 = 150
+  2  afterfilter2, Largest alignment = 306761, NA50 = 126469, NGA50 = 126469, LA50 = 8, LGA50 = 8
+  3  before2.scafSeq, Largest alignment = 22607, NA50 = 6521, NGA50 = 6429, LA50 = 144, LGA50 = 148
+  4  afterfilter2.scafSeq, Largest alignment = 661134, NA50 = 262700, NGA50 = 262700, LA50 = 4, LGA50 = 4
+Done.
+
+2017-07-28 02:06:04
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  1  before2
+  2  afterfilter2
+  3  before2.scafSeq
+  4  afterfilter2.scafSeq
+  2  Analysis is finished.
+  3  Analysis is finished.
+  4  Analysis is finished.
+  1  Analysis is finished.
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2017-07-28 02:06:05
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 1: Creating Icarus viewers...
+Done
+
+2017-07-28 02:06:06
+RESULTS:
+  Text versions of total report are saved to /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/report.html
+  Icarus (contig browser) is saved to /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/icarus.html
+  Log saved to /home/liaoxingyu/ARC-quake-master/FinalResults/SOAP2/quast.log
+
+Finished: 2017-07-28 02:06:06
+Elapsed time: 0:00:22.217662
+NOTICEs: 5; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

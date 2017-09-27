@@ -1,0 +1,13 @@
+Assembly	before2	afterfilter2	before2.scafSeq	afterfilter2.scafSeq
+# misassemblies	0	3	0	3
+    # relocations	0	2	0	2
+    # translocations	0	1	0	1
+    # inversions	0	0	0	0
+# misassembled contigs	0	3	0	3
+Misassembled contigs length	0	52105	0	122705
+# local misassemblies	8	27	10	33
+# mismatches	527	799	669	875
+# indels	154	468	575	771
+    # indels (<= 5 bp)	19	88	57	132
+    # indels (> 5 bp)	135	380	518	639
+Indels length	4869	13711	18098	22502

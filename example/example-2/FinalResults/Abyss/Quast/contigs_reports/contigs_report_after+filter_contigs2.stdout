@@ -1,0 +1,2393 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference 
+Parsing coords...
+Loading reference...
+	Loaded [NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence]
+	Loaded [NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence]
+	Loaded [NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence]
+	Loaded [NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence]
+	Loaded [NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence]
+	Loaded [NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence]
+	Loaded [NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence]
+Loading SNPs...
+	Total Regions: 7
+	Total Region Length: 4628173
+Analyzing contigs...
+CONTIG: 13.1_13_0_87233_f (87233bp)
+Top Length: 87233  Top ID: 99.99 (Score: 87224.3)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  287817 288988 | 87233 86062 | 1172 1172 | 99.66 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 13.1_13_0_87233_f
+		One align captures most of this contig: 306494 393723 | 87233 1 | 87230 87233 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 13.1_13_0_87233_f
+
+CONTIG: 17.1_17_0_2593_f (2593bp)
+Top Length: 2593  Top ID: 100.00 (Score: 2593.0)
+		One align captures most of this contig: 847435 850027 | 2593 1 | 2593 2593 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 17.1_17_0_2593_f
+
+CONTIG: 17.2_17_2602_79116_f (76514bp)
+Top Length: 76514  Top ID: 99.98 (Score: 76498.7)
+		One align captures most of this contig: 770922 847421 | 76514 1 | 76500 76514 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 17.2_17_2602_79116_f
+
+CONTIG: 11.1_11_0_72106_f (72106bp)
+Top Length: 53403  Top ID: 99.94 (Score: 53371.0)
+			The best set is below. Score: 72054.1, number of alignments: 2, unaligned bases: 3
+		This contig is misassembled. 2 total aligns.
+			Excluding internal overlap of size 20022 between Alignment 1 and 2:  777862 816605 | 72103 33382 | 38744 38722 --> 777862 796583 | 72103 53404 | 18722 18700
+			Real Alignment 1: 796564 849987 | 53403 1 | 53424 53403 | 99.94 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 11.1_11_0_72106_f
+			  Indel (> 5bp) between these two alignments: insertion of length 20; 0 mismatches
+			Real Alignment 2: 777862 796583 | 72103 53404 | 18722 18700 | 99.91 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 11.1_11_0_72106_f
+
+CONTIG: 11.2_11_72120_88378_f (16258bp)
+Top Length: 16258  Top ID: 99.91 (Score: 16243.4)
+		One align captures most of this contig: 761585 777842 | 16258 1 | 16258 16258 | 99.91 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 11.2_11_72120_88378_f
+
+CONTIG: 12.1_12_0_87527_f (87527bp)
+Top Length: 87527  Top ID: 99.98 (Score: 87509.5)
+		One align captures most of this contig: 2774259 2861772 | 87527 1 | 87514 87527 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 12.1_12_0_87527_f
+
+CONTIG: 19.1_19_0_69044_f (69044bp)
+Top Length: 62640  Top ID: 99.93 (Score: 62596.2)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 147721 149346 | 1 1626 | 1626 1626 | 99.2 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 19.1_19_0_69044_f
+			The best set is below. Score: 68993.1, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled. 3 total aligns.
+			Excluding internal overlap of size 19970 between Alignment 1 and 2:  2218869 2245272 | 42671 69044 | 26404 26374 --> 2238839 2245272 | 62641 69044 | 6434 6404
+			Real Alignment 1: 2176197 2238868 | 1 62640 | 62672 62640 | 99.93 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 19.1_19_0_69044_f
+			  Indel (> 5bp) between these two alignments: insertion of length 30; 0 mismatches
+			Real Alignment 2: 2238839 2245272 | 62641 69044 | 6434 6404 | 99.89 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 19.1_19_0_69044_f
+
+CONTIG: 19.2_19_69080_76886_f (7806bp)
+Top Length: 7805  Top ID: 99.90 (Score: 7797.2)
+		One align captures most of this contig: 2245310 2253117 | 2 7806 | 7808 7805 | 99.9 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 19.2_19_69080_76886_f
+
+CONTIG: 8.1_8_0_4037_f (4037bp)
+Top Length: 4026  Top ID: 99.93 (Score: 4023.2)
+		One align captures most of this contig: 1195680 1199705 | 4026 1 | 4026 4026 | 99.93 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 8.1_8_0_4037_f
+
+CONTIG: 8.2_8_4087_137593_f (133506bp)
+Top Length: 133505  Top ID: 99.97 (Score: 133464.9)
+		One align captures most of this contig: 1062105 1195608 | 133505 1 | 133504 133505 | 99.97 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 8.2_8_4087_137593_f
+
+CONTIG: 8.3_8_137605_142574_f (4969bp)
+Top Length: 4969  Top ID: 100.00 (Score: 4969.0)
+		One align captures most of this contig: 1057126 1062094 | 4969 1 | 4969 4969 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 8.3_8_137605_142574_f
+
+CONTIG: 7.1_7_0_102429_f (102429bp)
+Top Length: 91466  Top ID: 99.98 (Score: 91447.7)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 147686 149346 | 1661 1 | 1661 1661 | 99.1 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 7.1_7_0_102429_f
+		Skipping redundant alignment 2156744 2166819 | 21031 10964 | 10076 10068 | 99.92 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 7.1_7_0_102429_f
+		Skipping redundant alignment 766841 766931 | 38776 38684 | 91 93 | 96.77 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 7.1_7_0_102429_f
+			The best set is below. Score: 102404.1, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled. 5 total aligns.
+			Excluding internal overlap of size 77 between Alignment 1 and 2:  2166783 2177822 | 11040 1 | 11040 11040 --> 2166860 2177822 | 10963 1 | 10963 10963
+			Real Alignment 1: 2166860 2177822 | 10963 1 | 10963 10963 | 99.94 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 7.1_7_0_102429_f
+			  Indel (> 5bp) between these two alignments: deletion of length 48; 0 mismatches
+			Real Alignment 2: 2075345 2166811 | 102429 10964 | 91467 91466 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 7.1_7_0_102429_f
+
+CONTIG: 7.2_7_102457_144021_f (41564bp)
+Top Length: 41564  Top ID: 99.96 (Score: 41547.4)
+		One align captures most of this contig: 2033760 2075311 | 41564 1 | 41552 41564 | 99.96 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 7.2_7_102457_144021_f
+
+CONTIG: 14.1_14_0_11372_f (11372bp)
+Top Length: 11372  Top ID: 99.96 (Score: 11367.5)
+		One align captures most of this contig: 1741961 1753335 | 1 11372 | 11375 11372 | 99.96 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 14.1_14_0_11372_f
+
+CONTIG: 14.2_14_11388_18741_f (7353bp)
+Top Length: 7353  Top ID: 99.99 (Score: 7352.3)
+		One align captures most of this contig: 1753351 1760703 | 1 7353 | 7353 7353 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 14.2_14_11388_18741_f
+
+CONTIG: 14.3_14_18755_85377_f (66622bp)
+Top Length: 66620  Top ID: 99.98 (Score: 66606.7)
+		One align captures most of this contig: 1760720 1827334 | 3 66622 | 66615 66620 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 14.3_14_18755_85377_f
+
+CONTIG: 14.4_14_85426_86865_f (1439bp)
+Top Length: 1439  Top ID: 100.00 (Score: 1439.0)
+		One align captures most of this contig: 1827382 1828820 | 1 1439 | 1439 1439 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 14.4_14_85426_86865_f
+
+CONTIG: 5.1_5_0_26673_f (26673bp)
+Top Length: 26673  Top ID: 99.99 (Score: 26670.3)
+		One align captures most of this contig: 904476 931145 | 1 26673 | 26670 26673 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 5.1_5_0_26673_f
+
+CONTIG: 5.2_5_26682_107728_f (81046bp)
+Top Length: 81046  Top ID: 99.98 (Score: 81029.8)
+		One align captures most of this contig: 931157 1012196 | 1 81046 | 81040 81046 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 5.2_5_26682_107728_f
+
+CONTIG: 5.3_5_107782_152491_f (44709bp)
+Top Length: 44709  Top ID: 99.92 (Score: 44673.2)
+		One align captures most of this contig: 1012252 1056982 | 1 44709 | 44731 44709 | 99.92 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 5.3_5_107782_152491_f
+
+CONTIG: 3.1_3_0_34897_f (34897bp)
+Top Length: 34897  Top ID: 99.97 (Score: 34886.5)
+		One align captures most of this contig: 1199759 1234651 | 1 34897 | 34893 34897 | 99.97 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 3.1_3_0_34897_f
+
+CONTIG: 3.2_3_34904_163305_f (128401bp)
+Top Length: 128401  Top ID: 99.98 (Score: 128375.3)
+		One align captures most of this contig: 1234662 1363048 | 1 128401 | 128387 128401 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 3.2_3_34904_163305_f
+
+CONTIG: 3.3_3_163311_176402_f (13091bp)
+Top Length: 13091  Top ID: 100.00 (Score: 13091.0)
+		One align captures most of this contig: 1363055 1376145 | 1 13091 | 13091 13091 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 3.3_3_163311_176402_f
+
+CONTIG: 28.1_28_0_45445_f (45445bp)
+Top Length: 45350  Top ID: 99.96 (Score: 45331.9)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  1 19264 | 26182 45445 | 19264 19264 | 99.98 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 28.1_28_0_45445_f
+			Skipping alignment  74511 79301 | 1 4793 | 4791 4793 | 98.29 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 28.1_28_0_45445_f
+			Skipping alignment  1 95 | 45351 45445 | 95 95 | 100.0 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 28.1_28_0_45445_f
+		One align captures most of this contig: 55475 100819 | 1 45350 | 45345 45350 | 99.96 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 28.1_28_0_45445_f
+
+CONTIG: 26.1_26_0_49681_f (49681bp)
+Top Length: 36192  Top ID: 99.92 (Score: 36163.0)
+			The best set is below. Score: 49641.3, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled. 2 total aligns.
+			Excluding internal overlap of size 20009 between Alignment 1 and 2:  2472442 2505967 | 1 33498 | 33526 33498 --> 2472442 2485958 | 1 13489 | 13517 13489
+			Real Alignment 1: 2472442 2485958 | 1 13489 | 13517 13489 | 99.92 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 26.1_26_0_49681_f
+			  Indel (> 5bp) between these two alignments: insertion of length 28; 0 mismatches
+			Real Alignment 2: 2485931 2522150 | 13490 49681 | 36220 36192 | 99.92 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 26.1_26_0_49681_f
+
+CONTIG: 21.1_21_0_71932_f (71932bp)
+Top Length: 71932  Top ID: 99.96 (Score: 71903.2)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  2138994 2139086 | 67932 68022 | 93 91 | 96.77 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 21.1_21_0_71932_f
+		One align captures most of this contig: 698905 770838 | 1 71932 | 71934 71932 | 99.96 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 21.1_21_0_71932_f
+
+CONTIG: 27.1_27_0_48784_f (48784bp)
+Top Length: 48784  Top ID: 99.99 (Score: 48779.1)
+		One align captures most of this contig: 175454 224231 | 1 48784 | 48778 48784 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 27.1_27_0_48784_f
+
+CONTIG: 24.1_24_0_63319_f (63319bp)
+Top Length: 63319  Top ID: 99.99 (Score: 63312.7)
+		One align captures most of this contig: 18098 81417 | 1 63319 | 63320 63319 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 24.1_24_0_63319_f
+
+CONTIG: 20.1_20_0_4513_f (4513bp)
+Top Length: 4506  Top ID: 99.93 (Score: 4502.8)
+		One align captures most of this contig: 2339530 2344032 | 1 4506 | 4503 4506 | 99.93 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 20.1_20_0_4513_f
+
+CONTIG: 20.2_20_4538_16609_f (12071bp)
+Top Length: 12065  Top ID: 100.00 (Score: 12065.0)
+		One align captures most of this contig: 2344068 2356132 | 2 12066 | 12065 12065 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 20.2_20_4538_16609_f
+
+CONTIG: 20.3_20_16625_72895_f (56270bp)
+Top Length: 56270  Top ID: 99.97 (Score: 56253.1)
+		One align captures most of this contig: 2356155 2412425 | 1 56270 | 56271 56270 | 99.97 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 20.3_20_16625_72895_f
+
+CONTIG: 25.1_25_0_28401_f (28401bp)
+Top Length: 28387  Top ID: 99.94 (Score: 28370.0)
+		One align captures most of this contig: 2283935 2312329 | 1 28387 | 28395 28387 | 99.94 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 25.1_25_0_28401_f
+
+CONTIG: 25.2_25_28418_55538_f (27120bp)
+Top Length: 27120  Top ID: 99.94 (Score: 27103.7)
+		One align captures most of this contig: 2312361 2339483 | 1 27120 | 27123 27120 | 99.94 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 25.2_25_28418_55538_f
+
+CONTIG: 6.1_6_0_32868_f (32868bp)
+Top Length: 32868  Top ID: 99.99 (Score: 32864.7)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  683848 683923 | 14669 14594 | 76 76 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 6.1_6_0_32868_f
+		One align captures most of this contig: 1828897 1861763 | 1 32868 | 32867 32868 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 6.1_6_0_32868_f
+
+CONTIG: 6.2_6_32871_54669_f (21798bp)
+Top Length: 21796  Top ID: 100.00 (Score: 21796.0)
+		One align captures most of this contig: 1861766 1883561 | 1 21796 | 21796 21796 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 6.2_6_32871_54669_f
+
+CONTIG: 6.3_6_54684_104138_f (49454bp)
+Top Length: 49454  Top ID: 99.99 (Score: 49449.1)
+		One align captures most of this contig: 1883577 1933030 | 1 49454 | 49454 49454 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 6.3_6_54684_104138_f
+
+CONTIG: 6.4_6_104163_149224_f (45061bp)
+Top Length: 45061  Top ID: 99.98 (Score: 45052.0)
+		One align captures most of this contig: 1933056 1978116 | 1 45061 | 45061 45061 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 6.4_6_104163_149224_f
+
+CONTIG: 29.1_29_0_39914_f (39914bp)
+Top Length: 39914  Top ID: 99.99 (Score: 39910.0)
+		One align captures most of this contig: 2675438 2715349 | 39914 1 | 39912 39914 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 29.1_29_0_39914_f
+
+CONTIG: 29.2_29_39928_45136_f (5208bp)
+Top Length: 5208  Top ID: 100.00 (Score: 5208.0)
+		One align captures most of this contig: 2670212 2675419 | 5208 1 | 5208 5208 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 29.2_29_39928_45136_f
+
+CONTIG: 33.1_33_0_39428_f (39428bp)
+Top Length: 39428  Top ID: 100.00 (Score: 39428.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  7207 7660 | 38975 39428 | 454 454 | 98.24 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 33.1_33_0_39428_f
+			Skipping alignment  1078 1531 | 39428 38975 | 454 454 | 98.24 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 33.1_33_0_39428_f
+			Skipping alignment  371546 371970 | 39004 39428 | 425 425 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 33.1_33_0_39428_f
+			Skipping alignment  100292 100716 | 39004 39428 | 425 425 | 100.0 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 33.1_33_0_39428_f
+			Skipping alignment  1 386 | 39043 39428 | 386 386 | 100.0 | NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence 33.1_33_0_39428_f
+			Skipping alignment  484259 484359 | 12429 12529 | 101 101 | 97.03 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 33.1_33_0_39428_f
+		One align captures most of this contig: 1436379 1475806 | 39428 1 | 39428 39428 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 33.1_33_0_39428_f
+
+CONTIG: 36.1_36_0_4733_f (4733bp)
+Top Length: 4733  Top ID: 100.00 (Score: 4733.0)
+		One align captures most of this contig: 608840 613572 | 1 4733 | 4733 4733 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 36.1_36_0_4733_f
+
+CONTIG: 36.2_36_4762_37155_f (32393bp)
+Top Length: 32393  Top ID: 99.98 (Score: 32386.5)
+		One align captures most of this contig: 613600 645984 | 1 32393 | 32385 32393 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 36.2_36_4762_37155_f
+
+CONTIG: 34.1_34_0_38520_f (38520bp)
+Top Length: 38520  Top ID: 99.99 (Score: 38516.1)
+		One align captures most of this contig: 850175 888692 | 38520 1 | 38518 38520 | 99.99 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 34.1_34_0_38520_f
+
+CONTIG: 22.1_22_0_67911_f (67911bp)
+Top Length: 67911  Top ID: 99.98 (Score: 67897.4)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  1463278 1463378 | 19619 19719 | 101 101 | 97.03 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 22.1_22_0_67911_f
+		One align captures most of this contig: 436077 503977 | 67911 1 | 67901 67911 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 22.1_22_0_67911_f
+
+CONTIG: 22.2_22_67919_69036_f (1117bp)
+Top Length: 1117  Top ID: 100.00 (Score: 1117.0)
+		One align captures most of this contig: 434949 436065 | 1117 1 | 1117 1117 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 22.2_22_67919_69036_f
+
+CONTIG: 38.1_38_0_34318_f (34318bp)
+Top Length: 34318  Top ID: 100.00 (Score: 34318.0)
+		One align captures most of this contig: 1999386 2033703 | 34318 1 | 34318 34318 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 38.1_38_0_34318_f
+
+CONTIG: 31.1_31_0_11693_f (11693bp)
+Top Length: 11692  Top ID: 99.97 (Score: 11688.5)
+		One align captures most of this contig: 2522279 2533968 | 1 11692 | 11690 11692 | 99.97 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 31.1_31_0_11693_f
+
+CONTIG: 31.2_31_11723_43324_f (31601bp)
+Top Length: 31601  Top ID: 99.98 (Score: 31594.7)
+		One align captures most of this contig: 2534003 2565606 | 1 31601 | 31604 31601 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 31.2_31_11723_43324_f
+
+CONTIG: 41.1_41_0_33596_f (33596bp)
+Top Length: 33596  Top ID: 99.97 (Score: 33585.9)
+		One align captures most of this contig: 504010 537597 | 1 33596 | 33588 33596 | 99.97 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 41.1_41_0_33596_f
+
+CONTIG: 30.2_30_172_44433_f (44261bp)
+Top Length: 44261  Top ID: 99.96 (Score: 44243.3)
+		One align captures most of this contig: 2715607 2759863 | 1 44261 | 44257 44261 | 99.96 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 30.2_30_172_44433_f
+
+CONTIG: 43.1_43_0_33101_f (33101bp)
+Top Length: 33101  Top ID: 99.99 (Score: 33097.7)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  81714 100819 | 1 19106 | 19106 19106 | 100.0 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 43.1_43_0_33101_f
+		One align captures most of this contig: 64 33164 | 1 33101 | 33101 33101 | 99.99 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 43.1_43_0_33101_f
+
+CONTIG: 42.1_42_0_32744_f (32744bp)
+Top Length: 32741  Top ID: 99.99 (Score: 32737.7)
+		One align captures most of this contig: 394224 426962 | 32741 1 | 32739 32741 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 42.1_42_0_32744_f
+
+CONTIG: 46.1_46_0_28341_f (28341bp)
+Top Length: 28341  Top ID: 100.00 (Score: 28341.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  559132 559511 | 1 380 | 380 380 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 46.1_46_0_28341_f
+			Skipping alignment  14459 14541 | 624 542 | 83 83 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 46.1_46_0_28341_f
+		One align captures most of this contig: 42214 70554 | 1 28341 | 28341 28341 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 46.1_46_0_28341_f
+
+CONTIG: 44.1_44_0_31720_f (31720bp)
+Top Length: 30771  Top ID: 99.80 (Score: 30709.5)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 55475 60267 | 1 4791 | 4793 4791 | 99.35 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 44.1_44_0_31720_f
+		Skipping redundant alignment 7789 8841 | 31720 30668 | 1053 1053 | 100.0 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 44.1_44_0_31720_f
+		Skipping redundant alignment 1435198 1436250 | 30668 31720 | 1053 1053 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 44.1_44_0_31720_f
+		Skipping redundant alignment 372099 373151 | 31720 30668 | 1053 1053 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 44.1_44_0_31720_f
+		Skipping redundant alignment 100845 101897 | 31720 30668 | 1053 1053 | 100.0 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 44.1_44_0_31720_f
+		Skipping redundant alignment 515 1567 | 31720 30668 | 1053 1053 | 100.0 | NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence 44.1_44_0_31720_f
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 31658.5, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled. 8 total aligns.
+			Real Alignment 1: 74511 105281 | 1 30771 | 30771 30771 | 99.8 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 44.1_44_0_31720_f
+			  Not a misassembly (linear representation of circular genome) between these two alignments
+			Real Alignment 2: 1 949 | 30772 31720 | 949 949 | 100.0 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 44.1_44_0_31720_f
+
+CONTIG: 40.1_40_0_33688_f (33688bp)
+Top Length: 33688  Top ID: 99.95 (Score: 33671.2)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  2426 5351 | 1 2926 | 2926 2926 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 40.1_40_0_33688_f
+			Skipping alignment  36099 39023 | 1 2925 | 2925 2925 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 40.1_40_0_33688_f
+			Skipping alignment  1 2437 | 31252 33688 | 2437 2437 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 40.1_40_0_33688_f
+			Skipping alignment  1 2437 | 31252 33688 | 2437 2437 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 40.1_40_0_33688_f
+			Skipping alignment  3188236 3188521 | 30966 31251 | 286 286 | 99.3 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 40.1_40_0_33688_f
+			Skipping alignment  942644 942929 | 30966 31251 | 286 286 | 99.3 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 40.1_40_0_33688_f
+			Skipping alignment  42755 42837 | 12116 12034 | 83 83 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 40.1_40_0_33688_f
+		One align captures most of this contig: 2426 36110 | 1 33688 | 33685 33688 | 99.95 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 40.1_40_0_33688_f
+
+CONTIG: 47.1_47_0_28229_f (28229bp)
+Top Length: 28229  Top ID: 99.99 (Score: 28226.2)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  99582 99940 | 28229 27865 | 359 365 | 96.71 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 47.1_47_0_28229_f
+		One align captures most of this contig: 71527 99755 | 28229 1 | 28229 28229 | 99.99 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 47.1_47_0_28229_f
+
+CONTIG: 49.1_49_0_26613_f (26613bp)
+Top Length: 26613  Top ID: 100.00 (Score: 26613.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  14400 14694 | 620 327 | 295 294 | 95.93 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 49.1_49_0_26613_f
+			Skipping alignment  40281 40575 | 620 327 | 295 294 | 95.93 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 49.1_49_0_26613_f
+			Skipping alignment  99545 99755 | 211 1 | 211 211 | 98.1 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 49.1_49_0_26613_f
+			Skipping alignment  202357 202502 | 920 775 | 146 146 | 99.32 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 49.1_49_0_26613_f
+		One align captures most of this contig: 45088 71700 | 26613 1 | 26613 26613 | 100.0 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 49.1_49_0_26613_f
+
+CONTIG: 54.1_54_0_23317_f (23317bp)
+Top Length: 19264  Top ID: 99.98 (Score: 19260.1)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 81598 100819 | 4001 23222 | 19222 19222 | 99.95 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 54.1_54_0_23317_f
+		Skipping redundant alignment 1 95 | 23223 23317 | 95 95 | 100.0 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 54.1_54_0_23317_f
+			The best set is below. Score: 23313.1, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled. 4 total aligns.
+			Real Alignment 1: 48083 52135 | 1 4053 | 4053 4053 | 100.0 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 54.1_54_0_23317_f
+			  Not a misassembly (linear representation of circular genome) between these two alignments
+			Real Alignment 2: 1 19264 | 4054 23317 | 19264 19264 | 99.98 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 54.1_54_0_23317_f
+
+CONTIG: 39.1_39_0_5470_f (5470bp)
+Top Length: 5470  Top ID: 100.00 (Score: 5470.0)
+		One align captures most of this contig: 878580 884049 | 5470 1 | 5470 5470 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 39.1_39_0_5470_f
+
+CONTIG: 39.2_39_5511_33955_f (28444bp)
+Top Length: 28444  Top ID: 99.97 (Score: 28435.5)
+		One align captures most of this contig: 850097 878536 | 28444 1 | 28440 28444 | 99.97 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 39.2_39_5511_33955_f
+
+CONTIG: 45.1_45_0_29616_f (29616bp)
+Top Length: 29616  Top ID: 99.96 (Score: 29604.2)
+		One align captures most of this contig: 117158 146765 | 29616 1 | 29608 29616 | 99.96 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 45.1_45_0_29616_f
+
+CONTIG: 48.1_48_0_27678_f (27678bp)
+Top Length: 27678  Top ID: 99.94 (Score: 27661.4)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  2176197 2177822 | 1 1626 | 1626 1626 | 99.57 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 48.1_48_0_27678_f
+		One align captures most of this contig: 147721 175399 | 1 27678 | 27679 27678 | 99.94 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 48.1_48_0_27678_f
+
+CONTIG: 55.1_55_0_23193_f (23193bp)
+Top Length: 23193  Top ID: 100.00 (Score: 23193.0)
+		One align captures most of this contig: 2646867 2670059 | 23193 1 | 23193 23193 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 55.1_55_0_23193_f
+
+CONTIG: 58.1_58_0_21615_f (21615bp)
+Top Length: 21615  Top ID: 99.86 (Score: 21584.7)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  737163 738493 | 1331 1 | 1331 1331 | 97.07 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 58.1_58_0_21615_f
+			Skipping alignment  3188117 3188348 | 21384 21615 | 232 232 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 58.1_58_0_21615_f
+		One align captures most of this contig: 921142 942756 | 1 21615 | 21615 21615 | 99.86 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 58.1_58_0_21615_f
+
+CONTIG: 51.1_51_0_3947_f (3947bp)
+Top Length: 3946  Top ID: 99.92 (Score: 3942.8)
+		One align captures most of this contig: 712939 716881 | 2 3947 | 3943 3946 | 99.92 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 51.1_51_0_3947_f
+
+CONTIG: 51.2_51_3952_24412_f (20460bp)
+Top Length: 20460  Top ID: 100.00 (Score: 20460.0)
+		One align captures most of this contig: 716888 737347 | 1 20460 | 20460 20460 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 51.2_51_3952_24412_f
+
+CONTIG: 37.1_37_0_20342_f (20342bp)
+Top Length: 20339  Top ID: 99.99 (Score: 20337.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  706461 706912 | 452 1 | 452 452 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 37.1_37_0_20342_f
+		One align captures most of this contig: 253340 273679 | 1 20339 | 20340 20339 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 37.1_37_0_20342_f
+
+CONTIG: 37.2_37_20358_35643_f (15285bp)
+Top Length: 15282  Top ID: 99.92 (Score: 15269.8)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  306494 307665 | 14114 15285 | 1172 1172 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 37.2_37_20358_35643_f
+		One align captures most of this contig: 273704 288988 | 4 15285 | 15285 15282 | 99.92 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 37.2_37_20358_35643_f
+
+CONTIG: 56.1_56_0_22293_f (22293bp)
+Top Length: 22293  Top ID: 99.99 (Score: 22290.8)
+		One align captures most of this contig: 339473 361764 | 22293 1 | 22292 22293 | 99.99 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 56.1_56_0_22293_f
+
+CONTIG: 60.1_60_0_20755_f (20755bp)
+Top Length: 20755  Top ID: 99.99 (Score: 20752.9)
+		One align captures most of this contig: 1978212 1998964 | 1 20755 | 20753 20755 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 60.1_60_0_20755_f
+
+CONTIG: 53.1_53_0_23674_f (23674bp)
+Top Length: 23674  Top ID: 99.98 (Score: 23669.3)
+		One align captures most of this contig: 577783 601459 | 1 23674 | 23677 23674 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 53.1_53_0_23674_f
+
+CONTIG: 63.1_63_0_19849_f (19849bp)
+Top Length: 19849  Top ID: 99.98 (Score: 19845.0)
+		One align captures most of this contig: 287817 307665 | 1 19849 | 19849 19849 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 63.1_63_0_19849_f
+
+CONTIG: 61.1_61_0_20300_f (20300bp)
+Top Length: 20300  Top ID: 99.98 (Score: 20295.9)
+		One align captures most of this contig: 884159 904461 | 20300 1 | 20303 20300 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 61.1_61_0_20300_f
+
+CONTIG: 66.1_66_0_19517_f (19517bp)
+Top Length: 19517  Top ID: 99.97 (Score: 19511.1)
+		One align captures most of this contig: 500238 519749 | 19517 1 | 19512 19517 | 99.97 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 66.1_66_0_19517_f
+
+CONTIG: 69.1_69_0_18261_f (18261bp)
+Top Length: 18261  Top ID: 99.75 (Score: 18215.3)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  738490 740672 | 2183 1 | 2183 2183 | 97.16 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 69.1_69_0_18261_f
+			Skipping alignment  737204 738493 | 18261 16972 | 1290 1290 | 97.36 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 69.1_69_0_18261_f
+		One align captures most of this contig: 904171 922431 | 1 18261 | 18261 18261 | 99.75 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 69.1_69_0_18261_f
+
+CONTIG: 65.1_65_0_19525_f (19525bp)
+Top Length: 19525  Top ID: 99.99 (Score: 19523.0)
+		One align captures most of this contig: 104758 124282 | 19525 1 | 19525 19525 | 99.99 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 65.1_65_0_19525_f
+
+CONTIG: 62.1_62_0_20241_f (20241bp)
+Top Length: 20241  Top ID: 99.96 (Score: 20232.9)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  7789 8845 | 20241 19185 | 1057 1057 | 99.91 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 62.1_62_0_20241_f
+			Skipping alignment  515 1568 | 20241 19188 | 1054 1054 | 100.0 | NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence 62.1_62_0_20241_f
+			Skipping alignment  372099 373151 | 20241 19189 | 1053 1053 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 62.1_62_0_20241_f
+			Skipping alignment  100845 101897 | 20241 19189 | 1053 1053 | 100.0 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 62.1_62_0_20241_f
+			Skipping alignment  1 949 | 19293 20241 | 949 949 | 100.0 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 62.1_62_0_20241_f
+			Skipping alignment  105178 105281 | 19189 19292 | 104 104 | 100.0 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 62.1_62_0_20241_f
+		One align captures most of this contig: 1416018 1436250 | 1 20241 | 20233 20241 | 99.96 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 62.1_62_0_20241_f
+
+CONTIG: 70.1_70_0_17132_f (17132bp)
+Top Length: 17132  Top ID: 99.94 (Score: 17121.7)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  74185 79192 | 12125 17132 | 5008 5008 | 97.8 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 70.1_70_0_17132_f
+			Skipping alignment  31042 31374 | 1 333 | 333 333 | 99.7 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 70.1_70_0_17132_f
+		One align captures most of this contig: 43025 60156 | 1 17132 | 17132 17132 | 99.94 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 70.1_70_0_17132_f
+
+CONTIG: 73.1_73_0_14998_f (14998bp)
+Top Length: 14998  Top ID: 99.97 (Score: 14993.5)
+		One align captures most of this contig: 2457351 2472350 | 14998 1 | 15000 14998 | 99.97 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 73.1_73_0_14998_f
+
+CONTIG: 74.1_74_0_14311_f (14311bp)
+Top Length: 14311  Top ID: 99.98 (Score: 14308.1)
+		One align captures most of this contig: 2759905 2774217 | 1 14311 | 14313 14311 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 74.1_74_0_14311_f
+
+CONTIG: 68.1_68_0_18634_f (18634bp)
+Top Length: 18634  Top ID: 99.93 (Score: 18621.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  42214 42593 | 1 380 | 380 380 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 68.1_68_0_18634_f
+		One align captures most of this contig: 559132 577764 | 1 18634 | 18633 18634 | 99.93 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 68.1_68_0_18634_f
+
+CONTIG: 4.1_4_0_83292_f (83292bp)
+Top Length: 83292  Top ID: 99.98 (Score: 83275.3)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  70781 70926 | 41307 41162 | 146 146 | 99.32 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 4.1_4_0_83292_f
+		One align captures most of this contig: 160374 243655 | 83292 1 | 83282 83292 | 99.98 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 4.1_4_0_83292_f
+
+CONTIG: 4.2_4_83339_173022_f (89683bp)
+Top Length: 89683  Top ID: 99.99 (Score: 89674.0)
+		One align captures most of this contig: 70647 160324 | 89683 1 | 89678 89683 | 99.99 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 4.2_4_83339_173022_f
+
+CONTIG: 75.1_75_0_14150_f (14150bp)
+Top Length: 14150  Top ID: 100.00 (Score: 14150.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  704686 705334 | 13503 14150 | 649 648 | 96.61 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 75.1_75_0_14150_f
+		One align captures most of this contig: 744735 758884 | 1 14150 | 14150 14150 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 75.1_75_0_14150_f
+
+CONTIG: 64.1_64_0_19668_f (19668bp)
+Top Length: 19668  Top ID: 99.93 (Score: 19654.2)
+		One align captures most of this contig: 97456 117121 | 19668 1 | 19666 19668 | 99.93 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 64.1_64_0_19668_f
+
+CONTIG: 76.1_76_0_12308_f (12308bp)
+Top Length: 12308  Top ID: 99.99 (Score: 12306.8)
+		One align captures most of this contig: 31042 43349 | 1 12308 | 12308 12308 | 99.99 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 76.1_76_0_12308_f
+
+CONTIG: 82.1_82_0_7858_f (7858bp)
+Top Length: 7858  Top ID: 99.99 (Score: 7857.2)
+		One align captures most of this contig: 427042 434899 | 1 7858 | 7858 7858 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 82.1_82_0_7858_f
+
+CONTIG: 81.1_81_0_8517_f (8517bp)
+Top Length: 8517  Top ID: 99.99 (Score: 8516.1)
+		One align captures most of this contig: 243777 252293 | 1 8517 | 8517 8517 | 99.99 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 81.1_81_0_8517_f
+
+CONTIG: 72.1_72_0_15633_f (15633bp)
+Top Length: 15633  Top ID: 100.00 (Score: 15633.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  36099 39023 | 1 2925 | 2925 2925 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 72.1_72_0_15633_f
+			Skipping alignment  2426 5351 | 1 2926 | 2926 2926 | 99.9 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 72.1_72_0_15633_f
+		One align captures most of this contig: 2426 18058 | 1 15633 | 15633 15633 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 72.1_72_0_15633_f
+
+CONTIG: 84.1_84_0_7484_f (7484bp)
+Top Length: 7484  Top ID: 100.00 (Score: 7484.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  942525 942756 | 7253 7484 | 232 232 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 84.1_84_0_7484_f
+		One align captures most of this contig: 3180865 3188348 | 1 7484 | 7484 7484 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 84.1_84_0_7484_f
+
+CONTIG: 1.1_1_0_4691_f (4691bp)
+Top Length: 4691  Top ID: 100.00 (Score: 4691.0)
+		One align captures most of this contig: 2938337 2943027 | 1 4691 | 4691 4691 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 1.1_1_0_4691_f
+
+CONTIG: 1.2_1_4705_71570_f (66865bp)
+Top Length: 66864  Top ID: 99.99 (Score: 66857.3)
+		One align captures most of this contig: 2943042 3009904 | 2 66865 | 66863 66864 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 1.2_1_4705_71570_f
+
+CONTIG: 1.3_1_71574_170958_f (99384bp)
+Top Length: 99384  Top ID: 99.97 (Score: 99354.2)
+		One align captures most of this contig: 3009909 3109273 | 1 99384 | 99365 99384 | 99.97 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 1.3_1_71574_170958_f
+
+CONTIG: 1.4_1_170965_187897_f (16932bp)
+Top Length: 16932  Top ID: 100.00 (Score: 16932.0)
+		One align captures most of this contig: 3109279 3126210 | 1 16932 | 16932 16932 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 1.4_1_170965_187897_f
+
+CONTIG: 1.5_1_187911_242488_f (54577bp)
+Top Length: 54577  Top ID: 99.99 (Score: 54571.5)
+		One align captures most of this contig: 3126225 3180798 | 1 54577 | 54574 54577 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 1.5_1_187911_242488_f
+
+CONTIG: 87.1_87_0_6881_f (6881bp)
+Top Length: 6881  Top ID: 100.00 (Score: 6881.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  691747 692196 | 1 451 | 450 451 | 95.58 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 87.1_87_0_6881_f
+		One align captures most of this contig: 691861 698741 | 1 6881 | 6881 6881 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 87.1_87_0_6881_f
+
+CONTIG: 80.1_80_0_10114_f (10114bp)
+Top Length: 10114  Top ID: 99.99 (Score: 10113.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  100292 100716 | 9690 10114 | 425 425 | 100.0 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 80.1_80_0_10114_f
+			Skipping alignment  7236 7660 | 9690 10114 | 425 425 | 100.0 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 80.1_80_0_10114_f
+			Skipping alignment  1436379 1436803 | 10114 9690 | 425 425 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 80.1_80_0_10114_f
+			Skipping alignment  1078 1502 | 10114 9690 | 425 425 | 100.0 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 80.1_80_0_10114_f
+			Skipping alignment  1 386 | 9729 10114 | 386 386 | 100.0 | NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence 80.1_80_0_10114_f
+		One align captures most of this contig: 361857 371970 | 1 10114 | 10114 10114 | 99.99 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 80.1_80_0_10114_f
+
+CONTIG: 90.1_90_0_6792_f (6792bp)
+Top Length: 6792  Top ID: 99.65 (Score: 6768.2)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  759048 759876 | 5964 6792 | 829 829 | 97.23 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 90.1_90_0_6792_f
+			Skipping alignment  667523 668196 | 674 1 | 674 674 | 95.55 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 90.1_90_0_6792_f
+		One align captures most of this contig: 241455 248246 | 6792 1 | 6792 6792 | 99.65 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 90.1_90_0_6792_f
+
+CONTIG: 79.1_79_0_10752_f (10752bp)
+Top Length: 10752  Top ID: 99.74 (Score: 10724.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  712310 712991 | 10752 10070 | 682 683 | 95.31 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 79.1_79_0_10752_f
+			Skipping alignment  247573 248246 | 10078 10752 | 674 675 | 95.56 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 79.1_79_0_10752_f
+		One align captures most of this contig: 657439 668196 | 1 10752 | 10758 10752 | 99.74 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 79.1_79_0_10752_f
+
+CONTIG: 89.1_89_0_6816_f (6816bp)
+Top Length: 6816  Top ID: 99.77 (Score: 6800.3)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  34723 40485 | 1054 6816 | 5763 5763 | 100.0 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 89.1_89_0_6816_f
+			Skipping alignment  1435194 1436250 | 1057 1 | 1057 1057 | 99.91 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 89.1_89_0_6816_f
+			Skipping alignment  372099 373151 | 1 1053 | 1053 1053 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 89.1_89_0_6816_f
+			Skipping alignment  100845 101897 | 1 1053 | 1053 1053 | 100.0 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 89.1_89_0_6816_f
+			Skipping alignment  515 1567 | 1 1053 | 1053 1053 | 100.0 | NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence 89.1_89_0_6816_f
+			Skipping alignment  1 949 | 949 1 | 949 949 | 100.0 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 89.1_89_0_6816_f
+			Skipping alignment  105178 105281 | 1053 950 | 104 104 | 100.0 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 89.1_89_0_6816_f
+		One align captures most of this contig: 7789 14604 | 1 6816 | 6816 6816 | 99.77 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 89.1_89_0_6816_f
+
+CONTIG: 88.1_88_0_6872_f (6872bp)
+Top Length: 6872  Top ID: 100.00 (Score: 6872.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  8842 14604 | 5763 1 | 5763 5763 | 99.72 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 88.1_88_0_6872_f
+			Skipping alignment  6122 7223 | 6872 5771 | 1102 1102 | 98.73 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 88.1_88_0_6872_f
+			Skipping alignment  100064 100279 | 5986 5771 | 216 216 | 97.22 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 88.1_88_0_6872_f
+		One align captures most of this contig: 33614 40485 | 6872 1 | 6872 6872 | 100.0 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 88.1_88_0_6872_f
+
+CONTIG: 91.1_91_0_6495_f (6495bp)
+Top Length: 6495  Top ID: 100.00 (Score: 6495.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  2426 5350 | 1 2925 | 2925 2925 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 91.1_91_0_6495_f
+			Skipping alignment  2426 5350 | 1 2925 | 2925 2925 | 99.9 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 91.1_91_0_6495_f
+			Skipping alignment  559132 559511 | 6116 6495 | 380 380 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 91.1_91_0_6495_f
+		One align captures most of this contig: 36099 42593 | 1 6495 | 6495 6495 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 91.1_91_0_6495_f
+
+CONTIG: 92.1_92_0_5577_f (5577bp)
+Top Length: 5577  Top ID: 99.89 (Score: 5570.9)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  1 5350 | 5350 1 | 5350 5350 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 92.1_92_0_5577_f
+			Skipping alignment  1 5350 | 5350 1 | 5350 5350 | 99.94 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 92.1_92_0_5577_f
+			Skipping alignment  942703 942929 | 5577 5351 | 227 227 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 92.1_92_0_5577_f
+			Skipping alignment  3188295 3188521 | 5577 5351 | 227 227 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 92.1_92_0_5577_f
+		One align captures most of this contig: 33447 39023 | 5577 1 | 5577 5577 | 99.89 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 92.1_92_0_5577_f
+
+CONTIG: 77.1_77_0_11817_f (11817bp)
+Top Length: 11817  Top ID: 99.92 (Score: 11807.5)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  27054 27804 | 11817 11067 | 751 751 | 95.21 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 77.1_77_0_11817_f
+		One align captures most of this contig: 27732 39549 | 11817 1 | 11818 11817 | 99.92 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 77.1_77_0_11817_f
+
+CONTIG: 18.1_18_0_78128_f (78128bp)
+Top Length: 78128  Top ID: 99.90 (Score: 78049.9)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  55149 60156 | 5008 1 | 5008 5008 | 98.82 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 18.1_18_0_78128_f
+			Skipping alignment  100262 100716 | 77674 78128 | 455 455 | 99.12 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 18.1_18_0_78128_f
+			Skipping alignment  7206 7660 | 77674 78128 | 455 455 | 99.12 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 18.1_18_0_78128_f
+			Skipping alignment  1436379 1436832 | 78128 77675 | 454 454 | 98.24 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 18.1_18_0_78128_f
+			Skipping alignment  371546 371970 | 77704 78128 | 425 425 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 18.1_18_0_78128_f
+			Skipping alignment  1 386 | 77743 78128 | 386 386 | 100.0 | NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence 18.1_18_0_78128_f
+		One align captures most of this contig: 1078 79192 | 78128 1 | 78115 78128 | 99.9 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 18.1_18_0_78128_f
+
+CONTIG: 94.1_94_0_5021_f (5021bp)
+Top Length: 5021  Top ID: 99.96 (Score: 5019.0)
+		One align captures most of this contig: 888708 893728 | 1 5021 | 5021 5021 | 99.96 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 94.1_94_0_5021_f
+
+CONTIG: 93.1_93_0_5033_f (5033bp)
+Top Length: 5033  Top ID: 100.00 (Score: 5033.0)
+		One align captures most of this contig: 646011 651043 | 1 5033 | 5033 5033 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 93.1_93_0_5033_f
+
+CONTIG: 95.1_95_0_4786_f (4786bp)
+Top Length: 4786  Top ID: 98.77 (Score: 4727.1)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  904140 906273 | 2653 4786 | 2134 2134 | 98.97 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 95.1_95_0_4786_f
+			Skipping alignment  901800 902470 | 1959 2629 | 671 671 | 95.38 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 95.1_95_0_4786_f
+		One align captures most of this contig: 738570 743355 | 4786 1 | 4786 4786 | 98.77 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 95.1_95_0_4786_f
+
+CONTIG: 71.1_71_0_15903_f (15903bp)
+Top Length: 15903  Top ID: 99.96 (Score: 15896.6)
+		One align captures most of this contig: 81503 97406 | 15903 1 | 15904 15903 | 99.96 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 71.1_71_0_15903_f
+
+CONTIG: 98.1_98_0_4190_f (4190bp)
+Top Length: 4190  Top ID: 98.57 (Score: 4130.1)
+		One align captures most of this contig: 230521 234710 | 4190 1 | 4190 4190 | 98.57 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 98.1_98_0_4190_f
+
+CONTIG: 99.1_99_0_4190_f (4190bp)
+Top Length: 4190  Top ID: 98.83 (Score: 4141.0)
+		One align captures most of this contig: 652688 656877 | 1 4190 | 4190 4190 | 98.83 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 99.1_99_0_4190_f
+
+CONTIG: 100.1_100_0_4099_f (4099bp)
+Top Length: 4094  Top ID: 98.56 (Score: 4035.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  761585 762469 | 4099 3215 | 885 885 | 97.63 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 100.1_100_0_4099_f
+		One align captures most of this contig: 235190 239283 | 1 4094 | 4094 4094 | 98.56 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 100.1_100_0_4099_f
+
+CONTIG: 104.1_104_0_3629_f (3629bp)
+Top Length: 3629  Top ID: 99.75 (Score: 3619.9)
+		One align captures most of this contig: 708036 711664 | 1 3629 | 3629 3629 | 99.75 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 104.1_104_0_3629_f
+
+CONTIG: 101.1_101_0_4059_f (4059bp)
+Top Length: 4059  Top ID: 99.95 (Score: 4057.0)
+		One align captures most of this contig: 335287 339346 | 1 4059 | 4060 4059 | 99.95 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 101.1_101_0_4059_f
+
+CONTIG: 103.1_103_0_3704_f (3704bp)
+Top Length: 3704  Top ID: 100.00 (Score: 3704.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  372099 373152 | 1 1054 | 1054 1054 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 103.1_103_0_3704_f
+			Skipping alignment  515 1567 | 1 1053 | 1053 1053 | 100.0 | NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence 103.1_103_0_3704_f
+			Skipping alignment  7789 8841 | 1 1053 | 1053 1053 | 100.0 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 103.1_103_0_3704_f
+			Skipping alignment  1435198 1436250 | 1053 1 | 1053 1053 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 103.1_103_0_3704_f
+			Skipping alignment  1 949 | 949 1 | 949 949 | 100.0 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 103.1_103_0_3704_f
+			Skipping alignment  105178 105281 | 1053 950 | 104 104 | 100.0 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 103.1_103_0_3704_f
+		One align captures most of this contig: 100845 104548 | 1 3704 | 3704 3704 | 100.0 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 103.1_103_0_3704_f
+
+CONTIG: 102.1_102_0_3749_f (3749bp)
+Top Length: 3749  Top ID: 100.00 (Score: 3749.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  47713 48084 | 1 372 | 372 372 | 98.66 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 102.1_102_0_3749_f
+			Skipping alignment  21632 22002 | 1 372 | 371 372 | 97.04 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 102.1_102_0_3749_f
+			Skipping alignment  43025 43349 | 3425 3749 | 325 325 | 100.0 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 102.1_102_0_3749_f
+		One align captures most of this contig: 27618 31366 | 1 3749 | 3749 3749 | 100.0 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 102.1_102_0_3749_f
+
+CONTIG: 106.1_106_0_3469_f (3469bp)
+Top Length: 3469  Top ID: 97.32 (Score: 3376.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  904171 906353 | 3469 1287 | 2183 2183 | 99.13 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 106.1_106_0_3469_f
+			Skipping alignment  921142 922431 | 1290 1 | 1290 1290 | 97.67 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 106.1_106_0_3469_f
+		One align captures most of this contig: 737204 740672 | 1 3469 | 3469 3469 | 97.32 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 106.1_106_0_3469_f
+
+CONTIG: 110.1_110_0_2894_f (2894bp)
+Top Length: 2894  Top ID: 99.90 (Score: 2891.1)
+		One align captures most of this contig: 248913 251806 | 1 2894 | 2894 2894 | 99.9 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 110.1_110_0_2894_f
+
+CONTIG: 108.1_108_0_2929_f (2929bp)
+Top Length: 2929  Top ID: 99.39 (Score: 2911.1)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  40463 42982 | 1 2520 | 2520 2520 | 99.6 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 108.1_108_0_2929_f
+		One align captures most of this contig: 14582 17510 | 1 2929 | 2929 2929 | 99.39 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 108.1_108_0_2929_f
+
+CONTIG: 109.1_109_0_2905_f (2905bp)
+Top Length: 2905  Top ID: 98.11 (Score: 2850.1)
+		One align captures most of this contig: 655372 658279 | 1 2905 | 2908 2905 | 98.11 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 109.1_109_0_2905_f
+
+CONTIG: 107.1_107_0_3234_f (3234bp)
+Top Length: 3234  Top ID: 99.75 (Score: 3225.9)
+		One align captures most of this contig: 668852 672079 | 1 3234 | 3228 3234 | 99.75 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 107.1_107_0_3234_f
+
+CONTIG: 113.1_113_0_2823_f (2823bp)
+Top Length: 2823  Top ID: 97.17 (Score: 2743.1)
+		One align captures most of this contig: 233205 236027 | 2823 1 | 2823 2823 | 97.17 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 113.1_113_0_2823_f
+
+CONTIG: 111.1_111_0_2891_f (2891bp)
+Top Length: 2891  Top ID: 100.00 (Score: 2891.0)
+		One align captures most of this contig: 42093 44983 | 1 2891 | 2891 2891 | 100.0 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 111.1_111_0_2891_f
+
+CONTIG: 114.1_114_0_2814_f (2814bp)
+Top Length: 2814  Top ID: 100.00 (Score: 2814.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  18412 18669 | 1 258 | 258 258 | 100.0 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 114.1_114_0_2814_f
+			Skipping alignment  18550 18806 | 1 258 | 257 258 | 97.67 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 114.1_114_0_2814_f
+			Skipping alignment  18687 18944 | 1 258 | 258 258 | 96.14 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 114.1_114_0_2814_f
+			Skipping alignment  18330 18532 | 58 258 | 203 201 | 95.07 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 114.1_114_0_2814_f
+			Skipping alignment  47560 47718 | 2655 2814 | 159 160 | 97.5 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 114.1_114_0_2814_f
+			Skipping alignment  27465 27623 | 2655 2814 | 159 160 | 96.25 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 114.1_114_0_2814_f
+		One align captures most of this contig: 18824 21637 | 1 2814 | 2814 2814 | 100.0 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 114.1_114_0_2814_f
+
+CONTIG: 112.1_112_0_2842_f (2842bp)
+Top Length: 2723  Top ID: 99.71 (Score: 2715.1)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 3188117 3188521 | 1 405 | 405 405 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 112.1_112_0_2842_f
+		Skipping redundant alignment 33388 36110 | 120 2842 | 2723 2723 | 99.71 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 112.1_112_0_2842_f
+		Skipping redundant alignment 1 2437 | 406 2842 | 2437 2437 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 112.1_112_0_2842_f
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 2842.0, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled. 5 total aligns.
+			Real Alignment 1: 942525 942929 | 1 405 | 405 405 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 112.1_112_0_2842_f
+			  Not a misassembly (linear representation of circular genome) between these two alignments
+			Real Alignment 2: 1 2437 | 406 2842 | 2437 2437 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 112.1_112_0_2842_f
+
+CONTIG: 121.1_121_0_2252_f (2252bp)
+Top Length: 2252  Top ID: 99.42 (Score: 2238.9)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  2176162 2177822 | 592 2252 | 1661 1661 | 99.46 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 121.1_121_0_2252_f
+		One align captures most of this contig: 147095 149346 | 1 2252 | 2252 2252 | 99.42 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 121.1_121_0_2252_f
+
+CONTIG: 120.1_120_0_2303_f (2303bp)
+Top Length: 2281  Top ID: 100.00 (Score: 2281.0)
+		One align captures most of this contig: 1 2281 | 2281 1 | 2281 2281 | 100.0 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 120.1_120_0_2303_f
+
+CONTIG: 124.1_124_0_2081_f (2081bp)
+Top Length: 2081  Top ID: 99.42 (Score: 2068.9)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  758382 759050 | 1 669 | 669 669 | 98.51 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 124.1_124_0_2081_f
+			Skipping alignment  253340 253791 | 2081 1630 | 452 452 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 124.1_124_0_2081_f
+		One align captures most of this contig: 704832 706912 | 1 2081 | 2081 2081 | 99.42 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 124.1_124_0_2081_f
+
+CONTIG: 125.1_125_0_2027_f (2027bp)
+Top Length: 2027  Top ID: 99.16 (Score: 2010.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  33614 34551 | 938 1 | 938 938 | 100.0 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 125.1_125_0_2027_f
+			Skipping alignment  32913 33613 | 2027 1327 | 701 701 | 95.72 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 125.1_125_0_2027_f
+		One align captures most of this contig: 5033 7059 | 2027 1 | 2027 2027 | 99.16 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 125.1_125_0_2027_f
+
+CONTIG: 127.1_127_0_1639_f (1639bp)
+Top Length: 1639  Top ID: 100.00 (Score: 1639.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  6122 7059 | 702 1639 | 938 938 | 98.93 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 127.1_127_0_1639_f
+		One align captures most of this contig: 32913 34551 | 1 1639 | 1639 1639 | 100.0 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 127.1_127_0_1639_f
+
+CONTIG: 129.1_129_0_1495_f (1495bp)
+Top Length: 1495  Top ID: 100.00 (Score: 1495.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  704832 705500 | 1495 827 | 669 669 | 96.71 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 129.1_129_0_1495_f
+		One align captures most of this contig: 758382 759876 | 1495 1 | 1495 1495 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 129.1_129_0_1495_f
+
+CONTIG: 133.1_133_0_1200_f (1200bp)
+Top Length: 1200  Top ID: 99.50 (Score: 1194.0)
+		One align captures most of this contig: 651542 652741 | 1 1200 | 1200 1200 | 99.5 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 133.1_133_0_1200_f
+
+CONTIG: 105.1_105_0_3547_f (3547bp)
+Top Length: 3547  Top ID: 99.63 (Score: 3533.9)
+		One align captures most of this contig: 23896 27441 | 1 3547 | 3546 3547 | 99.63 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 105.1_105_0_3547_f
+
+CONTIG: 132.1_132_0_1226_f (1226bp)
+Top Length: 1226  Top ID: 100.00 (Score: 1226.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  27463 27671 | 209 1 | 209 209 | 99.04 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 132.1_132_0_1226_f
+			Skipping alignment  21478 21685 | 207 1 | 208 207 | 98.08 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 132.1_132_0_1226_f
+		One align captures most of this contig: 46541 47766 | 1226 1 | 1226 1226 | 100.0 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 132.1_132_0_1226_f
+
+CONTIG: 118.1_118_0_2410_f (2410bp)
+Top Length: 2410  Top ID: 100.00 (Score: 2410.0)
+		One align captures most of this contig: 39611 42020 | 1 2410 | 2410 2410 | 100.0 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 118.1_118_0_2410_f
+
+CONTIG: 139.1_139_0_1061_f (1061bp)
+Top Length: 1061  Top ID: 98.11 (Score: 1040.9)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  240744 241276 | 1061 529 | 533 533 | 98.5 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 139.1_139_0_1061_f
+		One align captures most of this contig: 759485 760545 | 1 1061 | 1061 1061 | 98.11 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 139.1_139_0_1061_f
+
+CONTIG: 142.1_142_0_1017_f (1017bp)
+Top Length: 1017  Top ID: 99.61 (Score: 1013.0)
+		One align captures most of this contig: 711477 712493 | 1 1017 | 1017 1017 | 99.61 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 142.1_142_0_1017_f
+
+CONTIG: 135.1_135_0_1139_f (1139bp)
+Top Length: 1139  Top ID: 96.21 (Score: 1095.8)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  894267 895396 | 1139 10 | 1130 1130 | 95.84 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 135.1_135_0_1139_f
+		One align captures most of this contig: 651582 652741 | 1139 1 | 1160 1139 | 96.21 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 135.1_135_0_1139_f
+
+CONTIG: 137.1_137_0_1103_f (1103bp)
+Top Length: 1103  Top ID: 97.19 (Score: 1072.0)
+		One align captures most of this contig: 240744 241846 | 1103 1 | 1103 1103 | 97.19 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 137.1_137_0_1103_f
+
+CONTIG: 138.1_138_0_1066_f (1066bp)
+Top Length: 1066  Top ID: 98.59 (Score: 1051.0)
+		One align captures most of this contig: 27054 28119 | 1 1066 | 1066 1066 | 98.59 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 138.1_138_0_1066_f
+
+CONTIG: 153.1_153_0_526_f (526bp)
+Top Length: 526  Top ID: 100.00 (Score: 526.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  7008 7215 | 319 526 | 208 208 | 99.52 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 153.1_153_0_526_f
+			Skipping alignment  34500 34707 | 319 526 | 208 208 | 97.6 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 153.1_153_0_526_f
+			Skipping alignment  71697 71891 | 1 195 | 195 195 | 97.95 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 153.1_153_0_526_f
+		One align captures most of this contig: 99746 100271 | 1 526 | 526 526 | 100.0 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 153.1_153_0_526_f
+
+CONTIG: 152.1_152_0_554_f (554bp)
+Top Length: 554  Top ID: 100.00 (Score: 554.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  247693 248246 | 1 554 | 554 554 | 95.85 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 152.1_152_0_554_f
+			Skipping alignment  667644 668196 | 2 554 | 553 553 | 95.12 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 152.1_152_0_554_f
+		One align captures most of this contig: 712310 712863 | 554 1 | 554 554 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 152.1_152_0_554_f
+
+CONTIG: 154.1_154_0_515_f (515bp)
+Top Length: 515  Top ID: 99.42 (Score: 512.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  708149 708664 | 515 1 | 516 515 | 96.71 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 154.1_154_0_515_f
+			Skipping alignment  671862 672376 | 1 515 | 515 515 | 95.94 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 154.1_154_0_515_f
+		One align captures most of this contig: 251589 252103 | 1 515 | 515 515 | 99.42 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 154.1_154_0_515_f
+
+CONTIG: 140.1_140_0_1038_f (1038bp)
+Top Length: 1038  Top ID: 100.00 (Score: 1038.0)
+		One align captures most of this contig: 248063 249100 | 1 1038 | 1038 1038 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 140.1_140_0_1038_f
+
+CONTIG: 147.1_147_0_673_f (673bp)
+Top Length: 673  Top ID: 99.55 (Score: 670.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  228756 229428 | 1 673 | 673 673 | 97.92 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 147.1_147_0_673_f
+			Skipping alignment  893608 894280 | 1 673 | 673 673 | 96.88 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 147.1_147_0_673_f
+		One align captures most of this contig: 650923 651595 | 1 673 | 673 673 | 99.55 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 147.1_147_0_673_f
+
+CONTIG: 141.1_141_0_1027_f (1027bp)
+Top Length: 1027  Top ID: 99.12 (Score: 1018.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  711477 712493 | 1 1027 | 1017 1027 | 95.33 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 141.1_141_0_1027_f
+		One align captures most of this contig: 668013 669033 | 1027 1 | 1021 1027 | 99.12 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 141.1_141_0_1027_f
+
+CONTIG: 143.1_143_0_922_f (922bp)
+Top Length: 922  Top ID: 98.16 (Score: 905.0)
+		One align captures most of this contig: 652073 652994 | 1 922 | 922 922 | 98.16 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 143.1_143_0_922_f
+
+CONTIG: 145.1_145_0_799_f (799bp)
+Top Length: 799  Top ID: 100.00 (Score: 799.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  650923 651721 | 799 1 | 799 799 | 97.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 145.1_145_0_799_f
+			Skipping alignment  228756 229554 | 799 1 | 799 799 | 95.74 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 145.1_145_0_799_f
+		One align captures most of this contig: 893608 894406 | 799 1 | 799 799 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 145.1_145_0_799_f
+
+CONTIG: 144.1_144_0_870_f (870bp)
+Top Length: 870  Top ID: 100.00 (Score: 870.0)
+		One align captures most of this contig: 23080 23949 | 1 870 | 870 870 | 100.0 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 144.1_144_0_870_f
+
+CONTIG: 169.1_169_0_787_f (787bp)
+Top Length: 787  Top ID: 99.11 (Score: 780.0)
+		One align captures most of this contig: 1682752 1683538 | 1 787 | 787 787 | 99.11 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 169.1_169_0_787_f
+
+CONTIG: 171.1_171_0_654_f (654bp)
+Top Length: 654  Top ID: 99.69 (Score: 652.0)
+		One align captures most of this contig: 555792 556445 | 654 1 | 654 654 | 99.69 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 171.1_171_0_654_f
+
+CONTIG: 168.1_168_0_796_f (796bp)
+Top Length: 796  Top ID: 99.50 (Score: 792.0)
+		This contig has 2 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 56379 57174 | 1 796 | 796 796 | 99.5 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 168.1_168_0_796_f
+			Skipping alignment  75415 76210 | 1 796 | 796 796 | 99.25 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 168.1_168_0_796_f
+
+CONTIG: 174.1_174_0_639_f (639bp)
+Top Length: 639  Top ID: 99.69 (Score: 637.0)
+		One align captures most of this contig: 982272 982910 | 639 1 | 639 639 | 99.69 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 174.1_174_0_639_f
+
+CONTIG: 170.1_170_0_704_f (704bp)
+Top Length: 704  Top ID: 99.86 (Score: 703.0)
+		One align captures most of this contig: 425183 425886 | 1 704 | 704 704 | 99.86 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 170.1_170_0_704_f
+
+CONTIG: 176.1_176_0_625_f (625bp)
+Top Length: 625  Top ID: 99.68 (Score: 623.0)
+		One align captures most of this contig: 45282 45906 | 625 1 | 625 625 | 99.68 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 176.1_176_0_625_f
+
+CONTIG: 173.1_173_0_641_f (641bp)
+Top Length: 641  Top ID: 99.38 (Score: 637.0)
+		One align captures most of this contig: 120503 121143 | 641 1 | 641 641 | 99.38 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 173.1_173_0_641_f
+
+CONTIG: 172.1_172_0_653_f (653bp)
+Top Length: 653  Top ID: 99.39 (Score: 649.0)
+		One align captures most of this contig: 638518 639170 | 653 1 | 653 653 | 99.39 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 172.1_172_0_653_f
+
+CONTIG: 178.1_178_0_546_f (546bp)
+Top Length: 546  Top ID: 100.00 (Score: 546.0)
+		This contig has 3 significant alignments. [An ambiguously mapped contig]
+		Using only first of these alignment (option --ambiguity-usage is set to "one"):
+			Alignment: 4724 5269 | 546 1 | 546 546 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 178.1_178_0_546_f
+			Skipping alignment  4724 5269 | 546 1 | 546 546 | 99.45 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 178.1_178_0_546_f
+			Skipping alignment  38397 38942 | 546 1 | 546 546 | 99.45 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 178.1_178_0_546_f
+
+CONTIG: 165.1_165_0_1060_f (1060bp)
+Top Length: 1060  Top ID: 98.30 (Score: 1042.0)
+		One align captures most of this contig: 23270 24311 | 1060 1 | 1042 1060 | 98.3 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 165.1_165_0_1060_f
+
+CONTIG: 179.1_179_0_542_f (542bp)
+Top Length: 542  Top ID: 99.82 (Score: 541.0)
+		One align captures most of this contig: 94927 95468 | 542 1 | 542 542 | 99.82 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 179.1_179_0_542_f
+
+CONTIG: 182.1_182_0_534_f (534bp)
+Top Length: 534  Top ID: 99.06 (Score: 529.0)
+		One align captures most of this contig: 10198 10731 | 1 534 | 534 534 | 99.06 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 182.1_182_0_534_f
+
+CONTIG: 166.1_166_0_1000_f (1000bp)
+Top Length: 1000  Top ID: 99.30 (Score: 993.0)
+		One align captures most of this contig: 119432 120431 | 1 1000 | 1000 1000 | 99.3 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 166.1_166_0_1000_f
+
+CONTIG: 177.1_177_0_595_f (595bp)
+Top Length: 595  Top ID: 99.83 (Score: 594.0)
+		One align captures most of this contig: 40264 40858 | 595 1 | 595 595 | 99.83 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 177.1_177_0_595_f
+
+CONTIG: 167.1_167_0_857_f (857bp)
+Top Length: 857  Top ID: 99.53 (Score: 853.0)
+		One align captures most of this contig: 50045 50901 | 1 857 | 857 857 | 99.53 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 167.1_167_0_857_f
+
+CONTIG: 181.1_181_0_536_f (536bp)
+Top Length: 536  Top ID: 99.25 (Score: 532.0)
+		One align captures most of this contig: 86364 86899 | 1 536 | 536 536 | 99.25 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 181.1_181_0_536_f
+
+CONTIG: 185.1_185_0_515_f (515bp)
+Top Length: 500  Top ID: 99.60 (Score: 498.0)
+			The best set is below. Score: 498.0, number of alignments: 1, unaligned bases: 15
+		This contig is partially unaligned. (Aligned 500 out of 515 bases)
+		Alignment: 122848 123347 | 500 1 | 500 500 | 99.6 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 185.1_185_0_515_f
+		Unaligned bases: 501 to 515 (15)
+
+CONTIG: 184.1_184_0_516_f (516bp)
+Top Length: 438  Top ID: 100.00 (Score: 438.0)
+			The best set is below. Score: 465.0, number of alignments: 2, unaligned bases: 0
+		This contig is misassembled. 2 total aligns.
+			Excluding internal overlap of size 21 between Alignment 1 and 2:  276755 276853 | 1 99 | 99 99 --> 276755 276832 | 1 78 | 78 78
+			Real Alignment 1: 276755 276832 | 1 78 | 78 78 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 184.1_184_0_516_f
+			  Extensive misassembly ( translocation ) between these two alignments
+			Real Alignment 2: 272244 272681 | 516 79 | 438 438 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 184.1_184_0_516_f
+
+CONTIG: 180.1_180_0_540_f (540bp)
+Top Length: 520  Top ID: 99.81 (Score: 519.0)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 31042 31115 | 467 540 | 74 74 | 100.0 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 180.1_180_0_540_f
+			The best set is below. Score: 519.0, number of alignments: 1, unaligned bases: 20
+		This contig is partially unaligned. (Aligned 520 out of 540 bases)
+		Alignment: 42579 43098 | 21 540 | 520 520 | 99.81 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 180.1_180_0_540_f
+		Unaligned bases: 1 to 20 (20)
+
+CONTIG: 164.1_164_0_1240_f (1240bp)
+Top Length: 1240  Top ID: 99.52 (Score: 1234.0)
+		One align captures most of this contig: 62829 64068 | 1 1240 | 1240 1240 | 99.52 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 164.1_164_0_1240_f
+
+CONTIG: 183.1_183_0_525_f (525bp)
+Top Length: 507  Top ID: 100.00 (Score: 507.0)
+			The best set is below. Score: 507.0, number of alignments: 1, unaligned bases: 18
+		This contig is partially unaligned. (Aligned 507 out of 525 bases)
+		Alignment: 71941 72447 | 19 525 | 507 507 | 100.0 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 183.1_183_0_525_f
+		Unaligned bases: 1 to 18 (18)
+
+CONTIG: 2.1_2_0_53431_f (53431bp)
+Top Length: 53431  Top ID: 99.96 (Score: 53409.6)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  758237 758884 | 649 1 | 648 649 | 98.46 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 2.1_2_0_53431_f
+		One align captures most of this contig: 651908 705334 | 53431 1 | 53427 53431 | 99.96 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 2.1_2_0_53431_f
+
+CONTIG: 2.2_2_53442_87890_f (34448bp)
+Top Length: 34448  Top ID: 99.95 (Score: 34430.8)
+		One align captures most of this contig: 617448 651894 | 34448 1 | 34447 34448 | 99.95 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 2.2_2_53442_87890_f
+
+CONTIG: 2.3_2_87901_112135_f (24234bp)
+Top Length: 24234  Top ID: 100.00 (Score: 24234.0)
+		One align captures most of this contig: 593203 617436 | 24234 1 | 24234 24234 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 2.3_2_87901_112135_f
+
+CONTIG: 2.4_2_112158_129992_f (17834bp)
+Top Length: 17833  Top ID: 99.99 (Score: 17831.2)
+		One align captures most of this contig: 575348 593179 | 17833 1 | 17832 17833 | 99.99 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 2.4_2_112158_129992_f
+
+CONTIG: 2.5_2_130006_139005_f (8999bp)
+Top Length: 8997  Top ID: 99.91 (Score: 8988.9)
+		One align captures most of this contig: 566336 575329 | 8997 1 | 8994 8997 | 99.91 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 2.5_2_130006_139005_f
+
+CONTIG: 2.6_2_139011_142900_f (3889bp)
+Top Length: 3889  Top ID: 99.87 (Score: 3883.9)
+		One align captures most of this contig: 562443 566327 | 3889 1 | 3885 3889 | 99.87 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 2.6_2_139011_142900_f
+
+CONTIG: 2.7_2_142932_151851_f (8919bp)
+Top Length: 8919  Top ID: 99.88 (Score: 8908.3)
+		One align captures most of this contig: 553499 562410 | 8919 1 | 8912 8919 | 99.88 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 2.7_2_142932_151851_f
+
+CONTIG: 2.8_2_151857_164023_f (12166bp)
+Top Length: 12166  Top ID: 99.85 (Score: 12147.8)
+		One align captures most of this contig: 541331 553491 | 12166 1 | 12161 12166 | 99.85 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 2.8_2_151857_164023_f
+
+CONTIG: 2.9_2_164026_185584_f (21558bp)
+Top Length: 21558  Top ID: 99.98 (Score: 21553.7)
+		One align captures most of this contig: 519776 541330 | 21558 1 | 21555 21558 | 99.98 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 2.9_2_164026_185584_f
+
+CONTIG: 175.1_175_0_633_f (633bp)
+Top Length: 633  Top ID: 98.58 (Score: 624.0)
+		One align captures most of this contig: 56853 57476 | 633 1 | 624 633 | 98.58 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 175.1_175_0_633_f
+
+CONTIG: 425.1_425_0_10433_f (10433bp)
+Top Length: 7844  Top ID: 100.00 (Score: 7844.0)
+			The best set is below. Score: 10432.0, number of alignments: 2, unaligned bases: 1
+		This contig is misassembled. 2 total aligns.
+			Real Alignment 1: 2927865 2935708 | 1 7844 | 7844 7844 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 425.1_425_0_10433_f
+			  Indel (> 5bp) between these two alignments: insertion of length 39; 0 mismatches
+			Real Alignment 2: 2935671 2938258 | 7846 10433 | 2588 2588 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 425.1_425_0_10433_f
+
+CONTIG: 428.1_428_0_1341_f (1341bp)
+Top Length: 1340  Top ID: 99.85 (Score: 1338.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  47713 48185 | 1 473 | 473 473 | 98.1 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 428.1_428_0_1341_f
+			Skipping alignment  27618 27989 | 1 372 | 372 372 | 97.58 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 428.1_428_0_1341_f
+		One align captures most of this contig: 21632 22970 | 1 1340 | 1339 1340 | 99.85 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 428.1_428_0_1341_f
+
+CONTIG: 428.2_428_1367_6061_f (4694bp)
+Top Length: 4694  Top ID: 99.98 (Score: 4693.1)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  47558 47766 | 4486 4694 | 209 209 | 99.04 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 428.2_428_1367_6061_f
+			Skipping alignment  21478 21685 | 4488 4694 | 208 207 | 97.12 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 428.2_428_1367_6061_f
+		One align captures most of this contig: 22978 27671 | 1 4694 | 4694 4694 | 99.98 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 428.2_428_1367_6061_f
+
+CONTIG: 427.1_427_0_2125_f (2125bp)
+Top Length: 2123  Top ID: 99.06 (Score: 2103.0)
+		One align captures most of this contig: 760265 762390 | 2123 1 | 2126 2123 | 99.06 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 427.1_427_0_2125_f
+
+CONTIG: 427.2_427_2173_5689_f (3516bp)
+Top Length: 2374  Top ID: 99.66 (Score: 2365.9)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 759991 760797 | 2396 1590 | 807 807 | 95.42 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 427.2_427_2173_5689_f
+		Skipping redundant alignment 1 1015 | 3412 2398 | 1015 1015 | 99.9 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 427.2_427_2173_5689_f
+		Skipping redundant alignment 372033 373151 | 2398 3516 | 1119 1119 | 99.91 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 427.2_427_2173_5689_f
+		Skipping redundant alignment 100779 101897 | 2398 3516 | 1119 1119 | 99.91 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 427.2_427_2173_5689_f
+		Skipping redundant alignment 449 1567 | 2398 3516 | 1119 1119 | 99.91 | NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence 427.2_427_2173_5689_f
+		Skipping redundant alignment 7723 8841 | 2398 3516 | 1119 1119 | 99.91 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 427.2_427_2173_5689_f
+		Skipping redundant alignment 105178 105281 | 3516 3413 | 104 104 | 100.0 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 427.2_427_2173_5689_f
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 3307.5, number of alignments: 2, unaligned bases: 23
+		This contig is misassembled. 9 total aligns.
+			Real Alignment 1: 238903 241276 | 1 2374 | 2374 2374 | 99.66 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 427.2_427_2173_5689_f
+			  Extensive misassembly ( relocation, inconsistency = 1193898 ) between these two alignments
+			Real Alignment 2: 1435198 1436316 | 3516 2398 | 1119 1119 | 99.91 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 427.2_427_2173_5689_f
+
+CONTIG: 421.1_421_0_2553_f (2553bp)
+Top Length: 2553  Top ID: 99.80 (Score: 2547.9)
+		One align captures most of this contig: 2454790 2457337 | 2553 1 | 2548 2553 | 99.8 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 421.1_421_0_2553_f
+
+CONTIG: 421.2_421_2565_37525_f (34960bp)
+Top Length: 34960  Top ID: 99.98 (Score: 34953.0)
+		One align captures most of this contig: 2419823 2454775 | 34960 1 | 34953 34960 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 421.2_421_2565_37525_f
+
+CONTIG: 421.3_421_37531_44913_f (7382bp)
+Top Length: 7382  Top ID: 99.89 (Score: 7373.9)
+		One align captures most of this contig: 2412449 2419822 | 7382 1 | 7374 7382 | 99.89 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 421.3_421_37531_44913_f
+
+CONTIG: 32.1_32_0_731_f (731bp)
+Top Length: 731  Top ID: 100.00 (Score: 731.0)
+		One align captures most of this contig: 1376228 1376958 | 1 731 | 731 731 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 32.1_32_0_731_f
+
+CONTIG: 32.2_32_747_8700_f (7953bp)
+Top Length: 7953  Top ID: 99.94 (Score: 7948.2)
+		One align captures most of this contig: 1376977 1384924 | 1 7953 | 7948 7953 | 99.94 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 32.2_32_747_8700_f
+
+CONTIG: 32.3_32_8768_17807_f (9039bp)
+Top Length: 9039  Top ID: 100.00 (Score: 9039.0)
+		One align captures most of this contig: 1384994 1394032 | 1 9039 | 9039 9039 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 32.3_32_8768_17807_f
+
+CONTIG: 32.4_32_17826_39760_f (21934bp)
+Top Length: 21934  Top ID: 100.00 (Score: 21934.0)
+		One align captures most of this contig: 1394053 1415986 | 1 21934 | 21934 21934 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 32.4_32_17826_39760_f
+
+CONTIG: 424.1_424_0_20973_f (20973bp)
+Top Length: 20973  Top ID: 99.98 (Score: 20968.8)
+		One align captures most of this contig: 2320 23291 | 20973 1 | 20972 20973 | 99.98 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 424.1_424_0_20973_f
+
+CONTIG: 423.1_423_0_21796_f (21796bp)
+Top Length: 21796  Top ID: 100.00 (Score: 21796.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  42214 42593 | 380 1 | 380 380 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 423.1_423_0_21796_f
+		One align captures most of this contig: 537716 559511 | 21796 1 | 21796 21796 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 423.1_423_0_21796_f
+
+CONTIG: 423.2_423_21840_34905_f (13065bp)
+Top Length: 11352  Top ID: 99.86 (Score: 11336.1)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 738570 740703 | 1 2134 | 2134 2134 | 96.96 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 423.2_423_21840_34905_f
+		Skipping redundant alignment 740727 741397 | 3804 4474 | 671 671 | 95.38 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 423.2_423_21840_34905_f
+			The best set is below. Score: 12790.1, number of alignments: 2, unaligned bases: 1
+		This contig is misassembled. 4 total aligns.
+			Real Alignment 1: 894922 906273 | 11352 1 | 11352 11352 | 99.86 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 423.2_423_21840_34905_f
+			  Extensive misassembly ( translocation ) between these two alignments
+			Real Alignment 2: 229169 230877 | 13065 11354 | 1709 1712 | 99.59 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 423.2_423_21840_34905_f
+
+CONTIG: 426.1_426_0_2690_f (2690bp)
+Top Length: 2690  Top ID: 99.96 (Score: 2688.9)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  14582 17101 | 1 2520 | 2520 2520 | 98.89 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 426.1_426_0_2690_f
+		One align captures most of this contig: 40463 43152 | 1 2690 | 2690 2690 | 99.96 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 426.1_426_0_2690_f
+
+CONTIG: 426.2_426_2698_4857_f (2159bp)
+Top Length: 1715  Top ID: 100.00 (Score: 1715.0)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 18072 18198 | 1590 1715 | 127 126 | 98.43 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 426.2_426_2698_4857_f
+		Skipping redundant alignment 44887 45149 | 1897 2159 | 263 263 | 99.62 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 426.2_426_2698_4857_f
+			The best set is below. Score: 2048.0, number of alignments: 2, unaligned bases: 1
+		This contig is misassembled. 4 total aligns.
+			Real Alignment 1: 43298 45012 | 1 1715 | 1715 1715 | 100.0 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 426.2_426_2698_4857_f
+			  Extensive misassembly ( translocation ) between these two alignments
+			Real Alignment 2: 17892 18335 | 1717 2159 | 444 443 | 99.77 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 426.2_426_2698_4857_f
+
+CONTIG: 422.1_422_0_50778_f (50778bp)
+Top Length: 26335  Top ID: 99.99 (Score: 26332.4)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 32850 33214 | 26699 26337 | 365 363 | 97.53 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 422.1_422_0_50778_f
+		Skipping redundant alignment 64 19624 | 50778 31218 | 19561 19561 | 99.73 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 422.1_422_0_50778_f
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 50510.6, number of alignments: 3, unaligned bases: 1
+		This contig is misassembled. 5 total aligns.
+			Real Alignment 1: 2253248 2279582 | 26335 1 | 26335 26335 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 422.1_422_0_50778_f
+			  Extensive misassembly ( translocation ) between these two alignments
+			Real Alignment 2: 1 5334 | 31672 26337 | 5334 5336 | 99.76 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 422.1_422_0_50778_f
+			  Not a misassembly (linear representation of circular genome) between these two alignments
+			Real Alignment 3: 81714 100819 | 50778 31673 | 19106 19106 | 100.0 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 422.1_422_0_50778_f
+
+CONTIG: 432.1_432_0_531_f (531bp)
+Top Length: 257  Top ID: 98.05 (Score: 252.0)
+			The best set is below. Score: 383.0, number of alignments: 2, unaligned bases: 92
+		This contig is misassembled. 2 total aligns.
+			Real Alignment 1: 43088 43344 | 1 257 | 257 257 | 98.05 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 432.1_432_0_531_f
+			  Extensive misassembly ( translocation ) between these two alignments
+			Real Alignment 2: 549874 550055 | 350 531 | 182 182 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 432.1_432_0_531_f
+
+CONTIG: 430.1_430_0_1434_f (1434bp)
+Top Length: 805  Top ID: 100.00 (Score: 805.0)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 707448 708252 | 1 805 | 805 805 | 95.03 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 430.1_430_0_1434_f
+		Skipping redundant alignment 251589 252220 | 1434 802 | 632 633 | 95.43 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 430.1_430_0_1434_f
+		Skipping redundant alignment 708036 708664 | 807 1434 | 629 628 | 95.56 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 430.1_430_0_1434_f
+			The best set is below. Score: 1420.0, number of alignments: 2, unaligned bases: 1
+		This contig is misassembled. 5 total aligns.
+			Real Alignment 1: 672273 673077 | 805 1 | 805 805 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 430.1_430_0_1434_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -218
+			Real Alignment 2: 671862 672489 | 1434 807 | 628 628 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 430.1_430_0_1434_f
+
+CONTIG: 420.1_420_0_16279_f (16279bp)
+Top Length: 16279  Top ID: 100.00 (Score: 16279.0)
+		One align captures most of this contig: 2911528 2927806 | 16279 1 | 16279 16279 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 420.1_420_0_16279_f
+
+CONTIG: 420.2_420_16301_65917_f (49616bp)
+Top Length: 49615  Top ID: 99.99 (Score: 49610.0)
+		One align captures most of this contig: 2861890 2911504 | 49615 1 | 49615 49615 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 420.2_420_16301_65917_f
+
+CONTIG: 420.3_420_65966_70227_f (4261bp)
+Top Length: 4261  Top ID: 99.88 (Score: 4255.9)
+		One align captures most of this contig: 2279625 2283885 | 4261 1 | 4261 4261 | 99.88 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 420.3_420_65966_70227_f
+
+CONTIG: 429.1_429_0_2455_f (2455bp)
+Top Length: 1229  Top ID: 100.00 (Score: 1229.0)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 706461 707689 | 1 1229 | 1229 1229 | 99.84 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 429.1_429_0_2455_f
+		Skipping redundant alignment 707473 708094 | 1226 1847 | 622 622 | 99.52 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 429.1_429_0_2455_f
+		Skipping redundant alignment 707483 708089 | 1849 2455 | 607 607 | 97.86 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 429.1_429_0_2455_f
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 2392.1, number of alignments: 3, unaligned bases: 1
+		This contig is misassembled. 6 total aligns.
+			Excluding internal overlap of size 4 between Alignment 1 and 2:  252158 252779 | 1847 1226 | 622 622 --> 252158 252775 | 1847 1230 | 618 618
+			Real Alignment 1: 252563 253791 | 1229 1 | 1229 1229 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 429.1_429_0_2455_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -213
+			Real Alignment 2: 252158 252775 | 1847 1230 | 618 618 | 97.91 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 429.1_429_0_2455_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -613
+			Real Alignment 3: 252163 252769 | 2455 1849 | 607 607 | 99.84 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 429.1_429_0_2455_f
+
+CONTIG: 67.1_67_0_18912_f (18912bp)
+Top Length: 18912  Top ID: 99.97 (Score: 18906.3)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  691811 691966 | 155 1 | 156 155 | 98.08 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 67.1_67_0_18912_f
+			Skipping alignment  691925 692081 | 155 1 | 157 155 | 96.82 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 67.1_67_0_18912_f
+			Skipping alignment  692042 692195 | 153 1 | 154 153 | 96.1 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 67.1_67_0_18912_f
+			Skipping alignment  1843489 1843564 | 7933 8008 | 76 76 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 67.1_67_0_18912_f
+		One align captures most of this contig: 672944 691852 | 18912 1 | 18909 18912 | 99.97 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 67.1_67_0_18912_f
+
+CONTIG: 419.1_419_0_89799_f (89799bp)
+Top Length: 82807  Top ID: 99.99 (Score: 82798.7)
+			The best set is below. Score: 89536.6, number of alignments: 2, unaligned bases: 1
+		This contig is misassembled. 2 total aligns.
+			Real Alignment 1: 252366 335170 | 1 82807 | 82805 82807 | 99.99 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 419.1_419_0_89799_f
+			  Extensive misassembly ( translocation ) between these two alignments
+			Real Alignment 2: 601653 608641 | 89799 82809 | 6989 6991 | 99.97 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 419.1_419_0_89799_f
+
+CONTIG: 431.1_431_0_6459_f (6459bp)
+Top Length: 2599  Top ID: 100.00 (Score: 2599.0)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 889539 889912 | 8 381 | 374 374 | 95.2 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 431.1_431_0_6459_f
+		Skipping redundant alignment 223897 224242 | 36 381 | 346 346 | 95.66 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 431.1_431_0_6459_f
+		Skipping redundant alignment 648312 648654 | 3521 3863 | 343 343 | 95.04 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 431.1_431_0_6459_f
+			The best set is below. Score: 6120.0, number of alignments: 4, unaligned bases: 3
+		This contig is misassembled. 7 total aligns.
+			Real Alignment 1: 744291 744710 | 420 1 | 420 420 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 431.1_431_0_6459_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -97
+			Real Alignment 2: 743193 744386 | 1615 422 | 1194 1194 | 99.92 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 431.1_431_0_6459_f
+			  Extensive misassembly ( translocation ) between these two alignments
+			Real Alignment 3: 224243 226485 | 1617 3859 | 2243 2243 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 431.1_431_0_6459_f
+			  Overlap between these two alignments (local misassembly). Inconsistency = -209
+			Real Alignment 4: 226278 228876 | 3861 6459 | 2599 2599 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 431.1_431_0_6459_f
+
+CONTIG: 418.1_418_0_103348_f (103348bp)
+Top Length: 103348  Top ID: 99.98 (Score: 103327.3)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  1435197 1436250 | 1054 1 | 1054 1054 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 418.1_418_0_103348_f
+			Skipping alignment  372099 373151 | 1 1053 | 1053 1053 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 418.1_418_0_103348_f
+			Skipping alignment  100845 101897 | 1 1053 | 1053 1053 | 100.0 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 418.1_418_0_103348_f
+			Skipping alignment  7789 8841 | 1 1053 | 1053 1053 | 100.0 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 418.1_418_0_103348_f
+			Skipping alignment  1 949 | 949 1 | 949 949 | 100.0 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 418.1_418_0_103348_f
+			Skipping alignment  105178 105281 | 1053 950 | 104 104 | 100.0 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 418.1_418_0_103348_f
+		One align captures most of this contig: 515 103847 | 1 103348 | 103333 103348 | 99.98 | NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence 418.1_418_0_103348_f
+
+CONTIG: 418.2_418_103361_114766_f (11405bp)
+Top Length: 10315  Top ID: 100.00 (Score: 10315.0)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 100264 100766 | 10249 10751 | 503 503 | 98.61 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 418.2_418_103361_114766_f
+		Skipping redundant alignment 7208 7710 | 10249 10751 | 503 503 | 98.41 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 418.2_418_103361_114766_f
+		Skipping redundant alignment 371545 372020 | 10276 10751 | 476 476 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 418.2_418_103361_114766_f
+		Skipping redundant alignment 1436329 1436803 | 10751 10277 | 475 475 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 418.2_418_103361_114766_f
+		Skipping redundant alignment 1028 1502 | 10751 10277 | 475 475 | 100.0 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 418.2_418_103361_114766_f
+		Skipping redundant alignment 34500 34715 | 10753 10968 | 216 216 | 97.69 | NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence 418.2_418_103361_114766_f
+		Skipping redundant alignment 7008 7660 | 10753 11405 | 653 653 | 99.85 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 418.2_418_103361_114766_f
+		Skipping redundant alignment 1078 1532 | 11405 10951 | 455 455 | 99.12 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 418.2_418_103361_114766_f
+		Skipping redundant alignment 1436379 1436832 | 11405 10952 | 454 454 | 98.24 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 418.2_418_103361_114766_f
+		Skipping redundant alignment 371546 371970 | 10981 11405 | 425 425 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 418.2_418_103361_114766_f
+		Skipping redundant alignment 1 386 | 11020 11405 | 386 386 | 100.0 | NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence 418.2_418_103361_114766_f
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 11152.0, number of alignments: 3, unaligned bases: 1
+		This contig is misassembled. 14 total aligns.
+			Real Alignment 1: 103864 114178 | 1 10315 | 10315 10315 | 100.0 | NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence 418.2_418_103361_114766_f
+			  Not a misassembly (linear representation of circular genome) between these two alignments
+			Real Alignment 2: 1 436 | 10316 10751 | 436 436 | 100.0 | NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence 418.2_418_103361_114766_f
+			  Extensive misassembly ( translocation ) between these two alignments
+			Real Alignment 3: 100064 100716 | 10753 11405 | 653 653 | 99.85 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 418.2_418_103361_114766_f
+
+CONTIG: 9.1_9_0_34432_f (34432bp)
+Top Length: 34432  Top ID: 99.96 (Score: 34418.2)
+		One align captures most of this contig: 465778 500203 | 34432 1 | 34426 34432 | 99.96 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 9.1_9_0_34432_f
+
+CONTIG: 9.2_9_34449_102958_f (68509bp)
+Top Length: 68509  Top ID: 99.99 (Score: 68502.1)
+		One align captures most of this contig: 397248 465756 | 68509 1 | 68509 68509 | 99.99 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 9.2_9_34449_102958_f
+
+CONTIG: 9.3_9_102967_116851_f (13884bp)
+Top Length: 13866  Top ID: 99.99 (Score: 13864.6)
+		One align captures most of this contig: 383372 397237 | 13866 1 | 13866 13866 | 99.99 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 9.3_9_102967_116851_f
+
+CONTIG: 9.4_9_116865_128104_f (11239bp)
+Top Length: 11239  Top ID: 100.00 (Score: 11239.0)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  100845 101898 | 11239 10186 | 1054 1054 | 100.0 | NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence 9.4_9_116865_128104_f
+			Skipping alignment  1435198 1436250 | 10187 11239 | 1053 1053 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 9.4_9_116865_128104_f
+			Skipping alignment  515 1567 | 11239 10187 | 1053 1053 | 100.0 | NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence 9.4_9_116865_128104_f
+			Skipping alignment  7789 8841 | 11239 10187 | 1053 1053 | 100.0 | NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence 9.4_9_116865_128104_f
+			Skipping alignment  1 949 | 10291 11239 | 949 949 | 100.0 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 9.4_9_116865_128104_f
+			Skipping alignment  105178 105281 | 10187 10290 | 104 104 | 100.0 | NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence 9.4_9_116865_128104_f
+		One align captures most of this contig: 372099 383337 | 11239 1 | 11239 11239 | 100.0 | NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence 9.4_9_116865_128104_f
+
+CONTIG: 0.1_0_0_108055_f (108055bp)
+Top Length: 108005  Top ID: 99.99 (Score: 107994.2)
+		One align captures most of this contig: 1475882 1583885 | 48 108052 | 108004 108005 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 0.1_0_0_108055_f
+
+CONTIG: 0.2_0_108068_131361_f (23293bp)
+Top Length: 23292  Top ID: 99.99 (Score: 23289.7)
+		One align captures most of this contig: 1583906 1607198 | 2 23293 | 23293 23292 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 0.2_0_108068_131361_f
+
+CONTIG: 0.3_0_131368_146288_f (14920bp)
+Top Length: 14920  Top ID: 99.99 (Score: 14918.5)
+		One align captures most of this contig: 1607208 1622126 | 1 14920 | 14919 14920 | 99.99 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 0.3_0_131368_146288_f
+
+CONTIG: 0.4_0_146309_154237_f (7928bp)
+Top Length: 7927  Top ID: 100.00 (Score: 7927.0)
+		One align captures most of this contig: 1622148 1630074 | 2 7928 | 7927 7927 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 0.4_0_146309_154237_f
+
+CONTIG: 0.5_0_154252_185137_f (30885bp)
+Top Length: 30884  Top ID: 99.96 (Score: 30871.6)
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment  1630089 1646160 | 1 16078 | 16072 16078 | 99.96 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 0.5_0_154252_185137_f
+		One align captures most of this contig: 1630089 1660969 | 1 30884 | 30881 30884 | 99.96 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 0.5_0_154252_185137_f
+
+CONTIG: 0.6_0_185164_235612_f (50448bp)
+Top Length: 50443  Top ID: 100.00 (Score: 50443.0)
+		One align captures most of this contig: 1661005 1711447 | 6 50448 | 50443 50443 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 0.6_0_185164_235612_f
+
+CONTIG: 0.7_0_235638_266113_f (30475bp)
+Top Length: 30475  Top ID: 99.98 (Score: 30468.9)
+		One align captures most of this contig: 1711473 1741945 | 1 30475 | 30473 30475 | 99.98 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 0.7_0_235638_266113_f
+
+CONTIG: 16.1_16_0_49840_f (49840bp)
+Top Length: 49835  Top ID: 99.97 (Score: 49820.0)
+		One align captures most of this contig: 2597037 2646863 | 49835 1 | 49827 49835 | 99.97 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 16.1_16_0_49840_f
+
+CONTIG: 16.2_16_49850_51907_f (2057bp)
+Top Length: 2051  Top ID: 100.00 (Score: 2051.0)
+		One align captures most of this contig: 2594963 2597013 | 2056 6 | 2051 2051 | 100.0 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 16.2_16_49850_51907_f
+
+CONTIG: 16.3_16_51935_81241_f (29306bp)
+Top Length: 29306  Top ID: 99.81 (Score: 29250.3)
+		One align captures most of this contig: 2565684 2594934 | 29306 1 | 29251 29306 | 99.81 | NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence 16.3_16_51935_81241_f
+
+Analyzing coverage...
+Writing SNPs into /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_contigs2.used_snps.gz
+	Reference NZ_AKVW01000006.1_Rhodobacter_sphaeroides_2.4.1_plasmid_D__complete_sequence__whole_genome_shotgun_sequence: 16 total alignments. 1 total regions.
+		Region: 1 to 100819 (100819 bp)
+			Align 1: 1 5334 422.1_422_0_50778_f 31672 26337
+				Negative gap (overlap) between this and next alignment: 5334 to 5033 (-301 bp)
+				Next Alignment: 5033 7059 125.1_125_0_2027_f 2027 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 2027 to 1725.
+			Align 2: 5335 7059 125.1_125_0_2027_f 1725 1
+				Gap between this and next alignment: 7059 to 7789 (729 bp)
+				Next Alignment: 7789 14604 89.1_89_0_6816_f 1 6816
+
+			Align 3: 7789 14604 89.1_89_0_6816_f 1 6816
+				Negative gap (overlap) between this and next alignment: 14604 to 14582 (-22 bp)
+				Next Alignment: 14582 17510 108.1_108_0_2929_f 1 2929
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 24.
+			Align 4: 14605 17510 108.1_108_0_2929_f 24 2929
+				Gap between this and next alignment: 17510 to 17892 (381 bp)
+				Next Alignment: 17892 18335 426.2_426_2698_4857_f 1717 2159
+
+			Align 5: 17892 18335 426.2_426_2698_4857_f 1717 2159
+				Gap between this and next alignment: 18335 to 18824 (488 bp)
+				Next Alignment: 18824 21637 114.1_114_0_2814_f 1 2814
+
+			Align 6: 18824 21637 114.1_114_0_2814_f 1 2814
+				Negative gap (overlap) between this and next alignment: 21637 to 21632 (-5 bp)
+				Next Alignment: 21632 22970 428.1_428_0_1341_f 1 1340
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 7.
+			Align 7: 21638 22970 428.1_428_0_1341_f 7 1340
+				Gap between this and next alignment: 22970 to 22978 (7 bp)
+				Next Alignment: 22978 27671 428.2_428_1367_6061_f 1 4694
+
+			Align 8: 22978 27671 428.2_428_1367_6061_f 1 4694
+				Negative gap (overlap) between this and next alignment: 27671 to 27618 (-53 bp)
+				Next Alignment: 27618 31366 102.1_102_0_3749_f 1 3749
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 55.
+			Align 9: 27672 31366 102.1_102_0_3749_f 55 3749
+				Negative gap (overlap) between this and next alignment: 31366 to 31042 (-324 bp)
+				Next Alignment: 31042 43349 76.1_76_0_12308_f 1 12308
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 326.
+			Align 10: 31367 43349 76.1_76_0_12308_f 326 12308
+				The next alignment (42579 43098 180.1_180_0_540_f 21 540) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 43349 to 43025 (-324 bp)
+				Next Alignment: 43025 60156 70.1_70_0_17132_f 1 17132
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 326.
+			Align 12: 43350 60156 70.1_70_0_17132_f 326 17132
+				The next alignment (45282 45906 176.1_176_0_625_f 625 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 60156 to 55475 (-4681 bp)
+				Next Alignment: 55475 100819 28.1_28_0_45445_f 1 45350
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 4683.
+			Align 14: 60157 100819 28.1_28_0_45445_f 4683 45350
+			END in current alignment.  Modifying 100819 to 100819.
+
+	Reference NZ_AKVW01000004.1_Rhodobacter_sphaeroides_2.4.1_plasmid_B__complete_sequence__whole_genome_shotgun_sequence: 3 total alignments. 1 total regions.
+		Region: 1 to 114178 (114178 bp)
+			Align 1: 1 436 418.2_418_103361_114766_f 10316 10751
+				Gap between this and next alignment: 436 to 515 (78 bp)
+				Next Alignment: 515 103847 418.1_418_0_103348_f 1 103348
+
+			Align 2: 515 103847 418.1_418_0_103348_f 1 103348
+				Gap between this and next alignment: 103847 to 103864 (16 bp)
+				Next Alignment: 103864 114178 418.2_418_103361_114766_f 1 10315
+
+			Align 3: 103864 114178 418.2_418_103361_114766_f 1 10315
+			END in current alignment.  Modifying 114178 to 114178.
+
+	Reference NZ_AKVW01000007.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Dx__complete_sequence__whole_genome_shotgun_sequence: 9 total alignments. 1 total regions.
+		Region: 1 to 52135 (52135 bp)
+			Align 1: 1 19264 54.1_54_0_23317_f 4054 23317
+				Negative gap (overlap) between this and next alignment: 19264 to 64 (-19200 bp)
+				Next Alignment: 64 33164 43.1_43_0_33101_f 1 33101
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 19202.
+			Align 2: 19265 33164 43.1_43_0_33101_f 19202 33101
+				The next alignment (23270 24311 165.1_165_0_1060_f 1060 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 33164 to 32913 (-251 bp)
+				Next Alignment: 32913 34551 127.1_127_0_1639_f 1 1639
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 253.
+			Align 4: 33165 34551 127.1_127_0_1639_f 253 1639
+				Negative gap (overlap) between this and next alignment: 34551 to 33614 (-937 bp)
+				Next Alignment: 33614 40485 88.1_88_0_6872_f 6872 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 6872 to 5934.
+			Align 5: 34552 40485 88.1_88_0_6872_f 5934 1
+				Negative gap (overlap) between this and next alignment: 40485 to 40463 (-22 bp)
+				Next Alignment: 40463 43152 426.1_426_0_2690_f 1 2690
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 24.
+			Align 6: 40486 43152 426.1_426_0_2690_f 24 2690
+				Gap between this and next alignment: 43152 to 43298 (145 bp)
+				Next Alignment: 43298 45012 426.2_426_2698_4857_f 1 1715
+
+			Align 7: 43298 45012 426.2_426_2698_4857_f 1 1715
+				Gap between this and next alignment: 45012 to 46541 (1528 bp)
+				Next Alignment: 46541 47766 132.1_132_0_1226_f 1226 1
+
+			Align 8: 46541 47766 132.1_132_0_1226_f 1226 1
+				Gap between this and next alignment: 47766 to 48083 (316 bp)
+				Next Alignment: 48083 52135 54.1_54_0_23317_f 1 4053
+
+			Align 9: 48083 52135 54.1_54_0_23317_f 1 4053
+			END in current alignment.  Modifying 52135 to 52135.
+
+	Reference NZ_AKVW01000001.1_Rhodobacter_sphaeroides_2.4.1_chromosome_1__complete_sequence__whole_genome_shotgun_sequence: 136 total alignments. 1 total regions.
+		Region: 1 to 3188521 (3188521 bp)
+			START in gap: 1 to 2426 (2425 bp)
+			Align 1: 2426 18058 72.1_72_0_15633_f 1 15633
+				Gap between this and next alignment: 18058 to 18098 (39 bp)
+				Next Alignment: 18098 81417 24.1_24_0_63319_f 1 63319
+
+			Align 2: 18098 81417 24.1_24_0_63319_f 1 63319
+				Gap between this and next alignment: 81417 to 81503 (85 bp)
+				Next Alignment: 81503 97406 71.1_71_0_15903_f 15903 1
+
+			Align 3: 81503 97406 71.1_71_0_15903_f 15903 1
+				Gap between this and next alignment: 97406 to 97456 (49 bp)
+				Next Alignment: 97456 117121 64.1_64_0_19668_f 19668 1
+
+			Align 4: 97456 117121 64.1_64_0_19668_f 19668 1
+				Gap between this and next alignment: 117121 to 117158 (36 bp)
+				Next Alignment: 117158 146765 45.1_45_0_29616_f 29616 1
+
+			Align 5: 117158 146765 45.1_45_0_29616_f 29616 1
+				Gap between this and next alignment: 146765 to 147095 (329 bp)
+				Next Alignment: 147095 149346 121.1_121_0_2252_f 1 2252
+
+			Align 6: 147095 149346 121.1_121_0_2252_f 1 2252
+				Negative gap (overlap) between this and next alignment: 149346 to 147721 (-1625 bp)
+				Next Alignment: 147721 175399 48.1_48_0_27678_f 1 27678
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 1627.
+			Align 7: 149347 175399 48.1_48_0_27678_f 1627 27678
+				Gap between this and next alignment: 175399 to 175454 (54 bp)
+				Next Alignment: 175454 224231 27.1_27_0_48784_f 1 48784
+
+			Align 8: 175454 224231 27.1_27_0_48784_f 1 48784
+				Gap between this and next alignment: 224231 to 224243 (11 bp)
+				Next Alignment: 224243 226485 431.1_431_0_6459_f 1617 3859
+
+			Align 9: 224243 226485 431.1_431_0_6459_f 1617 3859
+				Negative gap (overlap) between this and next alignment: 226485 to 226278 (-207 bp)
+				Next Alignment: 226278 228876 431.1_431_0_6459_f 3861 6459
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 3861 to 4069.
+			Align 10: 226486 228876 431.1_431_0_6459_f 4069 6459
+				Gap between this and next alignment: 228876 to 229169 (292 bp)
+				Next Alignment: 229169 230877 423.2_423_21840_34905_f 13065 11354
+
+			Align 11: 229169 230877 423.2_423_21840_34905_f 13065 11354
+				Negative gap (overlap) between this and next alignment: 230877 to 230521 (-356 bp)
+				Next Alignment: 230521 234710 98.1_98_0_4190_f 4190 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 4190 to 3833.
+			Align 12: 230878 234710 98.1_98_0_4190_f 3833 1
+				Negative gap (overlap) between this and next alignment: 234710 to 233205 (-1505 bp)
+				Next Alignment: 233205 236027 113.1_113_0_2823_f 2823 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 2823 to 1317.
+			Align 13: 234711 236027 113.1_113_0_2823_f 1317 1
+				Negative gap (overlap) between this and next alignment: 236027 to 235190 (-837 bp)
+				Next Alignment: 235190 239283 100.1_100_0_4099_f 1 4094
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 839.
+			Align 14: 236028 239283 100.1_100_0_4099_f 839 4094
+				Negative gap (overlap) between this and next alignment: 239283 to 238903 (-380 bp)
+				Next Alignment: 238903 241276 427.2_427_2173_5689_f 1 2374
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 382.
+			Align 15: 239284 241276 427.2_427_2173_5689_f 382 2374
+				Negative gap (overlap) between this and next alignment: 241276 to 240744 (-532 bp)
+				Next Alignment: 240744 241846 137.1_137_0_1103_f 1103 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1103 to 570.
+			Align 16: 241277 241846 137.1_137_0_1103_f 570 1
+				Negative gap (overlap) between this and next alignment: 241846 to 241455 (-391 bp)
+				Next Alignment: 241455 248246 90.1_90_0_6792_f 6792 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 6792 to 6400.
+			Align 17: 241847 248246 90.1_90_0_6792_f 6400 1
+				Negative gap (overlap) between this and next alignment: 248246 to 248063 (-183 bp)
+				Next Alignment: 248063 249100 140.1_140_0_1038_f 1 1038
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 185.
+			Align 18: 248247 249100 140.1_140_0_1038_f 185 1038
+				Negative gap (overlap) between this and next alignment: 249100 to 248913 (-187 bp)
+				Next Alignment: 248913 251806 110.1_110_0_2894_f 1 2894
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 189.
+			Align 19: 249101 251806 110.1_110_0_2894_f 189 2894
+				Negative gap (overlap) between this and next alignment: 251806 to 251589 (-217 bp)
+				Next Alignment: 251589 252103 154.1_154_0_515_f 1 515
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 219.
+			Align 20: 251807 252103 154.1_154_0_515_f 219 515
+				Gap between this and next alignment: 252103 to 252158 (54 bp)
+				Next Alignment: 252158 252775 429.1_429_0_2455_f 1847 1230
+
+			Align 21: 252158 252775 429.1_429_0_2455_f 1847 1230
+				The next alignment (252163 252769 429.1_429_0_2455_f 2455 1849) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 252775 to 252563 (-212 bp)
+				Next Alignment: 252563 253791 429.1_429_0_2455_f 1229 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1229 to 1016.
+			Align 23: 252776 253791 429.1_429_0_2455_f 1016 1
+				Negative gap (overlap) between this and next alignment: 253791 to 253340 (-451 bp)
+				Next Alignment: 253340 273679 37.1_37_0_20342_f 1 20339
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 453.
+			Align 24: 253792 273679 37.1_37_0_20342_f 453 20339
+				The next alignment (272244 272681 184.1_184_0_516_f 516 79) is redundant. Skipping.
+				Gap between this and next alignment: 273679 to 273704 (24 bp)
+				Next Alignment: 273704 288988 37.2_37_20358_35643_f 4 15285
+
+			Align 26: 273704 288988 37.2_37_20358_35643_f 4 15285
+				Negative gap (overlap) between this and next alignment: 288988 to 287817 (-1171 bp)
+				Next Alignment: 287817 307665 63.1_63_0_19849_f 1 19849
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 1173.
+			Align 27: 288989 307665 63.1_63_0_19849_f 1173 19849
+				Negative gap (overlap) between this and next alignment: 307665 to 306494 (-1171 bp)
+				Next Alignment: 306494 393723 13.1_13_0_87233_f 87233 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 87233 to 86061.
+			Align 28: 307666 393723 13.1_13_0_87233_f 86061 1
+				Gap between this and next alignment: 393723 to 394224 (500 bp)
+				Next Alignment: 394224 426962 42.1_42_0_32744_f 32741 1
+
+			Align 29: 394224 426962 42.1_42_0_32744_f 32741 1
+				Gap between this and next alignment: 426962 to 427042 (79 bp)
+				Next Alignment: 427042 434899 82.1_82_0_7858_f 1 7858
+
+			Align 30: 427042 434899 82.1_82_0_7858_f 1 7858
+				Gap between this and next alignment: 434899 to 434949 (49 bp)
+				Next Alignment: 434949 436065 22.2_22_67919_69036_f 1117 1
+
+			Align 31: 434949 436065 22.2_22_67919_69036_f 1117 1
+				Gap between this and next alignment: 436065 to 436077 (11 bp)
+				Next Alignment: 436077 503977 22.1_22_0_67911_f 67911 1
+
+			Align 32: 436077 503977 22.1_22_0_67911_f 67911 1
+				Gap between this and next alignment: 503977 to 504010 (32 bp)
+				Next Alignment: 504010 537597 41.1_41_0_33596_f 1 33596
+
+			Align 33: 504010 537597 41.1_41_0_33596_f 1 33596
+				Gap between this and next alignment: 537597 to 537716 (118 bp)
+				Next Alignment: 537716 559511 423.1_423_0_21796_f 21796 1
+
+			Align 34: 537716 559511 423.1_423_0_21796_f 21796 1
+				The next alignment (555792 556445 171.1_171_0_654_f 654 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 559511 to 559132 (-379 bp)
+				Next Alignment: 559132 577764 68.1_68_0_18634_f 1 18634
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 381.
+			Align 36: 559512 577764 68.1_68_0_18634_f 381 18634
+				Gap between this and next alignment: 577764 to 577783 (18 bp)
+				Next Alignment: 577783 601459 53.1_53_0_23674_f 1 23674
+
+			Align 37: 577783 601459 53.1_53_0_23674_f 1 23674
+				Gap between this and next alignment: 601459 to 601653 (193 bp)
+				Next Alignment: 601653 608641 419.1_419_0_89799_f 89799 82809
+
+			Align 38: 601653 608641 419.1_419_0_89799_f 89799 82809
+				Gap between this and next alignment: 608641 to 608840 (198 bp)
+				Next Alignment: 608840 613572 36.1_36_0_4733_f 1 4733
+
+			Align 39: 608840 613572 36.1_36_0_4733_f 1 4733
+				Gap between this and next alignment: 613572 to 613600 (27 bp)
+				Next Alignment: 613600 645984 36.2_36_4762_37155_f 1 32393
+
+			Align 40: 613600 645984 36.2_36_4762_37155_f 1 32393
+				The next alignment (638518 639170 172.1_172_0_653_f 653 1) is redundant. Skipping.
+				Gap between this and next alignment: 645984 to 646011 (26 bp)
+				Next Alignment: 646011 651043 93.1_93_0_5033_f 1 5033
+
+			Align 42: 646011 651043 93.1_93_0_5033_f 1 5033
+				Negative gap (overlap) between this and next alignment: 651043 to 650923 (-120 bp)
+				Next Alignment: 650923 651595 147.1_147_0_673_f 1 673
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 122.
+			Align 43: 651044 651595 147.1_147_0_673_f 122 673
+				Negative gap (overlap) between this and next alignment: 651595 to 651542 (-53 bp)
+				Next Alignment: 651542 652741 133.1_133_0_1200_f 1 1200
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 55.
+			Align 44: 651596 652741 133.1_133_0_1200_f 55 1200
+				The next alignment (651582 652741 135.1_135_0_1139_f 1139 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 652741 to 652073 (-668 bp)
+				Next Alignment: 652073 652994 143.1_143_0_922_f 1 922
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 670.
+			Align 46: 652742 652994 143.1_143_0_922_f 670 922
+				Negative gap (overlap) between this and next alignment: 652994 to 652688 (-306 bp)
+				Next Alignment: 652688 656877 99.1_99_0_4190_f 1 4190
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 308.
+			Align 47: 652995 656877 99.1_99_0_4190_f 308 4190
+				Negative gap (overlap) between this and next alignment: 656877 to 655372 (-1505 bp)
+				Next Alignment: 655372 658279 109.1_109_0_2905_f 1 2905
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 1507.
+			Align 48: 656878 658279 109.1_109_0_2905_f 1507 2905
+				Negative gap (overlap) between this and next alignment: 658279 to 657439 (-840 bp)
+				Next Alignment: 657439 668196 79.1_79_0_10752_f 1 10752
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 839.
+			Align 49: 658280 668196 79.1_79_0_10752_f 839 10752
+				Negative gap (overlap) between this and next alignment: 668196 to 668013 (-183 bp)
+				Next Alignment: 668013 669033 141.1_141_0_1027_f 1027 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1027 to 843.
+			Align 50: 668197 669033 141.1_141_0_1027_f 843 1
+				Negative gap (overlap) between this and next alignment: 669033 to 668852 (-181 bp)
+				Next Alignment: 668852 672079 107.1_107_0_3234_f 1 3234
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 189.
+			Align 51: 669034 672079 107.1_107_0_3234_f 189 3234
+				Negative gap (overlap) between this and next alignment: 672079 to 671862 (-217 bp)
+				Next Alignment: 671862 672489 430.1_430_0_1434_f 1434 807
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1434 to 1216.
+			Align 52: 672080 672489 430.1_430_0_1434_f 1216 807
+				Negative gap (overlap) between this and next alignment: 672489 to 672273 (-216 bp)
+				Next Alignment: 672273 673077 430.1_430_0_1434_f 805 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 805 to 588.
+			Align 53: 672490 673077 430.1_430_0_1434_f 588 1
+				Negative gap (overlap) between this and next alignment: 673077 to 672944 (-133 bp)
+				Next Alignment: 672944 691852 67.1_67_0_18912_f 18912 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 18912 to 18778.
+			Align 54: 673078 691852 67.1_67_0_18912_f 18778 1
+				Gap between this and next alignment: 691852 to 691861 (8 bp)
+				Next Alignment: 691861 698741 87.1_87_0_6881_f 1 6881
+
+			Align 55: 691861 698741 87.1_87_0_6881_f 1 6881
+				Gap between this and next alignment: 698741 to 698905 (163 bp)
+				Next Alignment: 698905 770838 21.1_21_0_71932_f 1 71932
+
+			Align 56: 698905 770838 21.1_21_0_71932_f 1 71932
+				Gap between this and next alignment: 770838 to 770922 (83 bp)
+				Next Alignment: 770922 847421 17.2_17_2602_79116_f 76514 1
+
+			Align 57: 770922 847421 17.2_17_2602_79116_f 76514 1
+				Gap between this and next alignment: 847421 to 847435 (13 bp)
+				Next Alignment: 847435 850027 17.1_17_0_2593_f 2593 1
+
+			Align 58: 847435 850027 17.1_17_0_2593_f 2593 1
+				Gap between this and next alignment: 850027 to 850097 (69 bp)
+				Next Alignment: 850097 878536 39.2_39_5511_33955_f 28444 1
+
+			Align 59: 850097 878536 39.2_39_5511_33955_f 28444 1
+				Gap between this and next alignment: 878536 to 878580 (43 bp)
+				Next Alignment: 878580 884049 39.1_39_0_5470_f 5470 1
+
+			Align 60: 878580 884049 39.1_39_0_5470_f 5470 1
+				Gap between this and next alignment: 884049 to 884159 (109 bp)
+				Next Alignment: 884159 904461 61.1_61_0_20300_f 20300 1
+
+			Align 61: 884159 904461 61.1_61_0_20300_f 20300 1
+				Gap between this and next alignment: 904461 to 904476 (14 bp)
+				Next Alignment: 904476 931145 5.1_5_0_26673_f 1 26673
+
+			Align 62: 904476 931145 5.1_5_0_26673_f 1 26673
+				Gap between this and next alignment: 931145 to 931157 (11 bp)
+				Next Alignment: 931157 1012196 5.2_5_26682_107728_f 1 81046
+
+			Align 63: 931157 1012196 5.2_5_26682_107728_f 1 81046
+				The next alignment (982272 982910 174.1_174_0_639_f 639 1) is redundant. Skipping.
+				Gap between this and next alignment: 1012196 to 1012252 (55 bp)
+				Next Alignment: 1012252 1056982 5.3_5_107782_152491_f 1 44709
+
+			Align 65: 1012252 1056982 5.3_5_107782_152491_f 1 44709
+				Gap between this and next alignment: 1056982 to 1057126 (143 bp)
+				Next Alignment: 1057126 1062094 8.3_8_137605_142574_f 4969 1
+
+			Align 66: 1057126 1062094 8.3_8_137605_142574_f 4969 1
+				Gap between this and next alignment: 1062094 to 1062105 (10 bp)
+				Next Alignment: 1062105 1195608 8.2_8_4087_137593_f 133505 1
+
+			Align 67: 1062105 1195608 8.2_8_4087_137593_f 133505 1
+				Gap between this and next alignment: 1195608 to 1195680 (71 bp)
+				Next Alignment: 1195680 1199705 8.1_8_0_4037_f 4026 1
+
+			Align 68: 1195680 1199705 8.1_8_0_4037_f 4026 1
+				Gap between this and next alignment: 1199705 to 1199759 (53 bp)
+				Next Alignment: 1199759 1234651 3.1_3_0_34897_f 1 34897
+
+			Align 69: 1199759 1234651 3.1_3_0_34897_f 1 34897
+				Gap between this and next alignment: 1234651 to 1234662 (10 bp)
+				Next Alignment: 1234662 1363048 3.2_3_34904_163305_f 1 128401
+
+			Align 70: 1234662 1363048 3.2_3_34904_163305_f 1 128401
+				Gap between this and next alignment: 1363048 to 1363055 (6 bp)
+				Next Alignment: 1363055 1376145 3.3_3_163311_176402_f 1 13091
+
+			Align 71: 1363055 1376145 3.3_3_163311_176402_f 1 13091
+				Gap between this and next alignment: 1376145 to 1376228 (82 bp)
+				Next Alignment: 1376228 1376958 32.1_32_0_731_f 1 731
+
+			Align 72: 1376228 1376958 32.1_32_0_731_f 1 731
+				Gap between this and next alignment: 1376958 to 1376977 (18 bp)
+				Next Alignment: 1376977 1384924 32.2_32_747_8700_f 1 7953
+
+			Align 73: 1376977 1384924 32.2_32_747_8700_f 1 7953
+				Gap between this and next alignment: 1384924 to 1384994 (69 bp)
+				Next Alignment: 1384994 1394032 32.3_32_8768_17807_f 1 9039
+
+			Align 74: 1384994 1394032 32.3_32_8768_17807_f 1 9039
+				Gap between this and next alignment: 1394032 to 1394053 (20 bp)
+				Next Alignment: 1394053 1415986 32.4_32_17826_39760_f 1 21934
+
+			Align 75: 1394053 1415986 32.4_32_17826_39760_f 1 21934
+				Gap between this and next alignment: 1415986 to 1416018 (31 bp)
+				Next Alignment: 1416018 1436250 62.1_62_0_20241_f 1 20241
+
+			Align 76: 1416018 1436250 62.1_62_0_20241_f 1 20241
+				Negative gap (overlap) between this and next alignment: 1436250 to 1435198 (-1052 bp)
+				Next Alignment: 1435198 1436316 427.2_427_2173_5689_f 3516 2398
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 3516 to 2463.
+			Align 77: 1436251 1436316 427.2_427_2173_5689_f 2463 2398
+				Gap between this and next alignment: 1436316 to 1436379 (62 bp)
+				Next Alignment: 1436379 1475806 33.1_33_0_39428_f 39428 1
+
+			Align 78: 1436379 1475806 33.1_33_0_39428_f 39428 1
+				Gap between this and next alignment: 1475806 to 1475882 (75 bp)
+				Next Alignment: 1475882 1583885 0.1_0_0_108055_f 48 108052
+
+			Align 79: 1475882 1583885 0.1_0_0_108055_f 48 108052
+				Gap between this and next alignment: 1583885 to 1583906 (20 bp)
+				Next Alignment: 1583906 1607198 0.2_0_108068_131361_f 2 23293
+
+			Align 80: 1583906 1607198 0.2_0_108068_131361_f 2 23293
+				Gap between this and next alignment: 1607198 to 1607208 (9 bp)
+				Next Alignment: 1607208 1622126 0.3_0_131368_146288_f 1 14920
+
+			Align 81: 1607208 1622126 0.3_0_131368_146288_f 1 14920
+				Gap between this and next alignment: 1622126 to 1622148 (21 bp)
+				Next Alignment: 1622148 1630074 0.4_0_146309_154237_f 2 7928
+
+			Align 82: 1622148 1630074 0.4_0_146309_154237_f 2 7928
+				Gap between this and next alignment: 1630074 to 1630089 (14 bp)
+				Next Alignment: 1630089 1660969 0.5_0_154252_185137_f 1 30884
+
+			Align 83: 1630089 1660969 0.5_0_154252_185137_f 1 30884
+				Gap between this and next alignment: 1660969 to 1661005 (35 bp)
+				Next Alignment: 1661005 1711447 0.6_0_185164_235612_f 6 50448
+
+			Align 84: 1661005 1711447 0.6_0_185164_235612_f 6 50448
+				The next alignment (1682752 1683538 169.1_169_0_787_f 1 787) is redundant. Skipping.
+				Gap between this and next alignment: 1711447 to 1711473 (25 bp)
+				Next Alignment: 1711473 1741945 0.7_0_235638_266113_f 1 30475
+
+			Align 86: 1711473 1741945 0.7_0_235638_266113_f 1 30475
+				Gap between this and next alignment: 1741945 to 1741961 (15 bp)
+				Next Alignment: 1741961 1753335 14.1_14_0_11372_f 1 11372
+
+			Align 87: 1741961 1753335 14.1_14_0_11372_f 1 11372
+				Gap between this and next alignment: 1753335 to 1753351 (15 bp)
+				Next Alignment: 1753351 1760703 14.2_14_11388_18741_f 1 7353
+
+			Align 88: 1753351 1760703 14.2_14_11388_18741_f 1 7353
+				Gap between this and next alignment: 1760703 to 1760720 (16 bp)
+				Next Alignment: 1760720 1827334 14.3_14_18755_85377_f 3 66622
+
+			Align 89: 1760720 1827334 14.3_14_18755_85377_f 3 66622
+				Gap between this and next alignment: 1827334 to 1827382 (47 bp)
+				Next Alignment: 1827382 1828820 14.4_14_85426_86865_f 1 1439
+
+			Align 90: 1827382 1828820 14.4_14_85426_86865_f 1 1439
+				Gap between this and next alignment: 1828820 to 1828897 (76 bp)
+				Next Alignment: 1828897 1861763 6.1_6_0_32868_f 1 32868
+
+			Align 91: 1828897 1861763 6.1_6_0_32868_f 1 32868
+				Gap between this and next alignment: 1861763 to 1861766 (2 bp)
+				Next Alignment: 1861766 1883561 6.2_6_32871_54669_f 1 21796
+
+			Align 92: 1861766 1883561 6.2_6_32871_54669_f 1 21796
+				Gap between this and next alignment: 1883561 to 1883577 (15 bp)
+				Next Alignment: 1883577 1933030 6.3_6_54684_104138_f 1 49454
+
+			Align 93: 1883577 1933030 6.3_6_54684_104138_f 1 49454
+				Gap between this and next alignment: 1933030 to 1933056 (25 bp)
+				Next Alignment: 1933056 1978116 6.4_6_104163_149224_f 1 45061
+
+			Align 94: 1933056 1978116 6.4_6_104163_149224_f 1 45061
+				Gap between this and next alignment: 1978116 to 1978212 (95 bp)
+				Next Alignment: 1978212 1998964 60.1_60_0_20755_f 1 20755
+
+			Align 95: 1978212 1998964 60.1_60_0_20755_f 1 20755
+				Gap between this and next alignment: 1998964 to 1999386 (421 bp)
+				Next Alignment: 1999386 2033703 38.1_38_0_34318_f 34318 1
+
+			Align 96: 1999386 2033703 38.1_38_0_34318_f 34318 1
+				Gap between this and next alignment: 2033703 to 2033760 (56 bp)
+				Next Alignment: 2033760 2075311 7.2_7_102457_144021_f 41564 1
+
+			Align 97: 2033760 2075311 7.2_7_102457_144021_f 41564 1
+				Gap between this and next alignment: 2075311 to 2075345 (33 bp)
+				Next Alignment: 2075345 2166811 7.1_7_0_102429_f 102429 10964
+
+			Align 98: 2075345 2166811 7.1_7_0_102429_f 102429 10964
+				Gap between this and next alignment: 2166811 to 2166860 (48 bp)
+				Next Alignment: 2166860 2177822 7.1_7_0_102429_f 10963 1
+
+			Align 99: 2166860 2177822 7.1_7_0_102429_f 10963 1
+				Negative gap (overlap) between this and next alignment: 2177822 to 2176197 (-1625 bp)
+				Next Alignment: 2176197 2238868 19.1_19_0_69044_f 1 62640
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 1627.
+			Align 100: 2177823 2238868 19.1_19_0_69044_f 1627 62640
+				Negative gap (overlap) between this and next alignment: 2238868 to 2238839 (-29 bp)
+				Next Alignment: 2238839 2245272 19.1_19_0_69044_f 62641 69044
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 62641 to 62671.
+			Align 101: 2238869 2245272 19.1_19_0_69044_f 62671 69044
+				Gap between this and next alignment: 2245272 to 2245310 (37 bp)
+				Next Alignment: 2245310 2253117 19.2_19_69080_76886_f 2 7806
+
+			Align 102: 2245310 2253117 19.2_19_69080_76886_f 2 7806
+				Gap between this and next alignment: 2253117 to 2253248 (130 bp)
+				Next Alignment: 2253248 2279582 422.1_422_0_50778_f 26335 1
+
+			Align 103: 2253248 2279582 422.1_422_0_50778_f 26335 1
+				Gap between this and next alignment: 2279582 to 2279625 (42 bp)
+				Next Alignment: 2279625 2283885 420.3_420_65966_70227_f 4261 1
+
+			Align 104: 2279625 2283885 420.3_420_65966_70227_f 4261 1
+				Gap between this and next alignment: 2283885 to 2283935 (49 bp)
+				Next Alignment: 2283935 2312329 25.1_25_0_28401_f 1 28387
+
+			Align 105: 2283935 2312329 25.1_25_0_28401_f 1 28387
+				Gap between this and next alignment: 2312329 to 2312361 (31 bp)
+				Next Alignment: 2312361 2339483 25.2_25_28418_55538_f 1 27120
+
+			Align 106: 2312361 2339483 25.2_25_28418_55538_f 1 27120
+				Gap between this and next alignment: 2339483 to 2339530 (46 bp)
+				Next Alignment: 2339530 2344032 20.1_20_0_4513_f 1 4506
+
+			Align 107: 2339530 2344032 20.1_20_0_4513_f 1 4506
+				Gap between this and next alignment: 2344032 to 2344068 (35 bp)
+				Next Alignment: 2344068 2356132 20.2_20_4538_16609_f 2 12066
+
+			Align 108: 2344068 2356132 20.2_20_4538_16609_f 2 12066
+				Gap between this and next alignment: 2356132 to 2356155 (22 bp)
+				Next Alignment: 2356155 2412425 20.3_20_16625_72895_f 1 56270
+
+			Align 109: 2356155 2412425 20.3_20_16625_72895_f 1 56270
+				Gap between this and next alignment: 2412425 to 2412449 (23 bp)
+				Next Alignment: 2412449 2419822 421.3_421_37531_44913_f 7382 1
+
+			Align 110: 2412449 2419822 421.3_421_37531_44913_f 7382 1
+				Next Alignment: 2419823 2454775 421.2_421_2565_37525_f 34960 1
+
+			Align 111: 2419823 2454775 421.2_421_2565_37525_f 34960 1
+				Gap between this and next alignment: 2454775 to 2454790 (14 bp)
+				Next Alignment: 2454790 2457337 421.1_421_0_2553_f 2553 1
+
+			Align 112: 2454790 2457337 421.1_421_0_2553_f 2553 1
+				Gap between this and next alignment: 2457337 to 2457351 (13 bp)
+				Next Alignment: 2457351 2472350 73.1_73_0_14998_f 14998 1
+
+			Align 113: 2457351 2472350 73.1_73_0_14998_f 14998 1
+				Gap between this and next alignment: 2472350 to 2472442 (91 bp)
+				Next Alignment: 2472442 2485958 26.1_26_0_49681_f 1 13489
+
+			Align 114: 2472442 2485958 26.1_26_0_49681_f 1 13489
+				Negative gap (overlap) between this and next alignment: 2485958 to 2485931 (-27 bp)
+				Next Alignment: 2485931 2522150 26.1_26_0_49681_f 13490 49681
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 13490 to 13518.
+			Align 115: 2485959 2522150 26.1_26_0_49681_f 13518 49681
+				Gap between this and next alignment: 2522150 to 2522279 (128 bp)
+				Next Alignment: 2522279 2533968 31.1_31_0_11693_f 1 11692
+
+			Align 116: 2522279 2533968 31.1_31_0_11693_f 1 11692
+				Gap between this and next alignment: 2533968 to 2534003 (34 bp)
+				Next Alignment: 2534003 2565606 31.2_31_11723_43324_f 1 31601
+
+			Align 117: 2534003 2565606 31.2_31_11723_43324_f 1 31601
+				Gap between this and next alignment: 2565606 to 2565684 (77 bp)
+				Next Alignment: 2565684 2594934 16.3_16_51935_81241_f 29306 1
+
+			Align 118: 2565684 2594934 16.3_16_51935_81241_f 29306 1
+				Gap between this and next alignment: 2594934 to 2594963 (28 bp)
+				Next Alignment: 2594963 2597013 16.2_16_49850_51907_f 2056 6
+
+			Align 119: 2594963 2597013 16.2_16_49850_51907_f 2056 6
+				Gap between this and next alignment: 2597013 to 2597037 (23 bp)
+				Next Alignment: 2597037 2646863 16.1_16_0_49840_f 49835 1
+
+			Align 120: 2597037 2646863 16.1_16_0_49840_f 49835 1
+				Gap between this and next alignment: 2646863 to 2646867 (3 bp)
+				Next Alignment: 2646867 2670059 55.1_55_0_23193_f 23193 1
+
+			Align 121: 2646867 2670059 55.1_55_0_23193_f 23193 1
+				Gap between this and next alignment: 2670059 to 2670212 (152 bp)
+				Next Alignment: 2670212 2675419 29.2_29_39928_45136_f 5208 1
+
+			Align 122: 2670212 2675419 29.2_29_39928_45136_f 5208 1
+				Gap between this and next alignment: 2675419 to 2675438 (18 bp)
+				Next Alignment: 2675438 2715349 29.1_29_0_39914_f 39914 1
+
+			Align 123: 2675438 2715349 29.1_29_0_39914_f 39914 1
+				Gap between this and next alignment: 2715349 to 2715607 (257 bp)
+				Next Alignment: 2715607 2759863 30.2_30_172_44433_f 1 44261
+
+			Align 124: 2715607 2759863 30.2_30_172_44433_f 1 44261
+				Gap between this and next alignment: 2759863 to 2759905 (41 bp)
+				Next Alignment: 2759905 2774217 74.1_74_0_14311_f 1 14311
+
+			Align 125: 2759905 2774217 74.1_74_0_14311_f 1 14311
+				Gap between this and next alignment: 2774217 to 2774259 (41 bp)
+				Next Alignment: 2774259 2861772 12.1_12_0_87527_f 87527 1
+
+			Align 126: 2774259 2861772 12.1_12_0_87527_f 87527 1
+				Gap between this and next alignment: 2861772 to 2861890 (117 bp)
+				Next Alignment: 2861890 2911504 420.2_420_16301_65917_f 49615 1
+
+			Align 127: 2861890 2911504 420.2_420_16301_65917_f 49615 1
+				Gap between this and next alignment: 2911504 to 2911528 (23 bp)
+				Next Alignment: 2911528 2927806 420.1_420_0_16279_f 16279 1
+
+			Align 128: 2911528 2927806 420.1_420_0_16279_f 16279 1
+				Gap between this and next alignment: 2927806 to 2927865 (58 bp)
+				Next Alignment: 2927865 2935708 425.1_425_0_10433_f 1 7844
+
+			Align 129: 2927865 2935708 425.1_425_0_10433_f 1 7844
+				Negative gap (overlap) between this and next alignment: 2935708 to 2935671 (-37 bp)
+				Next Alignment: 2935671 2938258 425.1_425_0_10433_f 7846 10433
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 7846 to 7884.
+			Align 130: 2935709 2938258 425.1_425_0_10433_f 7884 10433
+				Gap between this and next alignment: 2938258 to 2938337 (78 bp)
+				Next Alignment: 2938337 2943027 1.1_1_0_4691_f 1 4691
+
+			Align 131: 2938337 2943027 1.1_1_0_4691_f 1 4691
+				Gap between this and next alignment: 2943027 to 2943042 (14 bp)
+				Next Alignment: 2943042 3009904 1.2_1_4705_71570_f 2 66865
+
+			Align 132: 2943042 3009904 1.2_1_4705_71570_f 2 66865
+				Gap between this and next alignment: 3009904 to 3009909 (4 bp)
+				Next Alignment: 3009909 3109273 1.3_1_71574_170958_f 1 99384
+
+			Align 133: 3009909 3109273 1.3_1_71574_170958_f 1 99384
+				Gap between this and next alignment: 3109273 to 3109279 (5 bp)
+				Next Alignment: 3109279 3126210 1.4_1_170965_187897_f 1 16932
+
+			Align 134: 3109279 3126210 1.4_1_170965_187897_f 1 16932
+				Gap between this and next alignment: 3126210 to 3126225 (14 bp)
+				Next Alignment: 3126225 3180798 1.5_1_187911_242488_f 1 54577
+
+			Align 135: 3126225 3180798 1.5_1_187911_242488_f 1 54577
+				Gap between this and next alignment: 3180798 to 3180865 (66 bp)
+				Next Alignment: 3180865 3188348 84.1_84_0_7484_f 1 7484
+
+			Align 136: 3180865 3188348 84.1_84_0_7484_f 1 7484
+			END in gap: 3188348 to 3188521 (173 bp)
+
+	Reference NZ_AKVW01000002.1_Rhodobacter_sphaeroides_2.4.1_chromosome_2__complete_sequence__whole_genome_shotgun_sequence: 55 total alignments. 1 total regions.
+		Region: 1 to 942929 (942929 bp)
+			Align 1: 1 2437 112.1_112_0_2842_f 406 2842
+				Negative gap (overlap) between this and next alignment: 2437 to 2426 (-11 bp)
+				Next Alignment: 2426 36110 40.1_40_0_33688_f 1 33688
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 13.
+			Align 2: 2438 36110 40.1_40_0_33688_f 13 33688
+				The next alignment (4724 5269 178.1_178_0_546_f 546 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 36110 to 33447 (-2663 bp)
+				Next Alignment: 33447 39023 92.1_92_0_5577_f 5577 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 5577 to 2913.
+			Align 4: 36111 39023 92.1_92_0_5577_f 2913 1
+				Negative gap (overlap) between this and next alignment: 39023 to 36099 (-2924 bp)
+				Next Alignment: 36099 42593 91.1_91_0_6495_f 1 6495
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 2926.
+			Align 5: 39024 42593 91.1_91_0_6495_f 2926 6495
+				The next alignment (40264 40858 177.1_177_0_595_f 595 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 42593 to 42214 (-379 bp)
+				Next Alignment: 42214 70554 46.1_46_0_28341_f 1 28341
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 381.
+			Align 7: 42594 70554 46.1_46_0_28341_f 381 28341
+				Gap between this and next alignment: 70554 to 70647 (92 bp)
+				Next Alignment: 70647 160324 4.2_4_83339_173022_f 89683 1
+
+			Align 8: 70647 160324 4.2_4_83339_173022_f 89683 1
+				Gap between this and next alignment: 160324 to 160374 (49 bp)
+				Next Alignment: 160374 243655 4.1_4_0_83292_f 83292 1
+
+			Align 9: 160374 243655 4.1_4_0_83292_f 83292 1
+				Gap between this and next alignment: 243655 to 243777 (121 bp)
+				Next Alignment: 243777 252293 81.1_81_0_8517_f 1 8517
+
+			Align 10: 243777 252293 81.1_81_0_8517_f 1 8517
+				Gap between this and next alignment: 252293 to 252366 (72 bp)
+				Next Alignment: 252366 335170 419.1_419_0_89799_f 1 82807
+
+			Align 11: 252366 335170 419.1_419_0_89799_f 1 82807
+				The next alignment (276755 276832 184.1_184_0_516_f 1 78) is redundant. Skipping.
+				Gap between this and next alignment: 335170 to 335287 (116 bp)
+				Next Alignment: 335287 339346 101.1_101_0_4059_f 1 4059
+
+			Align 13: 335287 339346 101.1_101_0_4059_f 1 4059
+				Gap between this and next alignment: 339346 to 339473 (126 bp)
+				Next Alignment: 339473 361764 56.1_56_0_22293_f 22293 1
+
+			Align 14: 339473 361764 56.1_56_0_22293_f 22293 1
+				Gap between this and next alignment: 361764 to 361857 (92 bp)
+				Next Alignment: 361857 371970 80.1_80_0_10114_f 1 10114
+
+			Align 15: 361857 371970 80.1_80_0_10114_f 1 10114
+				Gap between this and next alignment: 371970 to 372099 (128 bp)
+				Next Alignment: 372099 383337 9.4_9_116865_128104_f 11239 1
+
+			Align 16: 372099 383337 9.4_9_116865_128104_f 11239 1
+				Gap between this and next alignment: 383337 to 383372 (34 bp)
+				Next Alignment: 383372 397237 9.3_9_102967_116851_f 13866 1
+
+			Align 17: 383372 397237 9.3_9_102967_116851_f 13866 1
+				Gap between this and next alignment: 397237 to 397248 (10 bp)
+				Next Alignment: 397248 465756 9.2_9_34449_102958_f 68509 1
+
+			Align 18: 397248 465756 9.2_9_34449_102958_f 68509 1
+				The next alignment (425183 425886 170.1_170_0_704_f 1 704) is redundant. Skipping.
+				Gap between this and next alignment: 465756 to 465778 (21 bp)
+				Next Alignment: 465778 500203 9.1_9_0_34432_f 34432 1
+
+			Align 20: 465778 500203 9.1_9_0_34432_f 34432 1
+				Gap between this and next alignment: 500203 to 500238 (34 bp)
+				Next Alignment: 500238 519749 66.1_66_0_19517_f 19517 1
+
+			Align 21: 500238 519749 66.1_66_0_19517_f 19517 1
+				Gap between this and next alignment: 519749 to 519776 (26 bp)
+				Next Alignment: 519776 541330 2.9_2_164026_185584_f 21558 1
+
+			Align 22: 519776 541330 2.9_2_164026_185584_f 21558 1
+				Next Alignment: 541331 553491 2.8_2_151857_164023_f 12166 1
+
+			Align 23: 541331 553491 2.8_2_151857_164023_f 12166 1
+				The next alignment (549874 550055 432.1_432_0_531_f 350 531) is redundant. Skipping.
+				Gap between this and next alignment: 553491 to 553499 (7 bp)
+				Next Alignment: 553499 562410 2.7_2_142932_151851_f 8919 1
+
+			Align 25: 553499 562410 2.7_2_142932_151851_f 8919 1
+				Gap between this and next alignment: 562410 to 562443 (32 bp)
+				Next Alignment: 562443 566327 2.6_2_139011_142900_f 3889 1
+
+			Align 26: 562443 566327 2.6_2_139011_142900_f 3889 1
+				Gap between this and next alignment: 566327 to 566336 (8 bp)
+				Next Alignment: 566336 575329 2.5_2_130006_139005_f 8997 1
+
+			Align 27: 566336 575329 2.5_2_130006_139005_f 8997 1
+				Gap between this and next alignment: 575329 to 575348 (18 bp)
+				Next Alignment: 575348 593179 2.4_2_112158_129992_f 17833 1
+
+			Align 28: 575348 593179 2.4_2_112158_129992_f 17833 1
+				Gap between this and next alignment: 593179 to 593203 (23 bp)
+				Next Alignment: 593203 617436 2.3_2_87901_112135_f 24234 1
+
+			Align 29: 593203 617436 2.3_2_87901_112135_f 24234 1
+				Gap between this and next alignment: 617436 to 617448 (11 bp)
+				Next Alignment: 617448 651894 2.2_2_53442_87890_f 34448 1
+
+			Align 30: 617448 651894 2.2_2_53442_87890_f 34448 1
+				Gap between this and next alignment: 651894 to 651908 (13 bp)
+				Next Alignment: 651908 705334 2.1_2_0_53431_f 53431 1
+
+			Align 31: 651908 705334 2.1_2_0_53431_f 53431 1
+				Negative gap (overlap) between this and next alignment: 705334 to 704832 (-502 bp)
+				Next Alignment: 704832 706912 124.1_124_0_2081_f 1 2081
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 504.
+			Align 32: 705335 706912 124.1_124_0_2081_f 504 2081
+				Gap between this and next alignment: 706912 to 708036 (1123 bp)
+				Next Alignment: 708036 711664 104.1_104_0_3629_f 1 3629
+
+			Align 33: 708036 711664 104.1_104_0_3629_f 1 3629
+				Negative gap (overlap) between this and next alignment: 711664 to 711477 (-187 bp)
+				Next Alignment: 711477 712493 142.1_142_0_1017_f 1 1017
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 189.
+			Align 34: 711665 712493 142.1_142_0_1017_f 189 1017
+				Negative gap (overlap) between this and next alignment: 712493 to 712310 (-183 bp)
+				Next Alignment: 712310 712863 152.1_152_0_554_f 554 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 554 to 370.
+			Align 35: 712494 712863 152.1_152_0_554_f 370 1
+				Gap between this and next alignment: 712863 to 712939 (75 bp)
+				Next Alignment: 712939 716881 51.1_51_0_3947_f 2 3947
+
+			Align 36: 712939 716881 51.1_51_0_3947_f 2 3947
+				Gap between this and next alignment: 716881 to 716888 (6 bp)
+				Next Alignment: 716888 737347 51.2_51_3952_24412_f 1 20460
+
+			Align 37: 716888 737347 51.2_51_3952_24412_f 1 20460
+				Negative gap (overlap) between this and next alignment: 737347 to 737204 (-143 bp)
+				Next Alignment: 737204 740672 106.1_106_0_3469_f 1 3469
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 145.
+			Align 38: 737348 740672 106.1_106_0_3469_f 145 3469
+				Negative gap (overlap) between this and next alignment: 740672 to 738570 (-2102 bp)
+				Next Alignment: 738570 743355 95.1_95_0_4786_f 4786 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 4786 to 2683.
+			Align 39: 740673 743355 95.1_95_0_4786_f 2683 1
+				Negative gap (overlap) between this and next alignment: 743355 to 743193 (-162 bp)
+				Next Alignment: 743193 744386 431.1_431_0_6459_f 1615 422
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1615 to 1452.
+			Align 40: 743356 744386 431.1_431_0_6459_f 1452 422
+				Negative gap (overlap) between this and next alignment: 744386 to 744291 (-95 bp)
+				Next Alignment: 744291 744710 431.1_431_0_6459_f 420 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 420 to 324.
+			Align 41: 744387 744710 431.1_431_0_6459_f 324 1
+				Gap between this and next alignment: 744710 to 744735 (24 bp)
+				Next Alignment: 744735 758884 75.1_75_0_14150_f 1 14150
+
+			Align 42: 744735 758884 75.1_75_0_14150_f 1 14150
+				Negative gap (overlap) between this and next alignment: 758884 to 758382 (-502 bp)
+				Next Alignment: 758382 759876 129.1_129_0_1495_f 1495 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1495 to 992.
+			Align 43: 758885 759876 129.1_129_0_1495_f 992 1
+				Negative gap (overlap) between this and next alignment: 759876 to 759485 (-391 bp)
+				Next Alignment: 759485 760545 139.1_139_0_1061_f 1 1061
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 393.
+			Align 44: 759877 760545 139.1_139_0_1061_f 393 1061
+				Negative gap (overlap) between this and next alignment: 760545 to 760265 (-280 bp)
+				Next Alignment: 760265 762390 427.1_427_0_2125_f 2123 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 2123 to 1842.
+			Align 45: 760546 762390 427.1_427_0_2125_f 1842 1
+				Negative gap (overlap) between this and next alignment: 762390 to 761585 (-805 bp)
+				Next Alignment: 761585 777842 11.2_11_72120_88378_f 16258 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 16258 to 15452.
+			Align 46: 762391 777842 11.2_11_72120_88378_f 15452 1
+				Gap between this and next alignment: 777842 to 777862 (19 bp)
+				Next Alignment: 777862 796583 11.1_11_0_72106_f 72103 53404
+
+			Align 47: 777862 796583 11.1_11_0_72106_f 72103 53404
+				Negative gap (overlap) between this and next alignment: 796583 to 796564 (-19 bp)
+				Next Alignment: 796564 849987 11.1_11_0_72106_f 53403 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 53403 to 53383.
+			Align 48: 796584 849987 11.1_11_0_72106_f 53383 1
+				Gap between this and next alignment: 849987 to 850175 (187 bp)
+				Next Alignment: 850175 888692 34.1_34_0_38520_f 38520 1
+
+			Align 49: 850175 888692 34.1_34_0_38520_f 38520 1
+				Gap between this and next alignment: 888692 to 888708 (15 bp)
+				Next Alignment: 888708 893728 94.1_94_0_5021_f 1 5021
+
+			Align 50: 888708 893728 94.1_94_0_5021_f 1 5021
+				Negative gap (overlap) between this and next alignment: 893728 to 893608 (-120 bp)
+				Next Alignment: 893608 894406 145.1_145_0_799_f 799 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 799 to 678.
+			Align 51: 893729 894406 145.1_145_0_799_f 678 1
+				Gap between this and next alignment: 894406 to 894922 (515 bp)
+				Next Alignment: 894922 906273 423.2_423_21840_34905_f 11352 1
+
+			Align 52: 894922 906273 423.2_423_21840_34905_f 11352 1
+				Negative gap (overlap) between this and next alignment: 906273 to 904171 (-2102 bp)
+				Next Alignment: 904171 922431 69.1_69_0_18261_f 1 18261
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 2104.
+			Align 53: 906274 922431 69.1_69_0_18261_f 2104 18261
+				Negative gap (overlap) between this and next alignment: 922431 to 921142 (-1289 bp)
+				Next Alignment: 921142 942756 58.1_58_0_21615_f 1 21615
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 1291.
+			Align 54: 922432 942756 58.1_58_0_21615_f 1291 21615
+				Negative gap (overlap) between this and next alignment: 942756 to 942525 (-231 bp)
+				Next Alignment: 942525 942929 112.1_112_0_2842_f 1 405
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 233.
+			Align 55: 942757 942929 112.1_112_0_2842_f 233 405
+			END in current alignment.  Modifying 942929 to 942929.
+
+	Reference NZ_AKVW01000005.1_Rhodobacter_sphaeroides_2.4.1_plasmid_C__complete_sequence__whole_genome_shotgun_sequence: 6 total alignments. 1 total regions.
+		Region: 1 to 105281 (105281 bp)
+			Align 1: 1 949 44.1_44_0_31720_f 30772 31720
+				Gap between this and next alignment: 949 to 1078 (128 bp)
+				Next Alignment: 1078 79192 18.1_18_0_78128_f 78128 1
+
+			Align 2: 1078 79192 18.1_18_0_78128_f 78128 1
+				The next alignment (50045 50901 167.1_167_0_857_f 1 857) is redundant. Skipping.
+				The next alignment (56853 57476 175.1_175_0_633_f 633 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 79192 to 74511 (-4681 bp)
+				Next Alignment: 74511 105281 44.1_44_0_31720_f 1 30771
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 4683.
+			Align 5: 79193 105281 44.1_44_0_31720_f 4683 30771
+			END in current alignment.  Modifying 105281 to 105281.
+
+	Reference NZ_AKVW01000003.1_Rhodobacter_sphaeroides_2.4.1_plasmid_Ax__complete_sequence__whole_genome_shotgun_sequence: 22 total alignments. 1 total regions.
+		Region: 1 to 124310 (124310 bp)
+			Align 1: 1 2281 120.1_120_0_2303_f 2281 1
+				Gap between this and next alignment: 2281 to 2320 (38 bp)
+				Next Alignment: 2320 23291 424.1_424_0_20973_f 20973 1
+
+			Align 2: 2320 23291 424.1_424_0_20973_f 20973 1
+				The next alignment (10198 10731 182.1_182_0_534_f 1 534) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 23291 to 23080 (-211 bp)
+				Next Alignment: 23080 23949 144.1_144_0_870_f 1 870
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 213.
+			Align 4: 23292 23949 144.1_144_0_870_f 213 870
+				Negative gap (overlap) between this and next alignment: 23949 to 23896 (-53 bp)
+				Next Alignment: 23896 27441 105.1_105_0_3547_f 1 3547
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 55.
+			Align 5: 23950 27441 105.1_105_0_3547_f 55 3547
+				Negative gap (overlap) between this and next alignment: 27441 to 27054 (-387 bp)
+				Next Alignment: 27054 28119 138.1_138_0_1066_f 1 1066
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 389.
+			Align 6: 27442 28119 138.1_138_0_1066_f 389 1066
+				Negative gap (overlap) between this and next alignment: 28119 to 27732 (-387 bp)
+				Next Alignment: 27732 39549 77.1_77_0_11817_f 11817 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 11817 to 11429.
+			Align 7: 28120 39549 77.1_77_0_11817_f 11429 1
+				Gap between this and next alignment: 39549 to 39611 (61 bp)
+				Next Alignment: 39611 42020 118.1_118_0_2410_f 1 2410
+
+			Align 8: 39611 42020 118.1_118_0_2410_f 1 2410
+				Gap between this and next alignment: 42020 to 42093 (72 bp)
+				Next Alignment: 42093 44983 111.1_111_0_2891_f 1 2891
+
+			Align 9: 42093 44983 111.1_111_0_2891_f 1 2891
+				The next alignment (43088 43344 432.1_432_0_531_f 1 257) is redundant. Skipping.
+				Gap between this and next alignment: 44983 to 45088 (104 bp)
+				Next Alignment: 45088 71700 49.1_49_0_26613_f 26613 1
+
+			Align 11: 45088 71700 49.1_49_0_26613_f 26613 1
+				The next alignment (62829 64068 164.1_164_0_1240_f 1 1240) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 71700 to 71527 (-173 bp)
+				Next Alignment: 71527 99755 47.1_47_0_28229_f 28229 1
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 28229 to 28055.
+			Align 13: 71701 99755 47.1_47_0_28229_f 28055 1
+				The next alignment (71941 72447 183.1_183_0_525_f 19 525) is redundant. Skipping.
+				The next alignment (94927 95468 179.1_179_0_542_f 542 1) is redundant. Skipping.
+				Negative gap (overlap) between this and next alignment: 99755 to 99746 (-9 bp)
+				Next Alignment: 99746 100271 153.1_153_0_526_f 1 526
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 11.
+			Align 16: 99756 100271 153.1_153_0_526_f 11 526
+				Negative gap (overlap) between this and next alignment: 100271 to 100064 (-207 bp)
+				Next Alignment: 100064 100716 418.2_418_103361_114766_f 10753 11405
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 10753 to 10961.
+			Align 17: 100272 100716 418.2_418_103361_114766_f 10961 11405
+				Gap between this and next alignment: 100716 to 100845 (128 bp)
+				Next Alignment: 100845 104548 103.1_103_0_3704_f 1 3704
+
+			Align 18: 100845 104548 103.1_103_0_3704_f 1 3704
+				Gap between this and next alignment: 104548 to 104758 (209 bp)
+				Next Alignment: 104758 124282 65.1_65_0_19525_f 19525 1
+
+			Align 19: 104758 124282 65.1_65_0_19525_f 19525 1
+				The next alignment (119432 120431 166.1_166_0_1000_f 1 1000) is redundant. Skipping.
+				The next alignment (120503 121143 173.1_173_0_641_f 641 1) is redundant. Skipping.
+				The next alignment (122848 123347 185.1_185_0_515_f 500 1) is redundant. Skipping.
+
+Analysis is finished!
+Founded SNPs were written into /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_contigs2.used_snps.gz
+
+Results:
+	Local Misassemblies: 5
+	Misassemblies: 9
+		Relocations: 1
+		Translocations: 8
+		Inversions: 0
+	Misassembled Contigs: 9
+	Misassembled Contig Bases: 178228
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 3 part
+Partially Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 53
+
+Ambiguously Mapped Contigs: 8
+Total Bases in Ambiguously Mapped Contigs: 104058
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 4611978
+
+	SNPs: 781
+	Insertions: 624
+	Deletions: 313
+
+	Positive Gaps: 141
+		Internal Gaps:  1
+		External Gaps:  140
+		External Gap Total:  16119
+		External Gap Average: 115
+	Negative Gaps: 71
+		Internal Overlaps:  8
+		External Overlaps:  63
+		External Overlaps Total: -63472
+		External Overlaps Average: -1007
+	Contigs with Redundant Alignments: 21 (15932)

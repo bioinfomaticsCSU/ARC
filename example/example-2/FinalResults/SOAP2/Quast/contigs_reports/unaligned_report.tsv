@@ -1,0 +1,8 @@
+Assembly	before2	afterfilter2	before2.scafSeq	afterfilter2.scafSeq
+# fully unaligned contigs	0	4	3	2
+Fully unaligned length	0	2336	2067	1846
+# partially unaligned contigs	11	8	3	7
+    # with misassembly	0	1	0	1
+    # both parts are significant	0	1	0	1
+Partially unaligned length	214	2799	255	4155
+# N's	139	409	16949	10238

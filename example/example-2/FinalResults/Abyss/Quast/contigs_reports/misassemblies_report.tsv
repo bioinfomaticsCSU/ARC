@@ -1,0 +1,13 @@
+Assembly	before_contigs2	after+filter_contigs2	before_scaffolds2	after+filter_scaffolds2
+# misassemblies	2	9	4	10
+    # relocations	0	1	1	2
+    # translocations	2	8	3	8
+    # inversions	0	0	0	0
+# misassembled contigs	2	9	4	8
+Misassembled contigs length	14418	178228	52533	259313
+# local misassemblies	0	5	1	8
+# mismatches	765	781	866	813
+# indels	835	246	1178	299
+    # indels (<= 5 bp)	810	223	1132	273
+    # indels (> 5 bp)	25	23	46	26
+Indels length	2411	937	3358	1072

@@ -1,0 +1,190 @@
+/home/liaoxingyu/quast-4.3/quast.py /homee/liaoxingyu/ARC-Multi-master/AssemblyResults/Abyss/before/contigs2.fa /homee/liaoxingyu/ARC-Multi-master/AssemblyResults/Abyss/after+filter/contigs2.fa /homee/liaoxingyu/ARC-Multi-master/AssemblyResults/Abyss/before/scaffolds2.fa /homee/liaoxingyu/ARC-Multi-master/AssemblyResults/Abyss/after+filter/scaffolds2.fa -R /homee/liaoxingyu/ARC-final-master/reference/genome-2.fasta -o /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/
+
+Version: 4.3
+
+System information:
+  OS: Linux-3.13.0-24-generic-x86_64-with-Ubuntu-12.04-precise (linux_64)
+  Python version: 2.7.3
+  CPUs number: 24
+
+Started: 2017-08-26 17:04:46
+
+Logging to /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/quast.log
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used
+NOTICE: Maximum number of threads is set to 6 (use --threads option to set it manually)
+
+CWD: /homee/liaoxingyu/ARC-Multi-master
+Main parameters: 
+  Threads: 6, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+WARNING: Can't draw plots: please install python-matplotlib.
+
+Reference:
+  /homee/liaoxingyu/ARC-final-master/reference/genome-2.fasta ==> genome-2
+
+Contigs:
+  Pre-processing...
+  1  /homee/liaoxingyu/ARC-Multi-master/AssemblyResults/Abyss/before/contigs2.fa ==> before_contigs2
+  2  /homee/liaoxingyu/ARC-Multi-master/AssemblyResults/Abyss/after+filter/contigs2.fa ==> after+filter_contigs2
+  3  /homee/liaoxingyu/ARC-Multi-master/AssemblyResults/Abyss/before/scaffolds2.fa ==> before_scaffolds2
+  4  /homee/liaoxingyu/ARC-Multi-master/AssemblyResults/Abyss/after+filter/scaffolds2.fa ==> after+filter_scaffolds2
+
+2017-08-26 17:04:47
+Running Basic statistics processor...
+  Reference genome:
+    genome-2.fasta, Reference length = 4628173, Reference GC % = 68.77
+  Contig files: 
+    1  before_contigs2
+    2  after+filter_contigs2
+    3  before_scaffolds2
+    4  after+filter_scaffolds2
+  Calculating N50 and L50...
+    1  before_contigs2, N50 = 12060, L50 = 112, Total length = 4589102, GC % = 68.65, # N's per 100 kbp =  9.72
+    2  after+filter_contigs2, N50 = 49454, L50 = 31, Total length = 4713340, GC % = 68.68, # N's per 100 kbp =  3.08
+    3  before_scaffolds2, N50 = 24781, L50 = 59, Total length = 4612405, GC % = 68.66, # N's per 100 kbp =  199.09
+    4  after+filter_scaffolds2, N50 = 81241, L50 = 17, Total length = 4716108, GC % = 68.68, # N's per 100 kbp =  32.38
+Done.
+
+2017-08-26 17:04:49
+Running Contig analyzer...
+  2  after+filter_contigs2
+  2  Logging to files /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/contigs_report_after+filter_contigs2.stdout and contigs_report_after+filter_contigs2.stderr...
+  2  Aligning contigs to the reference
+  3  before_scaffolds2
+  2  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/nucmer -c 65 -l 65 --maxmatch \
+     -p FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_contigs2 -t \
+     1 FinalResults/Abyss/quast_corrected_input/genome-2.fasta FinalResults/Abyss/quast_corrected_input/after_filter_contigs2.fa \
+     >> FinalResults/Abyss/contigs_reports/contigs_report_after+filter_contigs2.stdout \
+     2>> FinalResults/Abyss/contigs_reports/contigs_report_after+filter_contigs2.stderr
+  1  before_contigs2
+  3  Logging to files /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/contigs_report_before_scaffolds2.stdout and contigs_report_before_scaffolds2.stderr...
+  1  Logging to files /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/contigs_report_before_contigs2.stdout and contigs_report_before_contigs2.stderr...
+  3  Aligning contigs to the reference
+  3  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/nucmer -c 65 -l 65 --maxmatch \
+     -p FinalResults/Abyss/contigs_reports/nucmer_output/before_scaffolds2 -t 1 FinalResults/Abyss/quast_corrected_input/genome-2.fasta \
+     FinalResults/Abyss/quast_corrected_input/before_scaffolds2.fa >> FinalResults/Abyss/contigs_reports/contigs_report_before_scaffolds2.stdout \
+     2>> FinalResults/Abyss/contigs_reports/contigs_report_before_scaffolds2.stderr
+  1  Aligning contigs to the reference
+  1  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/nucmer -c 65 -l 65 --maxmatch \
+     -p FinalResults/Abyss/contigs_reports/nucmer_output/before_contigs2 -t 1 FinalResults/Abyss/quast_corrected_input/genome-2.fasta \
+     FinalResults/Abyss/quast_corrected_input/before_contigs2.fa >> FinalResults/Abyss/contigs_reports/contigs_report_before_contigs2.stdout \
+     2>> FinalResults/Abyss/contigs_reports/contigs_report_before_contigs2.stderr
+  4  after+filter_scaffolds2
+  4  Logging to files /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/contigs_report_after+filter_scaffolds2.stdout and contigs_report_after+filter_scaffolds2.stderr...
+  4  Aligning contigs to the reference
+  4  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/nucmer -c 65 -l 65 --maxmatch \
+     -p FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_scaffolds2 -t \
+     1 FinalResults/Abyss/quast_corrected_input/genome-2.fasta FinalResults/Abyss/quast_corrected_input/after_filter_scaffolds2.fa \
+     >> FinalResults/Abyss/contigs_reports/contigs_report_after+filter_scaffolds2.stdout \
+     2>> FinalResults/Abyss/contigs_reports/contigs_report_after+filter_scaffolds2.stderr
+  3  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/delta-filter -i 95.0 -l 0 FinalResults/Abyss/contigs_reports/nucmer_output/before_scaffolds2.delta \
+     > FinalResults/Abyss/contigs_reports/nucmer_output/before_scaffolds2.fdelta 2> \
+     FinalResults/Abyss/contigs_reports/contigs_report_before_scaffolds2.stderr
+  3  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-coords FinalResults/Abyss/contigs_reports/nucmer_output/before_scaffolds2.delta \
+     > FinalResults/Abyss/contigs_reports/nucmer_output/before_scaffolds2.coords_tmp \
+     2> FinalResults/Abyss/contigs_reports/contigs_report_before_scaffolds2.stderr
+  3  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-snps -S -T -H FinalResults/Abyss/contigs_reports/nucmer_output/before_scaffolds2.delta \
+     < FinalResults/Abyss/contigs_reports/nucmer_output/before_scaffolds2.coords.headless \
+     > FinalResults/Abyss/contigs_reports/nucmer_output/before_scaffolds2.all_snps \
+     2> FinalResults/Abyss/contigs_reports/contigs_report_before_scaffolds2.stderr
+  1  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/delta-filter -i 95.0 -l 0 FinalResults/Abyss/contigs_reports/nucmer_output/before_contigs2.delta \
+     > FinalResults/Abyss/contigs_reports/nucmer_output/before_contigs2.fdelta 2> \
+     FinalResults/Abyss/contigs_reports/contigs_report_before_contigs2.stderr
+  1  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-coords FinalResults/Abyss/contigs_reports/nucmer_output/before_contigs2.delta \
+     > FinalResults/Abyss/contigs_reports/nucmer_output/before_contigs2.coords_tmp \
+     2> FinalResults/Abyss/contigs_reports/contigs_report_before_contigs2.stderr
+  1  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-snps -S -T -H FinalResults/Abyss/contigs_reports/nucmer_output/before_contigs2.delta \
+     < FinalResults/Abyss/contigs_reports/nucmer_output/before_contigs2.coords.headless \
+     > FinalResults/Abyss/contigs_reports/nucmer_output/before_contigs2.all_snps 2> \
+     FinalResults/Abyss/contigs_reports/contigs_report_before_contigs2.stderr
+  4  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/delta-filter -i 95.0 -l 0 FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_scaffolds2.delta \
+     > FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_scaffolds2.fdelta \
+     2> FinalResults/Abyss/contigs_reports/contigs_report_after+filter_scaffolds2.stderr
+  4  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-coords FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_scaffolds2.delta \
+     > FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_scaffolds2.coords_tmp \
+     2> FinalResults/Abyss/contigs_reports/contigs_report_after+filter_scaffolds2.stderr
+  4  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-snps -S -T -H FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_scaffolds2.delta \
+     < FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_scaffolds2.coords.headless \
+     > FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_scaffolds2.all_snps \
+     2> FinalResults/Abyss/contigs_reports/contigs_report_after+filter_scaffolds2.stderr
+  2  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/delta-filter -i 95.0 -l 0 FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_contigs2.delta \
+     > FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_contigs2.fdelta \
+     2> FinalResults/Abyss/contigs_reports/contigs_report_after+filter_contigs2.stderr
+  2  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-coords FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_contigs2.delta \
+     > FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_contigs2.coords_tmp \
+     2> FinalResults/Abyss/contigs_reports/contigs_report_after+filter_contigs2.stderr
+  2  /home/liaoxingyu/quast-4.3/quast_libs/E-MEM-linux/show-snps -S -T -H FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_contigs2.delta \
+     < FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_contigs2.coords.headless \
+     > FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_contigs2.all_snps \
+     2> FinalResults/Abyss/contigs_reports/contigs_report_after+filter_contigs2.stderr
+  1  Alignments: FinalResults/Abyss/contigs_reports/alignments_before_contigs2.tsv
+  1  Analysis is finished.
+
+  Gzipping /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/nucmer_output/before_contigs2.all_snps to reduce disk space usage...
+    saved to /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/nucmer_output/before_contigs2.all_snps.gz
+  3  Alignments: FinalResults/Abyss/contigs_reports/alignments_before_scaffolds2.tsv
+  3  Analysis is finished.
+
+  Gzipping /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/nucmer_output/before_scaffolds2.all_snps to reduce disk space usage...
+    saved to /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/nucmer_output/before_scaffolds2.all_snps.gz
+  4  Alignments: FinalResults/Abyss/contigs_reports/alignments_after+filter_scaffolds2.tsv
+  4  Analysis is finished.
+
+  Gzipping /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_scaffolds2.all_snps to reduce disk space usage...
+    saved to /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_scaffolds2.all_snps.gz
+  2  Alignments: FinalResults/Abyss/contigs_reports/alignments_after+filter_contigs2.tsv
+  2  Analysis is finished.
+
+  Gzipping /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_contigs2.all_snps to reduce disk space usage...
+    saved to /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/nucmer_output/after+filter_contigs2.all_snps.gz
+  Creating total report...
+    saved to /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+Done.
+
+2017-08-26 17:05:03
+Running NA-NGA calculation...
+  1  before_contigs2, Largest alignment = 50428, NA50 = 12060, NGA50 = 12041, LA50 = 112, LGA50 = 114
+  2  after+filter_contigs2, Largest alignment = 133505, NA50 = 45350, NGA50 = 48784, LA50 = 32, LGA50 = 31
+  3  before_scaffolds2, Largest alignment = 104992, NA50 = 24781, NGA50 = 24781, LA50 = 59, LGA50 = 59
+  4  after+filter_scaffolds2, Largest alignment = 266066, NA50 = 81241, NGA50 = 81241, LA50 = 17, LGA50 = 17
+Done.
+
+2017-08-26 17:05:03
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  1  before_contigs2
+  2  after+filter_contigs2
+  3  before_scaffolds2
+  4  after+filter_scaffolds2
+  3  Analysis is finished.
+  1  Analysis is finished.
+  4  Analysis is finished.
+  2  Analysis is finished.
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2017-08-26 17:05:07
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 1: Creating Icarus viewers...
+Done
+
+2017-08-26 17:05:08
+RESULTS:
+  Text versions of total report are saved to /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/report.html
+  Icarus (contig browser) is saved to /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/icarus.html
+  Log saved to /homee/liaoxingyu/ARC-Multi-master/FinalResults/Abyss/quast.log
+
+Finished: 2017-08-26 17:05:08
+Elapsed time: 0:00:21.446847
+NOTICEs: 5; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

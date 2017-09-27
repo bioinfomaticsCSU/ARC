@@ -1,0 +1,13 @@
+Datasets: Staphy lococcus aureus
+Link:http://gage.cbcb.umd.edu/data/Staphylococcus_aureus/
+Genome size(Mbp):2.9
+lib1: 
+     Read length(bp):101
+	 Number of reads:3866931
+     Coverage:~134
+	 InsertSize:180
+lib2:
+     Read length(bp):37
+	 Number of reads:10415906
+     Coverage:~132
+	 InsertSize:3500

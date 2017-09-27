@@ -1,0 +1,51 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assemblies before_scaffolds2, after+filter_scaffolds2 contain continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly                     before_contigs2  after+filter_contigs2  before_scaffolds2  after+filter_scaffolds2
+# contigs (>= 0 bp)          765              462                    389                395                    
+# contigs (>= 1000 bp)       582              195                    308                134                    
+# contigs (>= 5000 bp)       296              137                    207                94                     
+# contigs (>= 10000 bp)      156              115                    157                80                     
+# contigs (>= 25000 bp)      26               65                     58                 52                     
+# contigs (>= 50000 bp)      1                27                     10                 27                     
+Total length (>= 0 bp)       4616214          4781227                4625064            4782609                
+Total length (>= 1000 bp)    4527999          4695381                4589878            4698880                
+Total length (>= 5000 bp)    3787229          4540030                4301050            4599996                
+Total length (>= 10000 bp)   2777768          4384168                3936986            4507781                
+Total length (>= 25000 bp)   835014           3522981                2294798            4004817                
+Total length (>= 50000 bp)   50428            2160157                698079             3083687                
+# contigs                    666              223                    340                161                    
+Largest contig               50428            133506                 104992             266113                 
+Total length                 4589102          4713340                4612405            4716108                
+Reference length             4628173          4628173                4628173            4628173                
+GC (%)                       68.65            68.68                  68.66              68.68                  
+Reference GC (%)             68.77            68.77                  68.77              68.77                  
+N50                          12060            49454                  24781              81241                  
+NG50                         12041            49454                  24781              86865                  
+N75                          6772             24234                  14583              37155                  
+NG75                         6616             26673                  14455              39428                  
+L50                          112              31                     59                 17                     
+LG50                         114              31                     59                 16                     
+L75                          237              66                     118                38                     
+LG75                         241              64                     119                36                     
+# misassemblies              2                9                      4                  10                     
+# misassembled contigs       2                9                      4                  8                      
+Misassembled contigs length  14418            178228                 52533              259313                 
+# local misassemblies        0                5                      1                  8                      
+# unaligned contigs          0 + 2 part       0 + 3 part             0 + 2 part         0 + 5 part             
+Unaligned length             78               53                     178                578                    
+Genome fraction (%)          98.192           99.650                 98.685             99.669                 
+Duplication ratio            1.010            1.022                  1.010              1.022                  
+# N's per 100 kbp            9.72             3.08                   199.09             32.38                  
+# mismatches per 100 kbp     16.83            16.93                  18.96              17.62                  
+# indels per 100 kbp         18.37            5.33                   25.79              6.48                   
+Largest alignment            50428            133505                 104992             266066                 
+Total aligned length         4588771          4712886                4611725            4713766                
+NA50                         12060            45350                  24781              81241                  
+NGA50                        12041            48784                  24781              81241                  
+NA75                         6732             24234                  14326              34318                  
+NGA75                        6524             26335                  14253              37155                  
+LA50                         112              32                     59                 17                     
+LGA50                        114              31                     59                 17                     
+LA75                         237              67                     119                39                     
+LGA75                        242              65                     120                37                     

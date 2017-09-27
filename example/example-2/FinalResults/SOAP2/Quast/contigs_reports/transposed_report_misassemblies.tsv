@@ -1,0 +1,5 @@
+Assembly	# misassemblies	    # relocations	    # translocations	    # inversions	# misassembled contigs	Misassembled contigs length	# local misassemblies	# mismatches	# indels	    # indels (<= 5 bp)	    # indels (> 5 bp)	Indels length
+before2	0	0	0	0	0	0	8	527	154	19	135	4869
+afterfilter2	3	2	1	0	3	52105	27	799	468	88	380	13711
+before2.scafSeq	0	0	0	0	0	0	10	669	575	57	518	18098
+afterfilter2.scafSeq	3	2	1	0	3	122705	33	875	771	132	639	22502

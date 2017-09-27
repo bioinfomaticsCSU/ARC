@@ -1,0 +1,11 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assemblies before_scaffolds2, after+filter_scaffolds2 contain continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly                          before_contigs2  after+filter_contigs2  before_scaffolds2  after+filter_scaffolds2
+# fully unaligned contigs         0                0                      0                  0                      
+Fully unaligned length            0                0                      0                  0                      
+# partially unaligned contigs     2                3                      2                  5                      
+    # with misassembly            0                0                      0                  0                      
+    # both parts are significant  0                0                      0                  0                      
+Partially unaligned length        78               53                     178                578                    
+# N's                             446              145                    9183               1527                   

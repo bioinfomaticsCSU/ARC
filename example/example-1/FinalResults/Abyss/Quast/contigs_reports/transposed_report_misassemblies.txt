@@ -1,0 +1,8 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+Suggestion: assemblies before_contigs, after+filter_contigs, before_scaffolds, after+filter_scaffolds contain continuous fragments of N's of length >= 10 bp. You may consider rerunning QUAST using --scaffolds (-s) option!
+
+Assembly                # misassemblies      # relocations      # translocations      # inversions  # misassembled contigs  Misassembled contigs length  # local misassemblies  # mismatches  # indels      # indels (<= 5 bp)      # indels (> 5 bp)  Indels length
+before_contigs          0                0                  0                     0                 0                       0                            0                      343           32        24                      8                      223          
+after+filter_contigs    0                0                  0                     0                 0                       0                            0                      343           32        24                      8                      223          
+before_scaffolds        4                4                  0                     0                 4                       116728                       2                      354           39        26                      13                     525          
+after+filter_scaffolds  7                7                  0                     0                 6                       397541                       21                     350           87        24                      63                     3337         
