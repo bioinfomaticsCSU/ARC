@@ -87,12 +87,19 @@ The user can modify the system environment variables with the following commands
 sudo vim /etc/profile
 
 export JAVA_HOME="/usr/local/jdk1.8.0_20/bin"
+
 export Bless_HOME="/home/.../Bless"
+
 export DSK_HOME="/home/.../dsk-2.1.0-Linux/bin"
+
 export PERL5LIB=$PERL5LIB:/home/.../amos-3.1.0/lib/" 
+
 export SOAPdenovo2_HOME="/home/.../SOAPdenovo2-master"
+
 export Abyss_HOME="/home/.../abyss/bin"
+
 export Quast_HOME="/home/.../quast-4.3"
+
 export PATH="$JAVA_HOME:$SOAPdenovo2_HOME:$Bless_HOME:$Bowtie_Home:$DSK_HOME:$Abyss_HOME:$Quast_HOME:$PATH"
 
 source /etc/profile

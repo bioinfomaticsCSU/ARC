@@ -1,1 +1,1 @@
-This folder is used to store reference sequence(***.fa).
+This folder is used to store the reference sequence(***.fa).

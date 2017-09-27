@@ -1,1 +1,1 @@
-This folder is used to store the config files for SOAP2(***.lib).
+This folder is used to store the config files for SOAP2 assembly(***.lib).

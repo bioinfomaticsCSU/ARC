@@ -1,0 +1,1 @@
+This folder is used to store the assembly results of SOAP2(***.fa).
