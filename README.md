@@ -260,5 +260,5 @@ Thus, installation is not required.
 	
 #### The final quast evaluation results.
  
-    The final quast evaluation results of SOAP2 and SOAP2+ARC will be stored in "/home/liaoxingyu/ARC-master/FinalResults/SOAP2/Quast/".
-    The final quast evaluation results of Abyss and Abyss+ARC will be stored in "/home/liaoxingyu/ARC-master/FinalResults/Abyss/Quast/").
+    The final quast evaluation results of SOAP2 and SOAP2+ARC will be stored in "/home/.../ARC-master/FinalResults/SOAP2/Quast/".
+    The final quast evaluation results of Abyss and Abyss+ARC will be stored in "/home/.../ARC-master/FinalResults/Abyss/Quast/").
