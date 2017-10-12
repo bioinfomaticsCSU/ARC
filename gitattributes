@@ -1,3 +1,5 @@
 *.java linguist-language=java
 *.class linguist-language=java
 *.html linguist-language=java
+*.cc linguist-language=java
+*.hh linguist-language=java
