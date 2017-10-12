@@ -209,6 +209,7 @@ Thus, installation is not required.
     #reference_path
     reference_name=genome_2.fasta
 	
+	
 	* 'Read_short_length': The average length of reads in the first library(paired-end reads).
     * 'Read_shortjump_length': The average length of reads in the second library(mate-paired reads).If there is no the second library,the value of it is marked with "*".
 	* 'Read_longjump_length': The average length of reads in the third library(mate-paired reads).If there is no the third library,the value of it is marked with "*".
