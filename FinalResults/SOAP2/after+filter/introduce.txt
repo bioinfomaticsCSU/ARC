@@ -1,0 +1,1 @@
+This folder is used to store the final results of SOAP2 combining with ARC(***.fa).

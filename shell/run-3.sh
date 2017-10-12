@@ -644,8 +644,8 @@ echo  "*************************************************************************
 echo  " "
 echo  "*****************************************************************************"
 echo  "Step-9:Quast test"
-quast.py  $home/AssemblyResults/SOAP2/before/before2.contig  $home/AssemblyResults/SOAP2/after+filter/afterfilter2.contig   $home/AssemblyResults/SOAP2/before/before2.scafSeq    $home/AssemblyResults/SOAP2/after+filter/afterfilter2.scafSeq -R $reference_path -o $home/FinalResults/SOAP2/Quast/
-quast.py  $home/AssemblyResults/Abyss/before/contigs2.fa  $home/AssemblyResults/Abyss/after+filter/contigs2.fa   $home/AssemblyResults/Abyss/before/scaffolds2.fa  $home/AssemblyResults/Abyss/after+filter/scaffolds2.fa -R $reference_path -o $home/FinalResults/Abyss/Quast/
+quast.py  $home/AssemblyResults/SOAP2/before/before2.contig  $home/AssemblyResults/SOAP2/after+filter/afterfilter2.contig   $home/AssemblyResults/SOAP2/before/before2.scafSeq    $home/AssemblyResults/SOAP2/after+filter/afterfilter2.scafSeq -R $home/Reference/$reference_name -o $home/FinalResults/SOAP2/Quast/
+quast.py  $home/AssemblyResults/Abyss/before/contigs2.fa  $home/AssemblyResults/Abyss/after+filter/contigs2.fa   $home/AssemblyResults/Abyss/before/scaffolds2.fa  $home/AssemblyResults/Abyss/after+filter/scaffolds2.fa -R $home/Reference/$reference_name -o $home/FinalResults/Abyss/Quast/
 echo  " "
 echo  "*****************************************************************************"
 ####################################################################################

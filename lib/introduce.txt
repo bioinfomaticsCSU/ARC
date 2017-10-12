@@ -1,1 +1,1 @@
-This folder is used to store lib files(***.fq).
+This folder is used to store library files(***.fq).

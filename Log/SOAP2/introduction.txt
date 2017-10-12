@@ -1,1 +1,1 @@
-This folder is used to store the log file of SOAP2 assembly(***.log).
+This folder is used to store the log file of SOAP2(***.log).

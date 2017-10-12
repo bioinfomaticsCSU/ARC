@@ -1,1 +1,1 @@
-This folder is used to store the different read sets.
+This folder is used to store the different read sets that are formed after the classification.

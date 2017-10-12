@@ -52,9 +52,9 @@ error: initializing argument 2 of 'int MPI_File_open(MPI_Comm, char*, int, MPI_I
 
 AMOS package makes use of Python and Perl (Practical Extraction and Report Language). Python and Perl are 
 available on most systems and the latest versions can be downloaded free of charge. AMOS requires Perl 
-version 5.6.0 or later. If `perl' or `python' are available from your system PATH, all is well, if not you 
-will need to instruct `configure' where they are located by setting the environment variable PERL and PYTHON 
-to the full path of `perl' and `python' respectively (see the Defining Variables section in the `INSTALL' file). 
+version 5.6.0 or later. If ‘perl’ or ‘python’ are available from your system PATH, all is well, if not you 
+will need to instruct ‘configure’ where they are located by setting the environment variable PERL and PYTHON 
+to the full path of ‘perl’ and ‘python’ respectively (see the Defining Variables section in the ‘INSTALL’ file). 
 Some Perl scripts in the AMOS package require additional modules that you should install:
 DBI (http://search.cpan.org/~timb/DBI/)
 Statistics::Descriptive (http://search.cpan.org/~shlomif/Statistics-Descriptive-3.0100/)
@@ -84,18 +84,18 @@ For specific installation methods,please read the README file of each tool caref
 ### 4)Add system environment variables
 The user can modify the system environment variables with the following commands:
 
-sudo vim /etc/profile
+    sudo vim /etc/profile
 
-export JAVA_HOME="/usr/local/jdk1.8.0_20/bin"
-export Bless_HOME="/home/.../Bless"
-export DSK_HOME="/home/.../dsk-2.1.0-Linux/bin"
-export PERL5LIB=$PERL5LIB:/home/.../amos-3.1.0/lib/" 
-export SOAPdenovo2_HOME="/home/.../SOAPdenovo2-master"
-export Abyss_HOME="/home/.../abyss/bin"
-export Quast_HOME="/home/.../quast-4.3"
-export PATH="$JAVA_HOME:$SOAPdenovo2_HOME:$Bless_HOME:$Bowtie_Home:$DSK_HOME:$Abyss_HOME:$Quast_HOME:$PATH"
+       export JAVA_HOME="/usr/local/jdk1.8.0_20/bin" 
+       export Bless_HOME="/home/.../Bless"
+       export DSK_HOME="/home/.../dsk-2.1.0-Linux/bin" 
+       export PERL5LIB=$PERL5LIB:/home/.../amos-3.1.0/lib/"  
+       export SOAPdenovo2_HOME="/home/.../SOAPdenovo2-master" 
+       export Abyss_HOME="/home/.../abyss/bin" 
+       export Quast_HOME="/home/.../quast-4.3"
+       export PATH="$JAVA_HOME:$SOAPdenovo2_HOME:$Bless_HOME:$Bowtie_Home:$DSK_HOME:$Abyss_HOME:$Quast_HOME:$PATH" 
 
-source /etc/profile
+    source /etc/profile
  
 ### 5)Install ARC
 
@@ -104,7 +104,7 @@ Thus, installation is not required.
 
 ### 6)Run ARC.
 
-#### Loading lib to ARC-master
+#### Load library files into ARC-master.
     
 	Before running ARC, we need to load the library files into lib folder under the ARC-master directory(/home/.../ARC-master/lib/).
 	
@@ -130,6 +130,14 @@ Thus, installation is not required.
 	/home/.../ARC-master/lib/shortjump_2.fastq (The right mate reads of the second library)
 	/home/.../ARC-master/lib/longjump_1.fastq (The left mate reads of the third library)
 	/home/.../ARC-master/lib/longjump_2.fastq (The right mate reads of the third library)
+
+#### Load the reference sequence file into ARC-master.
+
+    To provide unbiased benchmarks, we use evaluation tool Quast (Gurevich et al., 2013) for correction analysis. The process of evaluation requires the reference sequence, so we need to load the reference sequence file into "Reference" folder under the ARC-master directory(/home/.../ARC-master/Reference/). 
+	
+	For example:
+	
+	/home/.../ARC-master/Reference/reference.fa (reference.fa is the reference sequence file)
 	
 #### Edit the configuration:
     
@@ -199,7 +207,7 @@ Thus, installation is not required.
     #dsk_bin_path
     dsk_bin=/home/liaoxingyu/ClusterTool/dsk-2.1.0-Linux/bin
     #reference_path
-    reference_path=/homee/liaoxingyu/ARC-final-master/reference/genome_2.fasta
+    reference_name=genome_2.fasta
 	
 	* 'Read_short_length': The average length of reads in the first library(paired-end reads).
     * 'Read_shortjump_length': The average length of reads in the second library(mate-paired reads).If there is no the second library,the value of it is marked with "*".
@@ -228,7 +236,7 @@ Thus, installation is not required.
 	* 'Abyss_s' : The minimum unitig size required for building contigs(bp) in Abyss assembly (The default value is 100). ['100']
 	* 'Abyss_name' : The output prefix of Abyss.
 	* 'dsk_bin' : The path of the bin directory of dsk. eg: If dsk is stored in the directory of "/home/tool/", dsk_bin=/home/tool/dsk/bin.
-	* 'reference_path' : The storage directory of reference(only used in quast). eg: If reference file(reference.fa) is stored in the directory of "/home/tool/reference/", reference_path=/home/tool/reference/reference.fa.
+	* 'reference_name' : The name of the reference sequence file(only used in quast). eg: If the name of reference sequence file is "genome-1.fa", reference_name=genome-1.fa.
 
     
 #### Run the following command to start the ARC.
@@ -241,6 +249,7 @@ Thus, installation is not required.
 	cd ..
 	chmod -R 777  ARC-master
 	cd ARC-master
+	./run.sh
 
 ### 7)Output.
 

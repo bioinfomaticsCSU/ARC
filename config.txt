@@ -60,4 +60,4 @@ Abyss_name=liaoxingyu-3
 #dsk_bin_path
 dsk_bin=/home/liaoxingyu/ClusterTool/dsk-2.1.0-Linux/bin
 #reference_path
-reference_path=/homee/liaoxingyu/ARC-master/reference/genome-2.fasta
+reference_name=genome-Rh.fasta
