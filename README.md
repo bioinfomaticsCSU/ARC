@@ -148,9 +148,9 @@ Thus, installation is not required.
     #read_short_length.
     Read_short_length=101 
     #read_shortjump_length
-    Read_shortjump_length=* 
+    Read_shortjump_length=*
     #read_longjump_length
-    Read_longjump_length=*   
+    Read_longjump_length=*
     ########################################################################
     #short_kmer_length_for_Bless.
     bless_short_kmerlength=71 
@@ -162,7 +162,7 @@ Thus, installation is not required.
     #kmer_length_for_dsk.
     dsk_kmerlength=11 
     #The_directory_where_ARC-master_is_located.
-    home=/home/liaoxingyu/ARC-master
+    home=/home/liaoxingyu/ARC-Multi-master
     #Abyss_bin_path.
     Abyss_bin=/home/liaoxingyu/abyss/bin 
     ########################################################################
@@ -209,7 +209,6 @@ Thus, installation is not required.
     #reference_path
     reference_name=genome_2.fasta
 	
-	
 	* 'Read_short_length': The average length of reads in the first library(paired-end reads).
     * 'Read_shortjump_length': The average length of reads in the second library(mate-paired reads).If there is no the second library,the value of it is marked with "*".
 	* 'Read_longjump_length': The average length of reads in the third library(mate-paired reads).If there is no the third library,the value of it is marked with "*".
@@ -237,7 +236,7 @@ Thus, installation is not required.
 	* 'Abyss_s' : The minimum unitig size required for building contigs(bp) in Abyss assembly (The default value is 100). ['100']
 	* 'Abyss_name' : The output prefix of Abyss.
 	* 'dsk_bin' : The path of the bin directory of dsk. eg: If dsk is stored in the directory of "/home/tool/", dsk_bin=/home/tool/dsk/bin.
-	* 'reference_name' : The name of the reference sequence file(only used in quast). eg: If the name of reference sequence file is "genome-2.fa", reference_name=genome-2.fa.
+	* 'reference_name' : The name of the reference sequence file(only used in quast). eg: If the name of reference sequence file is "genome-1.fa", reference_name=genome-1.fa.
 
     
 #### Run the following command to start the ARC.

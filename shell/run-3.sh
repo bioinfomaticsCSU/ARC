@@ -212,8 +212,10 @@ rm -rf $home/AssemblyResults/Abyss/before/*
 rm -rf $home/AssemblyResults/Abyss/filter/*
 rm -rf $home/AssemblyResults/Abyss/after+filter/*
 #quast
-rm -rf $home/FinalResults/Abyss/*
-rm -rf $home/FinalResults/SOAP2/*
+rm -rf $home/FinalResults/Abyss/before/*
+rm -rf $home/FinalResults/Abyss/after+filter/*
+rm -rf $home/FinalResults/SOAP2/before/*
+rm -rf $home/FinalResults/SOAP2/after+filter/*
 #NormalReadPartitions
 rm -rf $home/NormalReadPartitions/*
 #KmerFreStatics
