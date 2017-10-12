@@ -146,8 +146,8 @@ for ((i=0;i<${#arra[@]};i++))
     if [ $i = 45 ] 
     then 
        var=`echo "${arra[$i]}"|awk -F '=' '{print $2}' `
-       reference_path=$var
-       echo "reference_path="$var
+       reference_name=$var
+       echo "reference_name="$var
     fi
 done
 #Generate SOAP2 Config files.
@@ -225,11 +225,11 @@ for ((i1=0;i1<${#arra1[@]};i1++))
        if [ ${arra1[$i1]} = 1 ] 
        then
           echo  " "
-          echo  "---> All reads in $lib1_left_name is equal in length! Bless working!"
+          echo  "---> All reads in lib1_left is equal in length! Bless working!"
           echo  "---> Bless lib1 left."
           bless  -read $home/lib/$lib1_left_name.fastq  -prefix  $home/lib/$lib1_left_name  -kmerlength  $bless_short_kmerlength
        else
-          echo  "The length of reads in $lib1_left_name is not equal"
+          echo  "The length of reads in lib1_left is not equal"
           echo  "Bless can not work! The system jumps to no error correction mode now......."
           cp $home/lib/$lib1_left_name.fastq $home/lib/$lib1_left_name.corrected.fastq
        fi
@@ -239,11 +239,11 @@ for ((i1=0;i1<${#arra1[@]};i1++))
        if [ ${arra1[$i1]} = 1 ] 
        then
           echo  " "
-          echo  "---> All reads in $lib1_right_name is equal in length! Bless working!"
+          echo  "---> All reads in lib1_right is equal in length! Bless working!"
           echo  "---> Bless lib1 right."
           bless  -read $home/lib/$lib1_right_name.fastq -prefix  $home/lib/$lib1_right_name  -kmerlength  $bless_short_kmerlength
        else
-          echo  "The length of reads in $lib1_right_name is not equal"
+          echo  "The length of reads in lib1_right is not equal"
           echo  "Bless can not work! The system jumps to no error correction mode now......."
           cp $home/lib/$lib1_right_name.fastq $home/lib/$lib1_right_name.corrected.fastq
        fi
@@ -253,11 +253,11 @@ for ((i1=0;i1<${#arra1[@]};i1++))
        if [ ${arra1[$i1]} = 1 ]
        then
           echo  " "
-          echo  "---> All reads in $lib2_left_name is equal in length! Bless working!"
+          echo  "---> All reads in lib2_left is equal in length! Bless working!"
           echo  "---> Bless lib2 left."
           bless  -read $home/lib/$lib2_left_name.fastq  -prefix  $home/lib/$lib2_left_name  -kmerlength  $bless_jump_kmerlength
        else
-          echo  "The length of reads in $lib2_left_name is not equal"
+          echo  "The length of reads in lib2_left is not equal"
           echo  "Bless can not work! The system jumps to no error correction mode now......."
           cp $home/lib/$lib2_left_name.fastq $home/lib/$lib2_left_name.corrected.fastq
        fi
@@ -267,11 +267,11 @@ for ((i1=0;i1<${#arra1[@]};i1++))
        if [ ${arra1[$i1]} = 1 ]
        then
           echo  " "
-          echo  "---> All reads in $lib2_right_name is equal in length! Bless working!"
+          echo  "---> All reads in lib2_right is equal in length! Bless working!"
           echo  "---> Bless lib2 right."
           bless  -read $home/lib/$lib2_right_name.fastq -prefix  $home/lib/$lib2_right_name  -kmerlength  $bless_jump_kmerlength
        else
-          echo  "The length of reads in $lib2_right_name is not equal"
+          echo  "The length of reads in lib2_right is not equal"
           echo  "Bless can not work! The system jumps to no error correction mode now......."
           cp $home/lib/$lib2_right_name.fastq $home/lib/$lib2_right_name.corrected.fastq
        fi

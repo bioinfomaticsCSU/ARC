@@ -181,8 +181,8 @@ for ((i=0;i<${#arra[@]};i++))
     if [ $i = 62 ] 
     then 
        var=`echo "${arra[$i]}"|awk -F '=' '{print $2}' `
-       reference_path=$var
-       echo "reference_path="$var
+       reference_name=$var
+       echo "reference_name="$var
     fi
 done
 #Generate Config files.
@@ -223,7 +223,7 @@ Abyss_name=$Abyss_name
 #
 dsk_bin=$dsk_bin
 #
-reference_path=$reference_path"
+reference_name=$reference_name"
 	 echo -e "$string" > Run-config.txt
      echo "shell-1 running"
      $home/shell/run-1.sh
@@ -274,7 +274,7 @@ Abyss_name=$Abyss_name
 #
 dsk_bin=$dsk_bin
 #
-reference_path=$reference_path"
+reference_name=$reference_name"
 	 echo -e "$string" > Run-config.txt
      echo "shell-2 running"
      $home/shell/run-2.sh
@@ -335,7 +335,7 @@ Abyss_name=$Abyss_name
 #
 dsk_bin=$dsk_bin
 #
-reference_path=$reference_path"
+reference_name=$reference_name"
 	 echo -e "$string" > Run-config.txt
      echo "shell-3 running"
      $home/shell/run-3.sh

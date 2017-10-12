@@ -115,8 +115,8 @@ for ((i=0;i<${#arra[@]};i++))
     if [ $i = 35 ] 
     then 
        var=`echo "${arra[$i]}"|awk -F '=' '{print $2}' `
-       reference_path=$var
-       echo "reference_path="$var
+       reference_name=$var
+       echo "reference_name="$var
     fi
 done
 #Generate SOAP2 Config files.
@@ -188,7 +188,7 @@ for ((i1=0;i1<${#arra1[@]};i1++))
        if [ ${arra1[$i1]} = 1 ] 
        then
           echo  " "
-          echo  "---> All reads in $lib1_left_name is equal in length! Bless working!"
+          echo  "---> All reads in lib1_left is equal in length! Bless working!"
           echo  "---> Bless lib1 left."
           bless  -read $home/lib/$lib_left_name.fastq  -prefix  $home/lib/$lib_left_name  -kmerlength  $bless_kmerlength
        else
@@ -202,7 +202,7 @@ for ((i1=0;i1<${#arra1[@]};i1++))
        if [ ${arra1[$i1]} = 1 ] 
        then
           echo  " "
-          echo  "---> All reads in $lib1_right_name is equal in length! Bless working!"
+          echo  "---> All reads in lib1_right is equal in length! Bless working!"
           echo  "---> Bless lib1 right."
           bless  -read $home/lib/$lib_right_name.fastq -prefix  $home/lib/$lib_right_name  -kmerlength  $bless_kmerlength
        else
