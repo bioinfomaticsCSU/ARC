@@ -86,6 +86,8 @@ The user can modify the system environment variables with the following commands
 
     sudo vim /etc/profile
 
+	   export PERL5LIB=$PERL5LIB:/home/.../amos-3.1.0/lib
+	   
        export JAVA_HOME="/usr/local/jdk1.8.0_20/bin" 
        export Bless_HOME="/home/.../Bless"
        export DSK_HOME="/home/.../dsk-2.1.0-Linux/bin" 
